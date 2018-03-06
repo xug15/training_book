@@ -1,3 +1,35 @@
-# My Awesome Book
+# Training Program @ Lu Lab
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+3-month training of bioinformatics for Precision Medicine
+
+
+
+### Schedule - 2018 Spring:
+
+#### Basic Skills  -- 1st Month
+
+1. **Linux Basics **- How to do our jobs efficiently and reproducibly? 
+2. **R Basics** - How to make professional and beautiful plots?
+3. **Perl/Python **- How to program?
+4. Basic Bioinfo Tools for NGS
+   1. Mapping and Annotation
+   2. Differential Expression Analysis
+
+#### Advanced Skills  -- 2nd Month
+
+1. **R Basics** - How to make professional and beautiful plots?
+2. **Perl/Python **- How to program?
+3. Basic Bioinfo Tools for NGS
+   1. Mapping and Annotation
+   2. Differential Expression Analysis
+
+#### Advanced Skills  -- 2nd Month
+
+1. **R Basics** - How to make professional and beautiful plots?
+2. **Perl/Python **- How to program?
+3. Basic Bioinfo Tools for NGS
+   1. Mapping and Annotation
+   2. Differential Expression Analysis
+
+
+
