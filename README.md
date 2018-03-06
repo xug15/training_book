@@ -10,8 +10,8 @@
 
 ---
 
-1. 文档通过 gitbook共享：https://www.gitbook.com/book/lulab/bioinfo-training
-2. code通过github共享： https://github.com/lulab/training
+1. 文档通过 gitbook共享：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
+2. code通过github共享： [https://github.com/lulab/training](https://github.com/lulab/training)
 3. ppt等文件通过Google Drive共享： Lu Lab Shared/2.Literature Reading and Experience Sharing/Training 
 
 ### Schedule - 2018 Spring:
@@ -24,25 +24,19 @@
 2. **Linux Basics **- How to work with command lines
 3. **R Basics** - How to make professional and beautiful plots
 4. **Perl/Python **- How to program
-5. **Basic Bioinfo Tools for NGS**
-   1. Mapping and Annotation
-   2. Differential Expression Analysis
 
-#### Advanced Skills  -- 2nd Month
+#### Basic Bioinfo Analysis  -- 2nd Month
 
-1. **R Basics** - How to make professional and beautiful plots?
-2. **Perl/Python **- How to program?
-3. Basic Bioinfo Tools for NGS
-   1. Mapping and Annotation
-   2. Differential Expression Analysis
+1. **Mapping and Annotation**
+2. **Differential Expression Analysis**
+3. **Clustering**
+4. Nomalization 
+5. Imputation
 
-#### Advanced Skills  -- 2nd Month
+#### Advanced Bioinfo Analysis  -- 3rd Month
 
-1. **R Basics** - How to make professional and beautiful plots?
-2. **Perl/Python **- How to program?
-3. Basic Bioinfo Tools for NGS
-   1. Mapping and Annotation
-   2. Differential Expression Analysis
+1. **Machine Learning ** - How to train and test?
+2. **Feature Selection**
 
 
 
