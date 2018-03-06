@@ -2,7 +2,7 @@
 
 3-month training of bioinformatics for Precision Medicine
 
-> Topic: \[精准医疗\] Identify novel exRNA biomarker for cancer diagnosis;
+> Topic: \[精准医疗\] **Identify novel exRNA biomarker for cancer diagnosis**;
 >
 > Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)的本科生和低年级研究生;
 >
