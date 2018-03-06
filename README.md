@@ -2,7 +2,21 @@
 
 3-month training of bioinformatics for Precision Medicine
 
+> 从3月中开始，以精准医疗的项目为题，开始一个3个月的从零基础开始的traning，针对[我们实验室](http://bioinfo.life.tsinghua.edu.cn)的本科生和低年级研究生。
+>
+> Training从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
+
+### 学习材料
+
+---
+
+1. 文档通过 gitbook共享：https://www.gitbook.com/book/lulab/bioinfo-training
+2. code通过github共享： https://github.com/lulab/training
+3. ppt等文件通过Google Drive共享： Lu Lab Shared/2.Literature Reading and Experience Sharing/Training 
+
 ### Schedule - 2018 Spring:
+
+---
 
 #### Basic Skills  -- 1st Month
 
