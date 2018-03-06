@@ -22,14 +22,14 @@
 
 ---
 
-#### Basic Skills  -- Week 1-3
+#### I. Basic Skills  -- Week 1-3
 
 1. **Setup **- How to do our jobs efficiently and reproducibly 
 2. **Linux Basics **- How to work with command lines
 3. **R Basics** - How to make professional and beautiful plots
 4. **Perl/Python **- How to program
 
-#### Basic Bioinfo Analyses  -- Week 4-9
+#### II. Basic Bioinfo Analyses  -- Week 4-9
 
 1. **Mapping, Annotation **and** QC**
 2. **Differential Expression Analysis**
@@ -37,7 +37,7 @@
 4. **Normalization** 
 5. **Imputation**
 
-#### Advanced Bioinfo Analyses  -- Week 10-12
+#### III. Advanced Bioinfo Analyses  -- Week 10-12
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
