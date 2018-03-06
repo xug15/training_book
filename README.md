@@ -30,7 +30,7 @@
 1. **Mapping and Annotation**
 2. **Differential Expression Analysis**
 3. **Clustering**
-4. Nomalization 
+4. Nomarlization 
 5. Imputation
 
 #### Advanced Bioinfo Analysis  -- 3rd Month
