@@ -14,7 +14,7 @@
 
 ---
 
-1. 文档通过 gitbook共享：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
+1. document通过 gitbook共享：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. code通过github共享： [https://github.com/lulab/training](https://github.com/lulab/training)
 3. ppt等文件通过Google Drive共享： Lu Lab Shared/2.Literature Reading and Experience Sharing/Training 
 
@@ -24,10 +24,11 @@
 
 #### I. Basic Skills  -- Week 1-3
 
-1. **Setup **- How to do our jobs efficiently and reproducibly 
-2. **Linux Basics **- How to work with command lines
-3. **R Basics** - How to make professional and beautiful plots
-4. **Perl/Python **- How to program
+1. **Setup **- How to do  jobs efficiently and reproducibly 
+2. **Linux **- How to work with command lines
+3. **Bash** - How to set up multiple job as a pipeline
+4. **R** - How to make professional and beautiful plots
+5. **Perl/Python **- How to program
 
 #### II. Basic Bioinfo Analyses  -- Week 4-9
 
