@@ -16,7 +16,7 @@
 
 1. document通过 gitbook共享：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. code通过github共享： [https://github.com/lulab/training](https://github.com/lulab/training)
-3. ppt等文件通过Google Drive共享： https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU
+3. ppt等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 
 ### Schedule - 2018 Spring:
 
