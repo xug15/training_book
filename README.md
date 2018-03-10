@@ -4,7 +4,9 @@
 
 > Topic: \[精准医疗\] **Identify novel exRNA biomarker for cancer diagnosis**;
 >
-> Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)的本科生和低年级研究生;
+> Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)的本科生和低年级研究生;  
+>
+> Room Space: 10-15人
 >
 > Time:  ~3个月;
 >
