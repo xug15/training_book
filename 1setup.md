@@ -10,6 +10,8 @@ How to do our jobs efficiently and reproducibly
 
 ### 2\) VM & docker
 
+https://docs.docker.com/docker-for-mac/install/
+
 
 
 ### 3\) Readme
@@ -18,13 +20,7 @@ Document your project using markdown \(available in gitbook, github and youdao n
 
 ### 4\) crontab & backup
 
-
-
-
-
 ### 
-
-
 
 ### 
 
