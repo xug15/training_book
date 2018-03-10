@@ -8,17 +8,25 @@ How to do our jobs efficiently and reproducibly
 
 .bashrc
 
-### 2\) crontab & backup
+### 2\) VM & docker
 
 
 
-### 3\) VM & docker
+### 3\) Readme
+
+Document your project using markdown \(available in gitbook, github and youdao note, etc\)
+
+### 4\) crontab & backup
 
 
 
 
 
+### 
 
+
+
+### 
 
 
 
