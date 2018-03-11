@@ -2,15 +2,13 @@
 
 How to do our jobs efficiently and reproducibly
 
-
-
 ### 0\) Get a Laptop or Desktop
 
 ---
 
 [mac 使用技巧](https://www.evernote.com/l/ABIaUQq5Y4ZPv53w8iYevcDzHmCNY3AfIhU)
 
-### 
+
 
 ### 1\) Get a Linux OS
 
@@ -33,13 +31,11 @@ How to do our jobs efficiently and reproducibly
 #### A. **Vim** -- [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 > Learn [vim](http://www.vim.org/) and it will be your last text editor. There isn’t any better text editor that I know of. It is hard to learn, but incredible to use.I suggest you teach yourself Vim in 4 steps:
-
+>
 > 1. **Survive**
 > 2. Feel comfortable
 > 3. Feel Better, Stronger, Faster
 > 4. Use superpowers of vim
-
-
 
 #### B. **Atom -- **[Tutorial and Tips ](https://www.evernote.com/l/ABJeb9FdBc1BC6AZSgWh4Ujc_StdcFYl-kw)
 
@@ -96,9 +92,11 @@ echo "Backup end at:"
 date
 ```
 
-\(2\) Using "crontab" command to execute the backup script routinely, and record in a log file, for example, 
 
- execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
+
+\(2\) Using "crontab" command to execute the backup script routinely, and record in a log file, for example,
+
+execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
 
 ```
 1 ) open crontab and edit it by the following command: 
@@ -109,7 +107,7 @@ crontab -e
 
 # minute hour day_in_month month day_in_week command
      10   5  * * *   ~/backup.sh > ~/backup.log 
-     
+
 3) exit and save (like in VIM)
 ```
 
