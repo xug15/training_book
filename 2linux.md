@@ -1,4 +1,4 @@
-# 1. Linux
+# 2. Linux
 
 How to work with command lines
 

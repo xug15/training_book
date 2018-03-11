@@ -8,8 +8,6 @@ How to do our jobs efficiently and reproducibly
 
 [mac 使用技巧](https://www.evernote.com/l/ABIaUQq5Y4ZPv53w8iYevcDzHmCNY3AfIhU)
 
-
-
 ### 1\) Get a Linux OS
 
 ---
@@ -21,8 +19,6 @@ How to do our jobs efficiently and reproducibly
 #### 1b\) ssh & login
 
 .bashrc
-
-
 
 ### 2\) Learn an Editor
 
@@ -41,15 +37,11 @@ How to do our jobs efficiently and reproducibly
 
 > A hackable text editor for the 21st century
 
-
-
 ### 3\) README
 
 ---
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
-
-
 
 ### 4\)  backup & contab
 
@@ -92,14 +84,12 @@ echo "Backup end at:"
 date
 ```
 
-
-
 \(2\) Using "crontab" command to execute the backup script routinely, and record in a log file, for example,
 
 execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
 
 ```
-1 ) open crontab and edit it by the following command: 
+1) open crontab and edit it by the following command: 
 
 crontab -e 
 
