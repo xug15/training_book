@@ -43,7 +43,7 @@ How to do our jobs efficiently and reproducibly
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-### 4\)  backup & contab
+### 4\)  backup & crontab
 
 ---
 

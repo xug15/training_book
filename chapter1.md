@@ -7,8 +7,6 @@
 1. google
 2. wikipedia
 
-
-
 ---
 
 **Week 1-3  Aim: these basic data skills give you freedom.**
