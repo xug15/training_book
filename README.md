@@ -73,9 +73,9 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 **Docker:**
 
-We also provide a Linux docker, ...
+We also provide a Linux docker \(https://...\), which is a modern solution of setting up a virtual Linux OS.
 
-### 
+
 
 ### Contributors
 
@@ -95,10 +95,10 @@ We also provide a Linux docker, ...
 
 | Mentor | Co-Mentor | Junior Students |
 | --- | --- | --- |
-| Yang Li |  |  |
-|  | Siqi Wang |  |
-| Binbin Shi |  |  |
-|  | Jingyi Cao |  |
+| Yang Li |  | - |
+|  | Siqi Wang | - |
+| Binbin Shi |  | - |
+|  | Jingyi Cao | - |
 
 ### 
 
