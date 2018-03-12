@@ -25,7 +25,7 @@ How to do our jobs efficiently and reproducibly
 >
 > This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
 >
-> You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom: 
+> You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom:
 >
 > * Transmit
 > * Fetch \(education version\)
@@ -120,6 +120,18 @@ crontab -e
 ```
 
 ### 6\)  github
+
+
+
+
+
+## More Readings
+
+---
+
+* &lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+
 
 
 
