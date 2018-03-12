@@ -18,7 +18,8 @@ How to do our jobs efficiently and reproducibly
 
 #### 1b\) ssh & login
 
-.bashrc
+* ssh/sftp -p XXX \(default: 22\)
+* ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
 
 ### 2\) Learn an Editor
 
@@ -37,13 +38,23 @@ How to do our jobs efficiently and reproducibly
 
 > A hackable text editor for the 21st century
 
-### 3\) README
+### 
+
+### 3\) README and MD
 
 ---
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-### 4\)  backup & crontab
+
+
+### 4\)  .bashrc and .bash\_profile
+
+---
+
+
+
+### 5\)  backup & crontab
 
 ---
 
@@ -100,6 +111,10 @@ crontab -e
 
 3) exit and save (like in VIM)
 ```
+
+
+
+### 6\)  github
 
 
 
