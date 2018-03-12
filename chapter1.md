@@ -9,7 +9,7 @@
 
 ---
 
-**Week 1-3  Aim: these basic data skills give you freedom.**
+### **Week 1-3  Aim: these basic data skills give you freedom.**
 
 > * Running bioinformatics software isn’t all that difficult, doesn’t take much skill, and it doesn’t embody any of the significant challenges of bioinformatics.…**These data skills give you freedom**…
 > * I believe these two qualities — **reproducibility** and **robustness.**
@@ -105,7 +105,36 @@
 > 25.5重点回顾
 > ```
 
-#### 上课讲义：
+### Week 2
 
+---
 
+#### 学习章节：
+
+1. **Bash** - How to set up multiple job as a pipeline
+2. **R** - How to make professional and beautiful plots
+
+#### 预习内容：
+
+1. 练习 
+
+### Week 3
+
+---
+
+#### 学习章节：
+
+1. **Perl and Python **- How to program
+
+#### 预习内容：
+
+1. 练习 
+
+---
+
+---
+
+#### 上课讲义下载：
+
+[https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 
