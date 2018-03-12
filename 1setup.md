@@ -2,6 +2,15 @@
 
 How to do our jobs efficiently and reproducibly
 
+### 写在前面的话
+
+今天，数据不是太少而是太大，信息不是匮乏而是繁杂，现代人的重要的能力是“挖掘”和“鉴别”。对生物信息学的工作而言，最重要的、最有用的工具一直是，我相信也会始终是：
+
+1. google
+2. wikipedia
+
+
+
 ### 0\) Get a Laptop or Desktop
 
 ---
