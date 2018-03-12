@@ -134,7 +134,7 @@
 
 ---
 
-#### 上课讲义下载：
+#### 上课讲义和相关书籍下载：
 
 [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 
