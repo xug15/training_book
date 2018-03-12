@@ -2,7 +2,7 @@
 
 3-month training of bioinformatics for Precision Medicine
 
-* Time:   每周四下午4-6pm （3.15.开始第一次）
+* Time:   每周四下午4-6pm （3.15.开始第一次）\([calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)\)
 * Class：生物技术馆一层2-105会议室 \([map](http://bioinfo.life.tsinghua.edu.cn/map)\)
 
 ### Program Summary
