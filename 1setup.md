@@ -21,6 +21,17 @@ How to do our jobs efficiently and reproducibly
 * ssh/sftp -p XXX \(default: 22\)
 * ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
 
+> _**Tips:**_
+>
+> This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
+>
+> You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom: 
+>
+> * Transmit
+> * Fetch \(education version\)
+
+### 
+
 ### 2\) Learn an Editor
 
 ---
@@ -46,13 +57,9 @@ How to do our jobs efficiently and reproducibly
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-
-
 ### 4\)  .bashrc and .bash\_profile
 
 ---
-
-
 
 ### 5\)  backup & crontab
 
@@ -111,8 +118,6 @@ crontab -e
 
 3) exit and save (like in VIM)
 ```
-
-
 
 ### 6\)  github
 
