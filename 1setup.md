@@ -14,7 +14,7 @@ How to do our jobs efficiently and reproducibly
 
 #### 1a\) docker or VM
 
-[https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
+[https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
 #### 1b\) ssh & login
 
@@ -71,9 +71,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 * No qlogin in ibmc 
 * Check qstat -u '\*' 
 
-
-
-### 5a\)  Secure your files
+### 6\)  Secure your files
 
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
@@ -82,7 +80,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ### 
 
-### 5b\)  backup 1：rsync & crontab
+### 7\)  backup data：rsync & crontab
 
 ---
 
@@ -140,7 +138,11 @@ crontab -e
 3) exit and save (like in VIM)
 ```
 
-### 5c\)  backup 2: github
+### 
+
+### 8\)  backup code: github
+
+
 
 
 
