@@ -23,9 +23,7 @@
 
 * **Study and Practice**
 
-这个理念将贯穿我们的这个training program。
-
-这个理念，用中国的哲学思想来说，就是：
+这个理念将贯穿我们的这个training program。这个理念，用中国的哲学思想来说，就是：
 
 * **知行合一**
 
@@ -63,15 +61,11 @@
 3. ppt等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
 
-
-
 ### 虚拟机
 
 ---
 
 We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
-
-
 
 ### 贡献者列表
 
