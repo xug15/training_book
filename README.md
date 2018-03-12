@@ -30,7 +30,9 @@
 
 * **Study and Practice**
 
-这两条将贯穿我们的这个traning program。用中国的哲学思想来说，就是
+这个理念将贯穿我们的这个training program。
+
+这个理念，用中国的哲学思想来说，就是：
 
 * **知行合一**
 
