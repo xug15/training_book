@@ -22,20 +22,17 @@
 3. ppt等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
 
-
-
 ### Teaching Philosophy
 
 ---
 
-成为一个专业人才，不论是医生、律师，还是生物信息工作者，要做到两条：
+我认为，成为一个专业人才，不论是医生、律师，还是生物信息工作者，都是通过两种方式的结合：
 
-1. Study
-2. Practice
+* **Study and Practice**
 
-这两条将贯穿我们的这个traning program。
+这两条将贯穿我们的这个traning program。用中国的哲学思想来说，就是
 
-
+* **知行合一**
 
 ### Schedule - 2018 Spring:
 
@@ -61,8 +58,6 @@
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
-
-
 
 
 
