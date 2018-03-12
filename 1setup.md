@@ -123,6 +123,8 @@ echo "Backup end at:"
 date
 ```
 
+
+
 \(2\) Using "crontab" command to execute the backup script routinely, and record in a log file, for example,
 
 execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
