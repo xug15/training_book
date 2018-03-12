@@ -52,7 +52,9 @@
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
 
-### 学习材料
+### 
+
+### Learning Materials
 
 ---
 
@@ -61,17 +63,17 @@
 3. ppt等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
 
-### 虚拟机
+### Virtual Machines
 
 ---
 
 We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
 
-### 贡献者列表
+### Contributors
 
 ---
 
-| 成员 | 联系方式 | Github |
+| Contributors | Contact | Github |
 | --- | --- | --- |
 | Zhi J. Lu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | [http://github.com/lulab](http://github.com/lulab) |
 | Yang Li |  |  |
@@ -79,7 +81,7 @@ We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](http
 | Siqi Wang |  |  |
 | Jingyi Cao |  | - |
 
-### 2018 年学习小组
+### Study Group \(Spring 2018\)
 
 ---
 
@@ -92,7 +94,7 @@ We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](http
 
 ### 
 
-### 如何参与
+### Join Us
 
 ---
 
@@ -107,7 +109,7 @@ We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](http
 * 编程: [http://github.com/lulab](http://github.com/lulab)
 * 软件: [http://software.ncrnalab.org](http://software.ncrnalab.org/)
 
-### 许可证
+### Copyright
 
 ---
 
