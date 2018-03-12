@@ -65,3 +65,57 @@
 
 
 
+### 虚拟机
+
+---
+
+We also provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
+
+
+
+### 贡献者列表
+
+---
+
+| 成员 | 联系方式 | Github |
+| --- | --- | --- |
+| Zhi J. Lu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | [http://github.com/lulab](http://github.com/lulab) |
+| Yang Li |  |  |
+| Binbin Shi |  |  |
+| Siqi Wang |  |  |
+| Jingyi Cao |  | - |
+
+### 2018 年学习小组
+
+---
+
+| Mentor | Co-Mentor | Junior Students |
+| --- | --- | --- |
+| Yang Li |  |  |
+|  | Siqi Wang |  |
+| Binbin Shi |  |  |
+|  | Jingyi Cao |  |
+
+### 
+
+### 如何参与
+
+---
+
+任何问题都欢迎直接联系我们:
+
+* 鲁 志  实验室
+* 地址: 清华大学 生命科学学院
+* 电话: 010-6278-9217
+* 电子邮箱: lulab AT biomed.tsinghua.edu.cn
+* 主页: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn/)
+* 著作: [http://](http://www.gitbook.com/@lulab)  [www.gitbook.com/@lulab](http://www.gitbook.com/@lulab)
+* 编程: [http://github.com/lulab](http://github.com/lulab)
+* 软件: [http://software.ncrnalab.org](http://software.ncrnalab.org/)
+
+### 许可证
+
+---
+
+本作品采用 Apache License 2.0 国际许可协议 进行许可. 传播此文档时请注意遵循以上许可协议. 关于本许可证的更多详情可参考 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
