@@ -61,7 +61,28 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ---
 
-### 5\)  backup & crontab
+### 
+
+### 5\) screen and qsub
+
+---
+
+* **screen**: ctrl-A, D; screen -R -D 
+* No qlogin in ibmc 
+* Check qstat -u '\*' 
+
+
+
+### 5a\)  Secure your files
+
+* make your files Read-only 
+  * permission for a executable bash script is usually **755**
+  * using** chmod -R a-w \*** for raw data and input files\)
+* 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
+
+### 
+
+### 5b\)  backup 1：rsync & crontab
 
 ---
 
@@ -119,7 +140,7 @@ crontab -e
 3) exit and save (like in VIM)
 ```
 
-### 6\)  github
+### 5c\)  backup 2: github
 
 
 
@@ -130,8 +151,6 @@ crontab -e
 ---
 
 * &lt;&lt;Bioinformatics Data Skills&gt;&gt;
-
-
 
 
 
