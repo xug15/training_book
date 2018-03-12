@@ -71,6 +71,8 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 * No qlogin in ibmc 
 * Check qstat -u '\*' 
 
+### 
+
 ### 6\)  Secure your files
 
 * make your files Read-only 
@@ -80,7 +82,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ### 
 
-### 7\)  backup data：rsync & crontab
+### 7\)  backup data files：rsync & crontab
 
 ---
 
@@ -142,11 +144,9 @@ crontab -e
 
 ### 8\)  backup code: github
 
+## 
 
-
-
-
-
+## 
 
 ## More Readings
 
