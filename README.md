@@ -13,8 +13,6 @@
 * Time:  ~3个月;
 * Design: 从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
 
-
-
 ### 学习材料
 
 ---
@@ -24,7 +22,20 @@
 3. ppt等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
 
-### 
+
+
+### Teaching Philosophy
+
+---
+
+成为一个专业人才，不论是医生、律师，还是生物信息工作者，要做到两条：
+
+1. Study
+2. Practice
+
+这两条将贯穿我们的这个traning program。
+
+
 
 ### Schedule - 2018 Spring:
 
@@ -50,6 +61,8 @@
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
+
+
 
 
 

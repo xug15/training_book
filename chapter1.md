@@ -1,5 +1,16 @@
 # I. Basic Skills
 
+### 写在前面的话
+
+今天，数据不是太少而是太大，信息不是匮乏而是繁杂，现代人的重要的能力是“挖掘”和“鉴别”。对生物信息学的工作而言，最重要的、最有用的基本工具和技能一直是，我相信也会始终是：
+
+1. google
+2. wikipedia
+
+
+
+---
+
 **Week 1-3  Aim: these basic data skills give you freedom.**
 
 > * Running bioinformatics software isn’t all that difficult, doesn’t take much skill, and it doesn’t embody any of the significant challenges of bioinformatics.…**These data skills give you freedom**…
@@ -7,7 +18,7 @@
 > * So what is a reproducible bioinformatics project? At the very least, it’s **sharing your project’s code and data**.  
 > * In wet lab biology, when experiments fail, it can be very apparent, but this is not always true in computing. Electrophoresis gels that look like Rorschach blots rather than tidy bands clearly indicate something went wrong. Unfortunately,** without prior expectations**, it can be quite difficult to distinguish good results from bad results.
 >
-> * The easy way to ensure everything is working properly is to **adopt a cautious attitude** , and **check everything between computational steps**. 
+> * The easy way to ensure everything is working properly is to **adopt a cautious attitude** , and **check everything between computational steps**.
 >
 > * You will **almost certainly have to rerun an analysis more than once**.
 >
@@ -18,8 +29,6 @@
 > * **Treat Data as Read-Only**
 >
 > * **Document Everything** \(-- Too geeky?\) Just as a well-organized laboratory makes a scientist’s life easier, a well-organized and well-documented project makes a bioinformatician’s life easier.
->
->
 >
 > -- &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
