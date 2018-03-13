@@ -63,6 +63,7 @@
 2. code通过github共享： [https://github.com/lulab/training](https://github.com/lulab/training)
 3. ppt/pdf/epub等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
+5. communication: slack
 
 ### Virtual Machines
 
