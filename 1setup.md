@@ -92,7 +92,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
-**It's necessary to copy data regularly: **
+**It's necessary to backup data regularly: **
 
 \(1\) Prepare a backup script, for example, "_~/backup.sh_"
 
