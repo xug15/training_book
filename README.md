@@ -97,10 +97,10 @@ We also provide a Linux docker \([https://...](https://...%29%29\), which is a m
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Yang Li |  | - | - | - | - |
 |  | Siqi Wang | - | - | - | - |
-| Binbin Shi |  | - | - | - | - |
+|  | Binbin Shi | - | - | - | - |
 |  | Jingyi Cao | - | - | - | - |
 
-https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg\#Bioinfo\_Training\_2018
+[https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg\#Bioinfo\_Training\_2018](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
 
 ### Join Us
 
