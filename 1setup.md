@@ -146,7 +146,49 @@ crontab -e
 
 ### 8\)  backup code: github
 
-## 
+**Setup:**
+
+1\) add a setting file:
+
+~/.gitconfig:
+
+```
+[user] 
+email =[NNN@NN.com]
+name = Shared
+```
+
+2\) Copy your ssh key to github website \(settings  
+   —ssh keys\)  
+3\) Add a repository in github website
+
+**Clone a repository:**
+
+`git clone git@github.com:lulab/RNAfinder_Server.git`
+
+**Add:**
+
+```
+git add exmaples/
+git commit -a
+git push origin
+```
+
+**Change:**
+
+```
+git commit -a
+git push origin
+```
+
+**Remove:**
+
+```
+git rm *.file
+git commit -a
+git push origin
+git pull?
+```
 
 ## 
 
