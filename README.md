@@ -37,7 +37,8 @@
 2. **Linux **- How to work with command lines
 3. **Bash** - How to set up multiple job as a pipeline
 4. **R** - How to make professional and beautiful plots
-5. **Perl/Python **- How to program
+5. **Per **- How to program
+6. **Python **- How to program
 
 #### II. Basic Bioinfo Analyses  -- Week 4-9
 
@@ -73,7 +74,7 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 **Docker:**
 
-We also provide a Linux docker \([https://...\](https://...\)\), which is a modern solution of setting up a virtual Linux OS.
+We also provide a Linux docker \([https://...\](https://...%29\), which is a modern solution of setting up a virtual Linux OS.
 
 ### Contributors
 
