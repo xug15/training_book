@@ -16,7 +16,7 @@ email =[NNN@NN.com]
 name = Shared
 ```
 
-2\) Copy your ssh key to github website \(set up ssh key\)  
+2\) Copy your ssh key to github website \([set up ssh key](/2linux.md#ssh-key)\)  
 3\) Add a repository in github website
 
 **Clone a repository:**

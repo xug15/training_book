@@ -132,8 +132,6 @@ chmod  o-w  yourdir/
 vim /etc/ssh/sshd\_config  
   `#PermitRootLogin yes —>no`
 
-####  {#ssh}
-
 #### 4\) Setup ssh key {#ssh-key}
 
 * ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
@@ -144,8 +142,6 @@ copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
 ```
 
 > This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
-
-
 
 #### 5\) System
 
