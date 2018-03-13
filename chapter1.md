@@ -128,10 +128,7 @@
 >Data Input
 >Statistics
 >>Descriptive Statistics
->>Frequencies & Crosstabs
->>Correlations
->>t-tests
->>Nonparametric Statistics
+
 
 
 ### Week 3
