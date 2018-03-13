@@ -74,7 +74,7 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 **Docker:**
 
-We also provide a Linux docker \([https://...\](https://...\)\), which is a modern solution of setting up a virtual Linux OS.
+We also provide a Linux docker \([https://...](https://...%29\)\), which is a modern solution of setting up a virtual Linux OS.
 
 ### Contributors
 
