@@ -79,12 +79,27 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ### 6\)  Secure your files
 
+---
+
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
   * using** chmod -R a-w \*** for raw data and input files
 * 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
 
-### 
+* Change user group and permission
+
+```
+usermod –G admin  john  #  add sudo
+
+usermod –G lulab  liyang  #  add to lulab group
+chgrp –R  lulab  yourdir/
+chmod –R  g+w   yourdir/
+
+chmod  a+x  yourdir/
+chmod  o+x  yourdir/
+chmod  o-w  yourdir/
+```
+
 
 ### 7\)  backup data files：rsync & crontab
 
@@ -93,8 +108,6 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
 **It's necessary to backup data regularly: **
-
-
 
 ### 8\)  backup code: github
 
