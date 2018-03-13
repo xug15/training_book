@@ -36,6 +36,51 @@ chmod 修改文件的访问权限
 >
 > 更多Linux命令使用指南详见附录
 
+
+
+### Examples
+---
+* grep
+
+```
+grep -v -c pattern FILES (-v exclude -c count lines)
+grep -l pattern FILES (-l: list of the files)
+```
+
+* sed:
+
+```
+cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
+```
+ 
+* paste, cat and cut
+
+```
+paste FILES* > NEW_FILE;   cat FILES* > NEW_FILE
+cut -f 2 FILE (-f: field)
+cut -d ; -f 2 FILE (-d change delimiter)
+```
+
+* sort
+```
+sort at position 1, delimeter is ','; -r reverse sort
+sort -t ',' -k 1 sort -r -t ',' -k 1
+```
+
+* rev and tac
+```
+echo john temp | rev     (output pmet nhoj)
+tac    (reverse by lines)
+```
+
+* wc
+```
+ls * |wc -w   or  wc -l  (count the number of files)
+```
+
+
+
+
 ### Tips
 
 ---
@@ -52,19 +97,19 @@ chmod 修改文件的访问权限
 
 * **screen**: 
   * detach: ctrl-A, D
-  * reattach: screen -R -D 
+  * reattach: `screen -R -D `
   
 * **qsub**: 
   * qlogin not allowed in some servers 
-  * Check qstat -u '\*' 
+  * Check `qstat -u '\*' `
   * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
 
 #### 3\)  secure your files
 
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
-  * using** chmod -R a-w \*** for raw data and input files
-* 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
+  * using `chmod -R a-w` for raw data and input files
+* 777, rwxrwxrwx is forbidden \(using `chmod -R o-w`\)
 
 * Change user group and permission
 
@@ -87,18 +132,24 @@ vim /etc/ssh/sshd\_config
 
 #### 4\) System
 
+* ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
+
+```
+ssh-keygen -t rsa
+copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
+```
+
+> This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
+>
+
+
 * kernel version
 
 ```
 uname -r 
 uname -a 
 ```
- 
-* Add the ssh and scp authorized key on remote machine
-```
-ssh-keygen -t rsa
-copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
-```
+
 
 
 * Edit text and view figures remotely

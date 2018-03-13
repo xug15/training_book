@@ -19,12 +19,8 @@ How to do our jobs efficiently and reproducibly
 #### 1b\) ssh & login {#ssh}
 
 * ssh/sftp -p XXX \(default: 22\)
-* ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
 
-> _**Tips:**_
->
-> This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
->
+
 > You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom:
 >
 > * Transmit
