@@ -116,7 +116,23 @@
 
 #### 预习内容：
 
-1. 练习 
+1. 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
+
+>第11章 认识与学习bash
+>第12章 正则表达式与文件格式化处理
+>第13章 学习shell script
+
+2.阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
+>Learning R
+>R Interface
+>Data Input
+>Statistics
+>>Descriptive Statistics
+>>Frequencies & Crosstabs
+>>Correlations
+>>t-tests
+>>Nonparametric Statistics
+
 
 ### Week 3
 
@@ -130,6 +146,7 @@
 
 1. 练习 
 
+
 ---
 
 ---
@@ -141,9 +158,8 @@
 * 《Bioinformatics Data Skills》
 * 《鸟哥的Linux私房菜-基础学习篇》
 * 《Beginning Perl for Bioinformatics》
-*  [Learning Python the Hard Way](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details) 中文版
-*  [Quick R](https://www.statmethods.net/)
-
+* [Learning Python the Hard Way](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details) 中文版
+* [Quick R](https://www.statmethods.net/)
 
 
 
