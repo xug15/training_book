@@ -57,15 +57,15 @@ How to do our jobs efficiently and reproducibly
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-### 4\)  backup data files：rsync & crontab
+### 4\)  Always backup data files regularly
 
 ---
 
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
-**It's necessary to backup data regularly: **
+**It's necessary to backup data regularly. **
 
-### 5\)  backup code: github
+### 5\)  github
 
 ---
 
