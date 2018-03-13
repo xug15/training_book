@@ -16,10 +16,9 @@ How to do our jobs efficiently and reproducibly
 
 [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
-#### 1b\) ssh & login {#ssh}
+#### 1b\) ssh & login
 
 * ssh/sftp -p XXX \(default: 22\)
-
 
 > You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom:
 >
@@ -60,55 +59,6 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
 **It's necessary to backup data regularly. **
-
-### 5\)  github
-
----
-
-**Setup:**
-
-1\) add a setting file:
-
-~/.gitconfig:
-
-```
-[user] 
-email =[NNN@NN.com]
-name = Shared
-```
-
-2\) Copy your ssh key to github website \([set up ssh key](#ssh)\)  
-3\) Add a repository in github website
-
-**Clone a repository:**
-
-`git clone git@github.com:lulab/RNAfinder_Server.git`
-
-**Add:**
-
-```
-git add exmaples/
-git commit -a
-git push origin
-```
-
-**Change:**
-
-```
-git commit -a
-git push origin
-```
-
-**Remove:**
-
-```
-git rm *.file
-git commit -a
-git push origin
-git pull?
-```
-
-[**more**](https://www.evernote.com/l/ABK7Gt9sva1CkLG9QfxqpZoog5uQoPDB_BU)
 
 ## More Readings
 

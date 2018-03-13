@@ -1,6 +1,57 @@
 # 3. Bash
 
-### Example I
+### 1\) github
+
+---
+
+**Setup:**
+
+1\) add a setting file:
+
+~/.gitconfig:
+
+```
+[user] 
+email =[NNN@NN.com]
+name = Shared
+```
+
+2\) Copy your ssh key to github website \(set up ssh key\)  
+3\) Add a repository in github website
+
+**Clone a repository:**
+
+`git clone git@github.com:lulab/RNAfinder_Server.git`
+
+**Add:**
+
+```
+git add exmaples/
+git commit -a
+git push origin
+```
+
+**Change:**
+
+```
+git commit -a
+git push origin
+```
+
+**Remove:**
+
+```
+git rm *.file
+git commit -a
+git push origin
+git pull?
+```
+
+[**more**](https://www.evernote.com/l/ABK7Gt9sva1CkLG9QfxqpZoog5uQoPDB_BU)
+
+### 2\) Examples
+
+#### Example I
 
 **backup files using rsync and crontab**
 
@@ -58,8 +109,7 @@ crontab -e  or crontab ~/cronjob
 
 ### 
 
-
-###Tips
+### 3\) Tips
 
 ---
 
@@ -72,5 +122,6 @@ trna.out
 trna
 EOF
 ```
+
 
 
