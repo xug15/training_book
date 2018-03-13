@@ -118,17 +118,17 @@
 
 1. 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
->第11章 认识与学习bash
->第12章 正则表达式与文件格式化处理
->第13章 学习shell script
+> 第11章 认识与学习bash  
+> 第12章 正则表达式与文件格式化处理  
+> 第13章 学习shell script
 
 2.阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
->Learning R
->R Interface
->Data Input
->Statistics
->>Descriptive Statistics
 
+> Learning R  
+> R Interface  
+> Data Input  
+> Statistics
+> `Descriptive Statistics`
 
 
 ### Week 3
@@ -142,7 +142,6 @@
 #### 预习内容：
 
 1. 练习 
-
 
 ---
 
