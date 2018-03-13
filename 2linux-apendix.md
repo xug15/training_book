@@ -1,4 +1,8 @@
-### IV. 附录：Linux常用命令
+# 2. Linux
+
+How to work with command lines
+
+### 附录：Linux常用命令
 
 ---
 
