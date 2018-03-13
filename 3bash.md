@@ -46,9 +46,9 @@ execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
 ```
 1) open crontab and edit it by the following command: 
 
-crontab -e 
+crontab -e  or crontab ~/cronjob
 
-2) type in the following lines: 
+2) type in the following lines or write the following in a file (i.e. ~/crontab): 
 
 # minute hour day_in_month month day_in_week command
      10   5  * * *   ~/backup.sh > ~/backup.log 
