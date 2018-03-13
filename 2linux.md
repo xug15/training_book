@@ -36,8 +36,6 @@ chmod 修改文件的访问权限
 >
 > 更多Linux命令使用指南详见附录
 
-
-
 ### Tips
 
 ---
@@ -46,17 +44,22 @@ chmod 修改文件的访问权限
 
 [example](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
 
-#### 2\) screen and qsub
+#### 2\) nohup, screen and qsub
+
+* **nohup**:
+
+`nohup nice -19 run.bat >& run.log&`
 
 * **screen**: 
   * detach: ctrl-A, D
   * reattach: screen -R -D 
+  
 * **qsub**: 
   * qlogin not allowed in some servers 
   * Check qstat -u '\*' 
   * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
 
-#### 3\)  Secure your files
+#### 3\)  secure your files
 
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
@@ -82,7 +85,49 @@ chmod  o-w  yourdir/
 vim /etc/ssh/sshd\_config  
   `#PermitRootLogin yes —>no`
 
-### 
+#### 4\) System
 
+* kernel version
+
+```
+uname -r 
+uname -a 
+```
+ 
+* Add the ssh and scp authorized key on remote machine
+```
+ssh-keygen -t rsa
+copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
+```
+
+
+* Edit text and view figures remotely
+
+mount dir/ to local machine using NFS /sshfs/Transmit
+ 
+```
+$ yum install fuse-sshfs
+$ usermod -a -G fuse john
+sshfs john@nye:/Users/john /mnt/nyefs fusermount -u mountpoint
+automounting: in /etc/fstab
+sshfs#john@nye: /mnt/nyefs fuse uid=500,gid=100,allow_other 0 0
+mount /mnt/nyefs; umnout /mnt/nyefs
+```
+
+* forward the log file to an email address
+
+```
+vim /home/.forward or /root/.forward
+  zhi_lu@nnn.com
+```
+ 
+
+
+* Kill batch job 
+
+```
+ps -edalf | grep username 
+kill -9 PID 
+```
 
 

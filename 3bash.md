@@ -59,4 +59,18 @@ crontab -e  or crontab ~/cronjob
 ### 
 
 
+###Tips
+
+---
+
+* STANDIN
+
+```
+rnatotal.o <<EOF
+trna.lis
+trna.out
+trna
+EOF
+```
+
 
