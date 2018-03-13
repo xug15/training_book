@@ -61,15 +61,17 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ---
 
-### 
+[example](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
 
 ### 5\) screen and qsub
 
 ---
 
 * **screen**: ctrl-A, D; screen -R -D 
-* No qlogin in ibmc 
-* Check qstat -u '\*' 
+* **qusb**: 
+  * qlogin not allowed in some servers 
+  * Check qstat -u '\*' 
+  * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
 
 ### 
 
@@ -77,7 +79,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
-  * using** chmod -R a-w \*** for raw data and input files\)
+  * using** chmod -R a-w \*** for raw data and input files
 * 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
 
 ### 
