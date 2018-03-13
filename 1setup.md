@@ -67,8 +67,10 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ---
 
-* **screen**: ctrl-A, D; screen -R -D 
-* **qusb**: 
+* **screen**: 
+  * detach: ctrl-A, D
+  * reattach: screen -R -D 
+* **qsub**: 
   * qlogin not allowed in some servers 
   * Check qstat -u '\*' 
   * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
