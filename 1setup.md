@@ -16,7 +16,7 @@ How to do our jobs efficiently and reproducibly
 
 [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
-#### 1b\) ssh & login
+#### 1b\) ssh & login {#ssh}
 
 * ssh/sftp -p XXX \(default: 22\)
 * ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
@@ -158,8 +158,7 @@ email =[NNN@NN.com]
 name = Shared
 ```
 
-2\) Copy your ssh key to github website \(settings  
-   —ssh keys\)  
+2\) Copy your ssh key to github website \([set up ssh key](#ssh)\)  
 3\) Add a repository in github website
 
 **Clone a repository:**
