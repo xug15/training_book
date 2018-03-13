@@ -35,7 +35,7 @@
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
-3. **Bash** - How to set up multiple job as a pipeline
+3. **Bash** - How to set up multiple jobs as a pipeline
 4. **R** - How to make professional and beautiful plots
 5. **Per **- How to program
 6. **Python **- How to program
@@ -74,7 +74,7 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 **Docker:**
 
-We also provide a Linux docker \([https://...](https://...%29\)\), which is a modern solution of setting up a virtual Linux OS.
+We also provide a Linux docker \([https://...](https://...%29%29\), which is a modern solution of setting up a virtual Linux OS.
 
 ### Contributors
 
