@@ -36,10 +36,10 @@ chmod 修改文件的访问权限
 >
 > 更多Linux命令使用指南详见附录
 
-
-
 ### Examples
+
 ---
+
 * grep
 
 ```
@@ -52,7 +52,7 @@ grep -l pattern FILES (-l: list of the files)
 ```
 cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
 ```
- 
+
 * paste, cat and cut
 
 ```
@@ -62,24 +62,24 @@ cut -d ; -f 2 FILE (-d change delimiter)
 ```
 
 * sort
+
 ```
 sort at position 1, delimeter is ','; -r reverse sort
 sort -t ',' -k 1 sort -r -t ',' -k 1
 ```
 
 * rev and tac
+
 ```
 echo john temp | rev     (output pmet nhoj)
 tac    (reverse by lines)
 ```
 
 * wc
+
 ```
 ls * |wc -w   or  wc -l  (count the number of files)
 ```
-
-
-
 
 ### Tips
 
@@ -95,13 +95,15 @@ ls * |wc -w   or  wc -l  (count the number of files)
 
 `nohup nice -19 run.bat >& run.log&`
 
-* **screen**: 
+* **screen**:
+
   * detach: ctrl-A, D
-  * reattach: `screen -R -D `
-  
-* **qsub**: 
+  * reattach: `screen -R -D`
+
+* **qsub**:
+
   * qlogin not allowed in some servers 
-  * Check `qstat -u '\*' `
+  * Check `qstat -u '\*'`
   * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
 
 #### 3\)  secure your files
@@ -140,22 +142,18 @@ copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
 ```
 
 > This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
->
-
 
 * kernel version
 
 ```
 uname -r 
-uname -a 
+uname -a
 ```
-
-
 
 * Edit text and view figures remotely
 
 mount dir/ to local machine using NFS /sshfs/Transmit
- 
+
 ```
 $ yum install fuse-sshfs
 $ usermod -a -G fuse john
@@ -171,14 +169,13 @@ mount /mnt/nyefs; umnout /mnt/nyefs
 vim /home/.forward or /root/.forward
   zhi_lu@nnn.com
 ```
- 
-
 
 * Kill batch job 
 
 ```
 ps -edalf | grep username 
-kill -9 PID 
+kill -9 PID
 ```
+
 
 
