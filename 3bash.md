@@ -1,6 +1,6 @@
 # 3. Bash
 
-### Example bash script I  
+### Example I
 
 **backup files using rsync and crontab**
 
