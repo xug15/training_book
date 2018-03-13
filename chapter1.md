@@ -36,7 +36,7 @@
 
 ---
 
-#### 学习章节：
+#### 学习内容：
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
@@ -109,7 +109,7 @@
 
 ---
 
-#### 学习章节：
+#### 学习内容：
 
 1. **Bash** - How to set up multiple job as a pipeline
 2. **R** - How to make professional and beautiful plots
@@ -134,7 +134,7 @@
 
 ---
 
-#### 学习章节：
+#### 学习内容：
 
 1. **Perl and Python **- How to program
 
