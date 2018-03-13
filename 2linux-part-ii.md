@@ -2,13 +2,15 @@
 
 ### Part II. 上机任务
 
+**Linux基础和基因组注释文件解读**
+
 ---
 
 #### 1. 了解基因组注释文件 \(gff/gtf\)
 
 **1.1 了解gff和gtf文件格式**
 
-[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)_    
+[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)_      
 _
 
 **1.2 下载yeast的基因组注释文件**
@@ -93,8 +95,6 @@ grep exon *.gtf | awk '{print $5-$4+1}' | sort -n | tail -3
 chmod +x run.sh
 ./run.sh
 ```
-
-
 
 
 
