@@ -127,9 +127,8 @@
 > Learning R  
 > R Interface  
 > Data Input  
-> Statistics
+> Statistics  
 > `Descriptive Statistics`
-
 
 ### Week 3
 
@@ -141,7 +140,8 @@
 
 #### 预习内容：
 
-1. 练习 
+1. 《Beginning Perl for Bioinformatics》
+2. [Learning Python the Hard Way](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details) 中文版
 
 ---
 
