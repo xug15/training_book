@@ -100,7 +100,9 @@ We also provide a Linux docker \([https://...](https://...%29%29\), which is a m
 |  | Binbin Shi | - | - | - | - |
 |  | Jingyi Cao | - | - | - | - |
 
-[https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg\#Bioinfo\_Training\_2018](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
+[Skills of Each Team](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
+
+[Training Notes -- 2018](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
 
 ### Join Us
 
