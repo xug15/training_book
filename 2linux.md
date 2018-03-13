@@ -1,6 +1,6 @@
 # 2. Linux
 
-### Part I.上机指南
+## Part I.上机指南
 
 ---
 
@@ -35,6 +35,54 @@ chmod 修改文件的访问权限
 > Note:
 >
 > 更多Linux命令使用指南详见附录
+
+
+
+### Tips
+
+---
+
+#### 1\) .bashrc and .bash\_profile
+
+[example](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
+
+#### 2\) screen and qsub
+
+* **screen**: 
+  * detach: ctrl-A, D
+  * reattach: screen -R -D 
+* **qsub**: 
+  * qlogin not allowed in some servers 
+  * Check qstat -u '\*' 
+  * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
+
+#### 3\)  Secure your files
+
+* make your files Read-only 
+  * permission for a executable bash script is usually **755**
+  * using** chmod -R a-w \*** for raw data and input files
+* 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
+
+* Change user group and permission
+
+```
+usermod –G admin  john  #  add sudo
+
+usermod –G lulab  liyang  #  add to lulab group
+chgrp –R  lulab  yourdir/
+chmod –R  g+w   yourdir/
+
+chmod  a+x  yourdir/
+chmod  o+x  yourdir/
+chmod  o-w  yourdir/
+```
+
+* Blocking the root:
+
+vim /etc/ssh/sshd\_config  
+  `#PermitRootLogin yes —>no`
+
+### 
 
 
 

@@ -57,51 +57,7 @@ How to do our jobs efficiently and reproducibly
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-### 4\)  .bashrc and .bash\_profile
-
----
-
-[example](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
-
-### 5\) screen and qsub
-
----
-
-* **screen**: 
-  * detach: ctrl-A, D
-  * reattach: screen -R -D 
-* **qsub**: 
-  * qlogin not allowed in some servers 
-  * Check qstat -u '\*' 
-  * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
-
-### 
-
-### 6\)  Secure your files
-
----
-
-* make your files Read-only 
-  * permission for a executable bash script is usually **755**
-  * using** chmod -R a-w \*** for raw data and input files
-* 777, rwxrwxrwx is forbidden \(using **chmod -R o-w \***\)
-
-* Change user group and permission
-
-```
-usermod –G admin  john  #  add sudo
-
-usermod –G lulab  liyang  #  add to lulab group
-chgrp –R  lulab  yourdir/
-chmod –R  g+w   yourdir/
-
-chmod  a+x  yourdir/
-chmod  o+x  yourdir/
-chmod  o-w  yourdir/
-```
-
-
-### 7\)  backup data files：rsync & crontab
+### 4\)  backup data files：rsync & crontab
 
 ---
 
@@ -109,7 +65,9 @@ chmod  o-w  yourdir/
 
 **It's necessary to backup data regularly: **
 
-### 8\)  backup code: github
+### 5\)  backup code: github
+
+---
 
 **Setup:**
 
