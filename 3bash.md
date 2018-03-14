@@ -6,7 +6,7 @@
 
 #### Desktop Version for Mac or Windows
 
-I downloaded the desktop version of github on mac.
+I downloaded the [desktop version of github](https://desktop.github.com/) on mac.
 
 #### Terminal Version for Linux or Mac
 
