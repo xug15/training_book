@@ -16,7 +16,27 @@ How to do our jobs efficiently and reproducibly
 
 #### 1a\) docker or VM
 
-[https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
+```bash
+#install and run a centos docker for the first time
+docker pull centos
+docker run -it --name=my_docker centos
+or
+docker run -it --name=container_name -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
+useradd john
+passwd john
+su john
+ctrl+p+q     # detach退出: 容器不关闭，容器内部正在运行的任务不会停止. ctrl+p+q表示按住ctrl不动，先按下p，后按下q
+
+#re-attach the running container next time
+docker ps  # get the container's name
+docker attach container_name # attach进入
+ctrl+p+q     # detach退出
+
+#stop docker
+docker stop container_id  # 关闭容器
+```
+
+More: [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
 #### 1b\) ssh & login
 
