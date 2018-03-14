@@ -47,12 +47,7 @@ grep -v -c pattern FILES  #(-v exclude -c count lines)
 grep -l pattern FILES #(-l: list of the files)
 ```
 
-* sed:
-
-```
-cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
-```
-
+* head and tail
 * paste, cat and cut
 
 ```
@@ -62,20 +57,11 @@ cut -f 2 FILE #(-f: field)
 cut -d ; -f 2 FILE #(-d change delimiter)
 ```
 
-* head and tail
-
 * rev and tac
 
 ```
 echo john temp | rev     #(output pmet nhoj)
 tac    #(reverse by lines)
-```
-
-* sort
-
-```
-sort at position 1, delimeter is ','; -r reverse sort
-sort -t ',' -k 1 sort -r -t ',' -k 1
 ```
 
 * wc
@@ -89,6 +75,41 @@ ls * |wc -w   or  wc -l  #(count the number of files)
 ```
 comm -2 file1 file2
 ```
+
+* sort
+
+```
+sort at position 1, delimeter is ','; -r reverse sort
+sort -t ',' -k 1 sort -r -t ',' -k 1
+```
+
+* uniq
+
+```
+cat human.gtf | cut –f 2,3 sort | uniq –c 
+```
+
+* seq
+
+```
+for i in \`Seq 1 100 2\`; do echo "$i"; done  
+for i in \`ls /home/user/\`;do cat $i >> foo; done
+```
+
+* sed:
+
+```
+cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
+```
+
+
+* awk
+
+```
+awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
+```
+
+
 
 * history
 
@@ -119,21 +140,7 @@ ls olddir | xargs -i  mv olddir/{ } newdir/{ }
 find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 ```
 
-* seq
 
-  for i in \`Seq 1 100 2\`; do echo "$i"; done  
-  for i in \`ls /home/user/\`;do cat $i >> foo; done
-
-
-
-### Pipeline
-
-```
-cat human.gtf | cut –f 2,3 sort | uniq –c 
-
-awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
-
-```
 
 
 ### Tips
