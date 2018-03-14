@@ -22,6 +22,8 @@ docker pull centos
 docker run -it --name=my_docker centos
 or
 docker run -it --name=container_name -h hostname -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
+docker run -it --name=centos -h centos -v /Users/john/Documents/centos/:/mac centos
+
 useradd john
 passwd john
 su john
@@ -43,7 +45,6 @@ yum -y install vim
 ```
 
 ```bash
-
 yum -y install man
 yum -y install less
 yum -y install wget
@@ -89,7 +90,6 @@ install basic software for ubuntu
 apt-get -qq update
 apt-get -y install vim
 ```
-
 
 More: [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
