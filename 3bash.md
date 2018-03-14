@@ -51,20 +51,14 @@ git pull?
 
 > **Case study**: how to use google to solve question
 >
-> * Q: How to install terminal version of git in mac?
-> * A: google "[install git _on _mac](https://www.google.com.hk/search?safe=strict&q=install+git+on+mac&spell=1&sa=X&ved=0ahUKEwiin6jE1urZAhVFzWMKHfb5BuMQBQgjKAA)" --&gt; I got [the answer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+> * Q1: How to install terminal version of git in mac?
+> * A1: google "[install git \_on \_mac](https://www.google.com.hk/search?safe=strict&q=install+git+on+mac&spell=1&sa=X&ved=0ahUKEwiin6jE1urZAhVFzWMKHfb5BuMQBQgjKAA)" --&gt; I got [the answer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 >
-> * Q: After I installed git, I got such error:
+> * Q2: After I installed git, I got such error:
 >
 > > xcrun: error: invalid active developer path \(/Library/Developer/CommandLineTools\), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun"
 >
-> * A: google this whole sentence --&gt; I got [the answer](https://apple.stackexchange.com/questions/254380/macos-sierra-invalid-active-developer-path)
-
-
-
-
-
-
+> * A2: google this whole sentence --&gt; I got [the answer](https://apple.stackexchange.com/questions/254380/macos-sierra-invalid-active-developer-path)
 
 ### 2\) Examples
 
