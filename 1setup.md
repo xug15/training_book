@@ -21,7 +21,7 @@ How to do our jobs efficiently and reproducibly
 docker pull centos
 docker run -it --name=my_docker centos
 or
-docker run -it --name=container_name -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
+docker run -it --name=container_name --hostname {hostname} -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
 useradd john
 passwd john
 su john
