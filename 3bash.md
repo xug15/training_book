@@ -132,10 +132,6 @@ make install
 bash myinstall.sh
 ```
 
-
-
-
-
 #### Example II
 
 **backup files using rsync and crontab**
@@ -192,15 +188,13 @@ crontab -e  or crontab ~/cronjob
 3) exit and save (like in VIM)
 ```
 
-
-
 #### 
 
 ### 3\) Tips
 
 ---
 
-* STANDIN
+* input STANDIN in your script
 
 ```
 rnatotal.o <<EOF
