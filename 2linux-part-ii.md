@@ -10,7 +10,7 @@
 
 **1.1 了解gff和gtf文件格式**
 
-[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)_      
+[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)_        
 _
 
 **1.2 下载yeast的基因组注释文件**
@@ -31,7 +31,7 @@ wget http://www.ncrnalab.org/lulab/public/1.gtf.gz
 
 2） 下载方法2： yeast基因组注释文件可以从浏览器下载：
 
-[Download link](https://www.jianguoyun.com/p/DTCJc-gQ0NLuBRj9kQ4#dir=%2F2016%2F生物信息学导论%2F上机文件%2F3.Genomics%2FYeast Genome Annotation::mode=0)
+[Download link](https://www.jianguoyun.com/p/DVKrG8QQ0NLuBRjJz0Y)
 
 3） 下载方法3：  
 该文件在"虚拟机"中已经下载好，位置在/home/cs/Bioinfo\_Lab/0.Linux/myfolder下，文件名为  Sa\*.gtf.gz  

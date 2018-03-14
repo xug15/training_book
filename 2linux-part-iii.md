@@ -10,9 +10,7 @@
 
 3. 有新的方法加分，但必须注释清楚每个语句和参数的意义和结果。
 
-> [参考答案](https://www.jianguoyun.com/p/DTCJc-gQ0NLuBRj9kQ4#dir=%2F2016%2F生物信息学导论%2F上机文件%2F0.Linux Basic::mode=0)
 
-### 
 
 ### V. 更多阅读
 

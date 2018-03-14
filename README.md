@@ -93,12 +93,12 @@ We also provide a Linux docker \([https://...](https://...%29%29\), which is a m
 
 ---
 
-| Team | Mentor | 17' Ph.D. | 18' | 19' | 20'+ |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 13 Yang Li | - | - | - | - |
-| 2 | 14 Binbin Shi | - | - | - | - |
-| 3 | 16 Siqi Wang | - | - | - | - |
-| 4 | 16 Jingyi Cao | - | - | - | - |
+| Team | Mentor |
+| :--- | :--- |
+| 1 | 13 Yang Li |
+| 2 | 14 Binbin Shi |
+| 3 | 16 Siqi Wang |
+| 4 | 16 Jingyi Cao |
 
 [Skills of Each Team](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
 
