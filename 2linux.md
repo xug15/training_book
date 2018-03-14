@@ -124,7 +124,7 @@ find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
   for i in \`Seq 1 100 2\`; do echo "$i"; done  
   for i in \`ls /home/user/\`;do cat $i >> foo; done
 
-### 
+
 
 ### Pipeline
 
@@ -135,9 +135,7 @@ awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
 
 ```
 
- 
-   
-###
+
 ### Tips
 
 ---
