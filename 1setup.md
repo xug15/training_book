@@ -33,6 +33,8 @@ How to do our jobs efficiently and reproducibly
 
 #### A. **Vim** -- [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
+We also have [a brief version in Appendix](/1setup-appendix.md).
+
 > Learn [vim](http://www.vim.org/) and it will be your last text editor. There isn’t any better text editor that I know of. It is hard to learn, but incredible to use.I suggest you teach yourself Vim in 4 steps:
 >
 > 1. **Survive**
