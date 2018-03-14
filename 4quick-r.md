@@ -8,7 +8,7 @@ How to make professional and beautiful plots
 >
 > Do things with multiple ways
 >
-> Efficient Writing: Bash &gt; R &gt; Perl/Python &gt; Excel &gt; C++
+> Efficient Writing: Bash &gt; R &gt; Perl/Python &gt; Excel &gt; C,C++
 
 ## Examples
 
