@@ -51,6 +51,8 @@ grep -l pattern FILES #(-l: list of the files)
 * paste, cat and cut
 
 ```
+head -100 FILE
+tail -100 FILE
 paste FILES* > NEW_FILE;   
 cat FILES* > NEW_FILE
 cut -f 2 FILE #(-f: field)
@@ -86,15 +88,13 @@ sort -t ',' -k 1 sort -r -t ',' -k 1
 * uniq
 
 ```
-cat human.gtf | cut –f 2,3 sort | uniq –c 
+cat human.gtf | cut –f 2,3 sort | uniq –c
 ```
 
 * seq
 
-```
-for i in \`Seq 1 100 2\`; do echo "$i"; done  
-for i in \`ls /home/user/\`;do cat $i >> foo; done
-```
+    for i in \`Seq 1 100 2\`; do echo "$i"; done  
+    for i in \`ls /home/user/\`;do cat $i >> foo; done
 
 * sed:
 
@@ -102,14 +102,11 @@ for i in \`ls /home/user/\`;do cat $i >> foo; done
 cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
 ```
 
-
 * awk
 
 ```
 awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
 ```
-
-
 
 * history
 
@@ -139,9 +136,6 @@ Move files in olddir to newdir, showing each command:
 ls olddir | xargs -i  mv olddir/{ } newdir/{ }  
 find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 ```
-
-
-
 
 ### Tips
 
