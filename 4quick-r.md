@@ -4,7 +4,7 @@ How to make professional and beautiful plots
 
 > **Tips:**  
 > Things can be done with multiple ways  
-> Efficient Programming : Bash &gt; R &gt; Perl/Python &gt; Excel &gt; C/C++
+> Efficient Programming : Bash > R > Perl/Python > Excel > C/C++
 
 ### 1\) Examples
 
@@ -24,6 +24,4 @@ sh# R
 
 Or write this into a file, script.R, then
 
-  
-`R CMD BATCH script.R`
 
