@@ -77,6 +77,7 @@ ls * |wc -w   or  wc -l  #(count the number of files)
 
 ```
 comm -2 file1 file2
+diff file1 file2
 ```
 
 * sort
