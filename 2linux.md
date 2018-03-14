@@ -47,16 +47,17 @@ grep -v -c pattern FILES  #(-v exclude -c count lines)
 grep -l pattern FILES #(-l: list of the files)
 ```
 
-* head and tail
-* paste, cat and cut
+* head, tail V.S. cut
+* cat V.S. paste 
 
 ```
 head -100 FILE
 tail -100 FILE
-paste FILES* > NEW_FILE;   
-cat FILES* > NEW_FILE
 cut -f 2 FILE #(-f: field)
 cut -d ; -f 2 FILE #(-d change delimiter)
+
+cat FILES* > NEW_FILE
+paste FILES* > NEW_FILE
 ```
 
 * rev and tac
@@ -93,8 +94,8 @@ cat human.gtf | cut –f 2,3 sort | uniq –c
 
 * seq
 
-    for i in \`Seq 1 100 2\`; do echo "$i"; done  
-    for i in \`ls /home/user/\`;do cat $i >> foo; done
+  for i in \`Seq 1 100 2\`; do echo "$i"; done  
+    for i in \`ls /home/user/\`;do cat $i &gt;&gt; foo; done
 
 * sed:
 
