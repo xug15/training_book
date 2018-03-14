@@ -4,6 +4,12 @@
 
 ---
 
+#### Desktop Version for Mac or Windows
+
+I downloaded the desktop version of github on mac.
+
+#### Terminal Version for Linux or Mac
+
 **Setup:**
 
 1\) add a setting file:
