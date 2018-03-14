@@ -1,5 +1,7 @@
 # 3. Bash
 
+How to set up multiple jobs as a pipeline
+
 ### 1\) github
 
 ---
@@ -70,6 +72,72 @@ git pull?
 
 #### Example I
 
+**install software and tools in a brand-new OS **
+
+---
+
+\(1\) 安装vim
+
+```
+yum -y install vim
+```
+
+\(2\) 打开一个空shell文件
+
+```
+vim myinstall.sh
+```
+
+\(3\) 复制如下shell脚本到smyinstall.sh内。此shell文件会自动安装包括：R-2.15.3，perl-5.26.1等
+
+```
+yum -y install wget
+yum -y install readline-devel
+yum -y install libXt-devel
+yum -y install gcc gcc-c++
+yum -y install gcc-gfortran
+yum -y install libg2c.so.0
+yum -y install less
+yum -y install bzip2-devel
+yum -y install zlib-devel
+yum -y install xz-devel.x86_64
+yum -y install make
+yum -y install zip unzip
+
+mkdir software
+cd /software
+wget -c https://cloud.r-project.org/src/base/R-2/R-2.15.3.tar.gz
+tar -xvzf R-2.15.3.tar.gz
+cd /software/R-2.15.3
+./configure
+make
+
+cd /root
+echo "export PATH=\"/software/R-2.15.3/bin:\$PATH\"" >> .bash_profile
+source .bash_profile
+
+cd /software
+wget -c http://www.cpan.org/src/5.0/perl-5.26.1.tar.gz
+tar -xvzf perl-5.26.1.tar.gz
+cd /software/perl-5.26.1
+sh Configure -de
+make
+make test
+make install
+```
+
+\(4\) 执行shell脚本
+
+```
+bash myinstall.sh
+```
+
+
+
+
+
+#### Example II
+
 **backup files using rsync and crontab**
 
 ---
@@ -124,7 +192,9 @@ crontab -e  or crontab ~/cronjob
 3) exit and save (like in VIM)
 ```
 
-### 
+
+
+#### 
 
 ### 3\) Tips
 
