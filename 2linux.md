@@ -96,6 +96,9 @@ Ctrl - r : search previous command
 !V (im) : last command (be cautious !)
 ```
 
+
+
+
 * find and locate
 
 ```
@@ -103,7 +106,6 @@ find . -name “pattern”
 locate
 ```
 
-* head and tail
 * xargs 
 
 grep for pattern in all files on the system:
@@ -121,8 +123,19 @@ find . -type f -name "*.txt" | xargs -i  mv {} newdir/{} 
 * seq
 
 ```
-for i  in `Seq 1 100 2`; do ….; done
-for i in `ls /home/user/`;do cat $i >> foo; done
+for i in \`Seq 1 100 2\`; do ….; done
+for i in \`ls /home/user/\`;do cat $i >> foo; done
+```
+
+* awk
+
+```
+gawk '{print $2 $1}' FILE | head -100
+cat FILE | gawk '(NR>2) {print }'
+gawk -f FILE # take command from file
+
+  Begin { a=1; ORS = ” ”}  # ORS: output record seperator 
+
 ```
 
 
