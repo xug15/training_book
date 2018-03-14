@@ -61,12 +61,7 @@ cut -f 2 FILE #(-f: field)
 cut -d ; -f 2 FILE #(-d change delimiter)
 ```
 
-* sort
-
-```
-sort at position 1, delimeter is ','; -r reverse sort
-sort -t ',' -k 1 sort -r -t ',' -k 1
-```
+* head and tail
 
 * rev and tac
 
@@ -75,11 +70,63 @@ echo john temp | rev     #(output pmet nhoj)
 tac    #(reverse by lines)
 ```
 
+* sort
+
+```
+sort at position 1, delimeter is ','; -r reverse sort
+sort -t ',' -k 1 sort -r -t ',' -k 1
+```
+
 * wc
 
 ```
 ls * |wc -w   or  wc -l  #(count the number of files)
 ```
+
+* comm and vimdiff, diff
+
+```
+comm -2 file1 file2
+```
+
+* history
+
+```
+Ctrl - r : search previous command
+!V (im) : last command (be cautious !)
+```
+
+* find and locate
+
+```
+find . -name “pattern”
+locate
+```
+
+* head and tail
+* xargs 
+
+grep for pattern in all files on the system:
+```
+find / | xargs grep pattern > out &
+```
+
+Move files in olddir to newdir, showing each command:
+
+```
+ls olddir | xargs -i  mv olddir/{ } newdir/{ }  
+find . -type f -name "*.txt" | xargs -i  mv {} newdir/{} 
+```
+
+* seq
+
+```
+for i  in `Seq 1 100 2`; do ….; done
+for i in `ls /home/user/`;do cat $i >> foo; done
+```
+
+
+### 
 
 ### Tips
 
