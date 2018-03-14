@@ -36,8 +36,6 @@ chmod 修改文件的访问权限
 >
 > 更多Linux命令使用指南详见[附录](/2linux-apendix.md)
 
-
-
 ### Examples
 
 ---
@@ -45,8 +43,8 @@ chmod 修改文件的访问权限
 * grep
 
 ```
-grep -v -c pattern FILES (-v exclude -c count lines)
-grep -l pattern FILES (-l: list of the files)
+grep -v -c pattern FILES  #(-v exclude -c count lines)
+grep -l pattern FILES #(-l: list of the files)
 ```
 
 * sed:
@@ -59,8 +57,8 @@ cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
 
 ```
 paste FILES* > NEW_FILE;   cat FILES* > NEW_FILE
-cut -f 2 FILE (-f: field)
-cut -d ; -f 2 FILE (-d change delimiter)
+cut -f 2 FILE #(-f: field)
+cut -d ; -f 2 FILE #(-d change delimiter)
 ```
 
 * sort
@@ -73,14 +71,14 @@ sort -t ',' -k 1 sort -r -t ',' -k 1
 * rev and tac
 
 ```
-echo john temp | rev     (output pmet nhoj)
-tac    (reverse by lines)
+echo john temp | rev     #(output pmet nhoj)
+tac    #(reverse by lines)
 ```
 
 * wc
 
 ```
-ls * |wc -w   or  wc -l  (count the number of files)
+ls * |wc -w   or  wc -l  #(count the number of files)
 ```
 
 ### Tips
@@ -154,9 +152,9 @@ uname -r
 uname -a
 ```
 
-* Edit text and view figures remotely
+* mount dir/ to local machine using NFS or sshfs \(then you can Edit text and view figures remotely\)
 
-mount dir/ to local machine using NFS /sshfs/Transmit
+_I recommend using "transmit" app in your mac  instead of mounting NFS or sshfs._
 
 ```
 $ yum install fuse-sshfs
@@ -171,7 +169,7 @@ mount /mnt/nyefs; umnout /mnt/nyefs
 
 ```
 vim /home/.forward or /root/.forward
-  zhi_lu@nnn.com
+  zhi_lu@tsinghua.edu
 ```
 
 * Kill batch job 
