@@ -56,7 +56,8 @@ cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
 * paste, cat and cut
 
 ```
-paste FILES* > NEW_FILE;   cat FILES* > NEW_FILE
+paste FILES* > NEW_FILE;   
+cat FILES* > NEW_FILE
 cut -f 2 FILE #(-f: field)
 cut -d ; -f 2 FILE #(-d change delimiter)
 ```
@@ -96,9 +97,6 @@ Ctrl - r : search previous command
 !V (im) : last command (be cautious !)
 ```
 
-
-
-
 * find and locate
 
 ```
@@ -109,6 +107,7 @@ locate
 * xargs 
 
 grep for pattern in all files on the system:
+
 ```
 find / | xargs grep pattern > out &
 ```
@@ -117,21 +116,28 @@ Move files in olddir to newdir, showing each command:
 
 ```
 ls olddir | xargs -i  mv olddir/{ } newdir/{ }  
-find . -type f -name "*.txt" | xargs -i  mv {} newdir/{} 
+find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 ```
 
 * seq
 
-```
-for i in \`Seq 1 100 2\`; do ….; done
-for i in \`ls /home/user/\`;do cat $i >> foo; done
-```
-
-
-
+  for i in \`Seq 1 100 2\`; do echo "$i"; done  
+  for i in \`ls /home/user/\`;do cat $i >> foo; done
 
 ### 
 
+### Pipeline
+
+```
+cat human.gtf | cut –f 2,3 sort | uniq –c 
+
+awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
+
+```
+
+ 
+   
+###
 ### Tips
 
 ---
