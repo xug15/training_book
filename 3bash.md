@@ -92,7 +92,7 @@ vim myinstall.sh
 
 \(3\) 复制如下shell脚本到smyinstall.sh内。此shell文件会自动安装包括：R-2.15.3，perl-5.26.1等
 
-```
+```bash
 yum -y install wget
 yum -y install readline-devel
 yum -y install libXt-devel
@@ -179,7 +179,7 @@ date
 
 execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
 
-```
+```bash
 1) open crontab and edit it by the following command: 
 
 crontab -e  or crontab ~/cronjob
@@ -198,17 +198,16 @@ crontab -e  or crontab ~/cronjob
 
 * #### awk
 
-  ```
+  ```bash
   gawk '{print $2 $1}' FILE | head -100
   cat FILE | gawk '(NR>2) {print }'
   gawk -f FILE # take command from file
 
     Begin { a=1; ORS = ” ”}  # ORS: output record seperator
   ```
-
 * #### input STANDIN in your script
 
-```
+```bash
 rnatotal.o <<EOF
 trna.lis
 trna.out
