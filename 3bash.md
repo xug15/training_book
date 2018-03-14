@@ -179,7 +179,7 @@ date
 
 execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
 
-```bash
+```
 1) open crontab and edit it by the following command: 
 
 crontab -e  or crontab ~/cronjob
