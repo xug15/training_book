@@ -98,7 +98,7 @@ cat human.gtf | cut –f 2,3 sort | uniq –c
   for i in \`Seq 1 100 2\`; do echo "$i"; done  
     for i in \`ls /home/user/\`;do cat $i &gt;&gt; foo; done
 
-* sed:
+* sed
 
 ```
 cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
