@@ -6,11 +6,11 @@ How to set up multiple jobs as a pipeline
 
 ---
 
-#### Desktop Version for Mac or Windows
+#### \(1\) Desktop Version for Mac or Windows
 
 I downloaded the [desktop version of github](https://desktop.github.com/) on mac.
 
-#### Terminal Version for Linux or Mac
+#### \(2\) Terminal Version for Linux or Mac
 
 **Setup:**
 
@@ -67,6 +67,8 @@ git pull?
 > > xcrun: error: invalid active developer path \(/Library/Developer/CommandLineTools\), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun"
 >
 > * A2: google this whole sentence --&gt; I got [the answer](https://apple.stackexchange.com/questions/254380/macos-sierra-invalid-active-developer-path)
+
+### 
 
 ### 2\) Examples
 
@@ -132,6 +134,8 @@ make install
 bash myinstall.sh
 ```
 
+#### 
+
 #### Example II
 
 **backup files using rsync and crontab**
@@ -194,7 +198,7 @@ crontab -e  or crontab ~/cronjob
 
 ---
 
-* input STANDIN in your script
+* **input STANDIN in your script**
 
 ```
 rnatotal.o <<EOF
