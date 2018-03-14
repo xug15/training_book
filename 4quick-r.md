@@ -23,7 +23,6 @@ sh\# R
   y<-read.table("foo2")
   mean(x)
   mean(y)
-  ?t.test
   t.test(x,y,alternative=c("greater") )
 ```
 
