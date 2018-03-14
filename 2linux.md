@@ -175,6 +175,7 @@ vim /home/.forward or /root/.forward
 * Kill batch job 
 
 ```
+top
 ps -edalf | grep username 
 kill -9 PID
 ```
