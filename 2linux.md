@@ -139,7 +139,7 @@ find / | xargs grep pattern > out &
 Move files in olddir to newdir, showing each command:
 
 ```
-ls olddir | xargs -i  mv olddir/{ } newdir/{ }  
+ls olddir | xargs -i  mv olddir/{} newdir/{}  
 find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 ```
 
