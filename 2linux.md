@@ -104,14 +104,14 @@ for i in `ls /home/user/`;do cat $i >> foo; done
 
 * sed
 
-```
-cat FILE | sed 's/\(.*\) cat \(.*\)/ \1 bat \2/’
+```bash
+cat 1.gtf | head |sed 's/1802/12/'
 ```
 
 * awk
 
 ```
-awk ‘{if($2>2&&$3<3)print}’| cut –f 3 | sort |uniq –c
+cat 1-6.gtf |head | awk '{if($4>1000 && $5>2900)print}' | cut –f 3 | sort | uniq –c
 ```
 
 * history
