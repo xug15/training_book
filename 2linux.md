@@ -12,7 +12,7 @@ Linux命令行格式：命令 _（空格）_【选项】_（空格）_参数1 �
 
 man  查询某一命令的具体参数，例如：`man wget`
 
-  或者 --help, 例如 `ls --help`
+或者 --help, 例如 `ls --help`
 
 mkdir    创建文件夹
 
@@ -97,8 +97,10 @@ cat human.gtf | cut –f 2,3 sort | uniq –c
 
 * seq
 
-  for i in \`Seq 1 100 2\`; do echo "$i"; done  
-    for i in \`ls /home/user/\`;do cat $i &gt;&gt; foo; done
+```bash
+for i in `Seq 1 100 2`; do echo "$i"; done
+for i in `ls /home/user/`;do cat $i >> foo; done
+```
 
 * sed
 
