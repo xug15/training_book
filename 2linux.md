@@ -98,7 +98,7 @@ cat human.gtf | cut –f 2,3 | sort | uniq –c
 * seq
 
 ```bash
-for i in `Seq 1 2 100`; do echo "$i"; done
+for i in `seq 1 2 10`; do echo "$i"; done
 for i in `ls *`;do head "$i" | cut -f 3 ; done
 ```
 
@@ -123,8 +123,8 @@ Ctrl - r : search previous command
 
 * find and locate
 
-```
-find . -name “pattern”
+```bash
+find . -name "*.gtf"  # find . -name "pattern"
 locate
 ```
 
