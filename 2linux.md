@@ -92,7 +92,7 @@ sort -t ',' -k 1 sort -r -t ',' -k 1
 * uniq
 
 ```
-cat human.gtf | cut –f 2,3 sort | uniq –c
+cat human.gtf | cut –f 2,3 | sort | uniq –c
 ```
 
 * seq
