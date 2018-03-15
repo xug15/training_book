@@ -98,8 +98,8 @@ cat human.gtf | cut –f 2,3 | sort | uniq –c
 * seq
 
 ```bash
-for i in `Seq 1 100 2`; do echo "$i"; done
-for i in `ls /home/user/`;do cat $i >> foo; done
+for i in `Seq 1 2 100`; do echo "$i"; done
+for i in `ls *`;do head "$i" | cut -f 3 ; done
 ```
 
 * sed
@@ -110,7 +110,7 @@ cat 1.gtf | head |sed 's/1802/12/'
 
 * awk
 
-```
+```bash
 cat 1-6.gtf |head | awk '{if($4>1000 && $5>2900)print}' | cut –f 3 | sort | uniq –c
 ```
 
