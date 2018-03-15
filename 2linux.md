@@ -153,6 +153,12 @@ find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 
 #### 2\) nohup, screen and qsub
 
+* run something at background
+
+`./run.bat >& run.log & `
+
+`fg`
+
 * **nohup**:
 
 `nohup nice -19 run.bat >& run.log&`
