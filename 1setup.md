@@ -33,8 +33,8 @@ ctrl+p+q     # detach退出: 容器不关闭，容器内部正在运行的任务
 docker attach container_name # attach进入
 
 
-###exit and delete a containter
-exit #inside docker as root 
+###exit and delete a container
+exit #inside docker as root, then exit
 docker rm container_name
 ```
 
@@ -72,13 +72,14 @@ make
 make install
 ```
 
-install basic software for ubuntu
+You can also pull and run a ubuntu docker, then install basic software for ubuntu
 
 `docker run -it --name=ubuntu -h ubuntu -v /Users/john/Documents/unbuntu/:/mac ubuntu`
 
 ```
 apt-get -qq update
 apt-get -y install vim
+...
 ```
 
 More: [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
