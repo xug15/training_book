@@ -17,25 +17,25 @@ How to do our jobs efficiently and reproducibly
 #### 1a\) docker or VM
 
 ```bash
-#install and run a centos docker for the first time
+##install and run a centos docker for the first time
 docker pull centos
-docker run -it --name=my_docker centos
-or
-docker run -it --name=container_name -h hostname -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
 docker run -it --name=centos -h centos -v /Users/john/Documents/centos/:/mac centos
+# docker run -it --name=container_name -h hostname -v /HOST_ABSOLUTE_DIR:/CONTAINER_ABSOLUTE_DIR image_name:tag
+# simple version docker run -it centos
 
+##add user
 useradd john
 passwd john
 su john
+
+###detach (pause) and attach
 ctrl+p+q     # detach退出: 容器不关闭，容器内部正在运行的任务不会停止. ctrl+p+q表示按住ctrl不动，先按下p，后按下q
-
-#re-attach the running container next time
-docker ps  # get the container's name
 docker attach container_name # attach进入
-ctrl+p+q     # detach退出
 
-#stop docker
-docker stop container_id  # 关闭容器
+
+###exit and delete a containter
+exit #inside docker as root 
+docker rm container_name
 ```
 
 install basic software for centos
@@ -62,21 +62,11 @@ yum -y install libg2c.so.0
 yum -y install readline-devel
 yum -y install libXt-devel
 
-mkdir software
-cd /software
-wget -c https://cloud.r-project.org/src/base/R-2/R-2.15.3.tar.gz
-tar -xvzf R-2.15.3.tar.gz
-cd /software/R-2.15.3
-./configure
-make
-
-cd /root
-echo "export PATH=\"/software/R-2.15.3/bin:\$PATH\"" >> .bashrc
-
-cd /software
+mkdir /download
+cd /download
 wget -c http://www.cpan.org/src/5.0/perl-5.26.1.tar.gz
 tar -xvzf perl-5.26.1.tar.gz
-cd /software/perl-5.26.1
+cd /download/perl-5.26.1
 sh Configure -de
 make
 make install
