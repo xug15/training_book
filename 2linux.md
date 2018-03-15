@@ -149,13 +149,54 @@ find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 
 #### 1\) .bashrc and .bash\_profile
 
-[example](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
+Example:
+
+```bash
+# .bashrc
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+
+# User specific environment and startup programs
+if [ -f $HOME/shortcuts ]; then
+        source $HOME/shortcuts
+fi
+PATH=$HOME/bin:$PATH
+export PATH
+
+
+# User specific aliases and functions
+alias qstat="qstat -u '*'"
+#alias screen="/usr/bin/screen -D -R"
+#alias rm="$HOME/bin/del.sh"
+#alias undel="$HOME/bin/del.sh -u"
+#alias ls="ls --color"
+alias ld="ls -d"
+alias c="clear"
+alias l="ls -alh"
+alias lf="ls -F|grep /"
+alias lt="ls -tlr"
+alias mv="mv -i"
+alias cp="cp -pi"
+alias diff="diff -b"
+
+
+#PERL5LIB=$MYHOME/perllib:$MYHOME/perllib/lib64/perl5/site_perl/5.8.5:$MYHOME/perlib/lib/perl5/site_perl/5.8.5
+#export PERL5LIB
+#export R_LIBS_USER=~/R:/data/apps/R_library
+```
+
+[more examples](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
+
+
 
 #### 2\) nohup, screen and qsub
 
 * run something at background
 
-`./run.bat >& run.log & `
+`./run.bat >& run.log &`
 
 `fg`
 
