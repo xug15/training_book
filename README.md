@@ -61,9 +61,8 @@
 
 1. document通过 gitbook共享：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. code通过github共享： [https://github.com/lulab/training](https://github.com/lulab/training)
-3. ppt/pdf/epub等文件通过坚果云共享： [https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
-4. 上传路径：[https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY](https://www.jianguoyun.com/p/DWMHAyUQ0NLuBRiQjkY)
-5. communication: slack
+3. ppt/pdf/epub等文件通过坚果云共享： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
+4. 上传路径：[https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY](https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY)
 
 ### Virtual Machines
 
@@ -75,7 +74,7 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 **Docker:**
 
-We also provide a Linux docker \([https://...](https://...%29%29\), which is a modern solution of setting up a virtual Linux OS.
+We will also provide a Linux docker, which is a modern solution of setting up a virtual Linux OS.
 
 ### Contributors
 

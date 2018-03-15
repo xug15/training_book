@@ -147,12 +147,12 @@
 
 ---
 
-#### 上课讲义和相关书籍下载：
+#### 相关书籍下载：
 
-[https://www.jianguoyun.com/p/DfW\_bF8Q0NLuBRjV7kU](https://www.jianguoyun.com/p/DfW_bF8Q0NLuBRjV7kU)
 
-* 《Bioinformatics Data Skills》
-* 《鸟哥的Linux私房菜-基础学习篇》
+
+* 《[Bioinformatics Data Skills](https://www.jianguoyun.com/p/Dd9aSb4Q0NLuBRjJ9UY)》
+* 《[鸟哥的Linux私房菜-基础学习篇](https://www.jianguoyun.com/p/Dd9aSb4Q0NLuBRjJ9UY)》
 * 《Beginning Perl for Bioinformatics》
 * [Learning Python the Hard Way](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details) 中文版
 * [Quick R](https://www.statmethods.net/)
