@@ -10,7 +10,7 @@
 ---
 
 * Topic: \[精准医疗\] **Identify novel exRNA biomarker for cancer diagnosis**;
-* Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)的本科生和低年级研究生;
+* Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)和[清华学堂班](http://xuetangban.life.tsinghua.edu.cn/)的部分本科生和低年级研究生;
 * Students: 10-15人;
 * Time:  ~3个月;
 * Design: 从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
