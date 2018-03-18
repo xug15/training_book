@@ -98,11 +98,11 @@ We will also provide a Linux docker, which is a modern solution of setting up a 
 | 1 | 13 Yang Li |
 | 2 | 14 Binbin Shi |
 | 3 | 16 Siqi Wang |
-| 4 | 16 Jingyi Cao |
+| 4 | 16 Jingyi Ca |
 
-[Skills of Each Team](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
-
-[Training Notes -- 2018](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
+* [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
+* [Skills of Each Team](https://www.icloud.com/numbers/0w8lKCM1TCgyuLhkk9NykvMrg#Bioinfo_Training_2018)
+* [Shared Notes and Scripts](https://www.gitbook.com/book/lulab/bioinfo-training-2018) by each Team
 
 ### Join Us
 
