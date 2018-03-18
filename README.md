@@ -60,13 +60,12 @@
 ---
 
 1. 教学讲义：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
-2. PPT等教学文件： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
+2. 教学PPT等： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
 3. 教学视频：[https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng](https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng) 
-
 
 * [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
 * 学员上传和共享路径：
-  * shared notes/scripts: [https://www.gitbook.com/book/lulab/bioinfo-training-2018](https://www.gitbook.com/book/lulab/bioinfo-training-2018)
+  * shared notes/scripts \(gitbook\): [https://www.gitbook.com/book/lulab/bioinfo-training-2018](https://www.gitbook.com/book/lulab/bioinfo-training-2018)
   * shared code \(github\)：[https://github.com/lulab/training](https://github.com/lulab/training)
   * 上传其他文件: [https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY](https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY)
 
@@ -93,8 +92,6 @@ We will also provide a Linux docker, which is a modern solution of setting up a 
 | Binbin Shi |  |  |
 | Siqi Wang |  |  |
 | Jingyi Cao |  | - |
-
-
 
 ### Join Us
 
