@@ -59,17 +59,14 @@
 
 ---
 
-1. document：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
-2. ppt等文件： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
+1. 教学讲义：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
+2. PPT等教学文件： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
 3. 教学视频：[https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng](https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng)
 
-
-* 上传路径：
-  * code (github)：https://github.com/lulab/training
-  * 其他文件 [https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY](https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY)
-  
-
-
+* 学员上传和共享路径：
+  * shared notes/scripts: [https://www.gitbook.com/book/lulab/bioinfo-training-2018](https://www.gitbook.com/book/lulab/bioinfo-training-2018)
+  * shared code \(github\)：[https://github.com/lulab/training](https://github.com/lulab/training)
+  * 上传其他文件: [https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY](https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY)
 
 ### Virtual Machines
 
