@@ -10,6 +10,17 @@ How to make professional and beautiful plots
 >
 > Efficient Writing: Bash &gt; R &gt; Perl/Python &gt; Excel &gt; C,C++
 
+## 
+
+## install R
+
+---
+
+```
+yum -y install epel-release
+yum -y install R
+```
+
 ## Examples
 
 #### Example I. t test

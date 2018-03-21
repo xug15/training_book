@@ -106,22 +106,11 @@ yum -y install xz-devel.x86_64
 yum -y install make
 yum -y install zip unzip
 
-mkdir software
-cd /software
-wget -c https://cloud.r-project.org/src/base/R-2/R-2.15.3.tar.gz
-tar -xvzf R-2.15.3.tar.gz
-cd /software/R-2.15.3
-./configure
-make
-
-cd /root
-echo "export PATH=\"/software/R-2.15.3/bin:\$PATH\"" >> .bash_profile
-source .bash_profile
-
-cd /software
+mkdir /download
+cd /download
 wget -c http://www.cpan.org/src/5.0/perl-5.26.1.tar.gz
 tar -xvzf perl-5.26.1.tar.gz
-cd /software/perl-5.26.1
+cd /download/perl-5.26.1
 sh Configure -de
 make
 make test
@@ -131,7 +120,8 @@ make install
 \(4\) 执行shell脚本
 
 ```
-bash myinstall.sh
+bash myinstall.sh >& my install.log   # with warning message in the log file
+bash myinstall.sh > my install.log    # warning message will be output to STDOUT
 ```
 
 #### 
@@ -142,35 +132,39 @@ bash myinstall.sh
 
 ---
 
+\(0\) install rsync and crontab
+
+```
+yum -y install rsync
+yum -y install crontabs
+```
+
+```
+mkdir /mac/backup   # prepare the backup dir
+```
+
 \(1\) Prepare a backup script, for example, "_~/backup.sh_"
 
 ```bash
 #!/bin/bash
 
+#1. Local backup  
 RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M --exclude-from=/home/zl222/.rsync/exclude"
 
-#1. Local backup  
-#backing up /home1/zl222 to /home/zl222/sub_dir
-
-echo "1. Backup of /home1/zl222 start at:"
+echo "1. Backup of /home/john start at:"
 date
-
-$RSYNC /home1/zl222/ /home/zl222/backup_ncrna_home1/ 
-
+$RSYNC /home/john/ to /mac/backup/
 echo "Backup end at:"
 date
 
 
 
 #2. Remote backup 
-
 RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M --files-from=/home/backup1/backup_file"
 
-echo "2. Backup 172.22.220.20:/data/ to /home/backup1/ start at:"
+echo "2. Backup 172.22.220.20:/data/ to /mac/backup2/ start at:"
 date
-
-$RSYNC liushanhu@172.22.220.20:/data/ /home/backup1/
-
+$RSYNC john@172.22.220.20:/home/john/data/ /mac/backup2/
 echo "Backup end at:"
 date
 ```
@@ -178,6 +172,10 @@ date
 \(2\) Using "crontab" command to execute the backup script routinely, and record in a log file, for example,
 
 execute the command "_~/backup.sh &gt; ~/backup.log_" in 5:10am everyday:
+
+```
+chmod +x ~/backup.sh
+```
 
 ```
 1) open crontab and edit it by the following command: 
