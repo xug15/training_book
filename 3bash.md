@@ -153,7 +153,7 @@ RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --
 
 echo "1. Backup of /home/john start at:"
 date
-$RSYNC /home/john/ to /mac/backup/
+$RSYNC /home/john/data/ to /mac/backup/
 echo "Backup end at:"
 date
 
