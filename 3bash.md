@@ -199,9 +199,11 @@ crontab -e  or crontab ~/cronjob
   ```bash
   gawk '{print $2 $1}' FILE | head -100
   cat FILE | gawk '(NR>2) {print }'
+
   gawk -f FILE # take command from file
 
-    Begin { a=1; ORS = ” ”}  # ORS: output record seperator
+    Begin { a=1; ORS = " "}  # ORS: output record seperator
+    ...
   ```
 * #### input STANDIN in your script
 
