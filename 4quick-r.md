@@ -12,7 +12,7 @@ How to make professional and beautiful plots
 
 ## 
 
-## install R
+## 1）install R
 
 ---
 
@@ -21,7 +21,9 @@ yum -y install epel-release
 yum -y install R
 ```
 
-## Examples
+## 
+
+## 2）Examples
 
 #### Example I. t test
 
@@ -39,4 +41,21 @@ sh\# R
 
 or write these into a file, script.R, then run  
 `R CMD BATCH script.R`
+
+
+
+### 3）更多阅读和练习
+
+---
+
+阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
+
+> Learning R  
+> R Interface  
+> Data Input  
+> Statistics
+>
+> ...
+
+
 

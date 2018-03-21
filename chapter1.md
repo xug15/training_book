@@ -149,8 +149,6 @@
 
 #### 相关书籍下载：
 
-
-
 * 《[Bioinformatics Data Skills](https://www.jianguoyun.com/p/Dd9aSb4Q0NLuBRjJ9UY)》
 * 《[鸟哥的Linux私房菜-基础学习篇](https://www.jianguoyun.com/p/Dd9aSb4Q0NLuBRjJ9UY)》
 * 《Beginning Perl for Bioinformatics》
