@@ -149,7 +149,7 @@ mkdir /mac/backup   # prepare the backup dir
 #!/bin/bash
 
 #1. Local backup  
-RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M --exclude-from=/home/zl222/.rsync/exclude"
+RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M --exclude-from=/home/john/.rsync/exclude"
 
 echo "1. Backup of /home/john start at:"
 date
@@ -160,7 +160,7 @@ date
 
 
 #2. Remote backup 
-RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M --files-from=/home/backup1/backup_file"
+RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --max-size=100M"
 
 echo "2. Backup 172.22.220.20:/data/ to /mac/backup2/ start at:"
 date
