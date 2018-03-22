@@ -122,7 +122,7 @@ We also have [a brief version in Appendix](/1setup-appendix.md).
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
-### 
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 4\)  Always Backup Data Files Regularly
 
