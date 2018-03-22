@@ -42,13 +42,12 @@ sh\# R
 or write these into a file, script.R, then run  
 `R CMD BATCH script.R`
 
-
-
 ### 3）更多阅读和练习
 
 ---
 
-阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
+* [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/chapter1.html)
+* 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 
 > Learning R  
 > R Interface  

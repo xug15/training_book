@@ -221,13 +221,13 @@ EOF
 
 ---
 
-阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
+* [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
+
+* 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
 > 第11章 认识与学习bash  
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
-
-
 
 ### 4）作业
 
