@@ -120,8 +120,8 @@ make install
 \(4\) 执行shell脚本
 
 ```
-bash myinstall.sh >& my install.log   # with warning message in the log file
-bash myinstall.sh > my install.log    # warning message will be output to STDOUT
+bash myinstall.sh >& myinstall.log   # with warning message in the log file
+bash myinstall.sh > myinstall.log    # warning message will be output to STDOUT
 ```
 
 #### 
@@ -153,7 +153,7 @@ RSYNC="rsync --stats  --compress --recursive --times --perms --links --delete --
 
 echo "1. Backup of /home/john start at:"
 date
-$RSYNC /home/john/data/ to /mac/backup/
+$RSYNC /home/john/data/  /mac/backup/
 echo "Backup end at:"
 date
 
