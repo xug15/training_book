@@ -29,8 +29,6 @@ yum -y install R
 
 `?t.test`
 
-
-
 ## 2）Examples
 
 #### Example I. t test
@@ -40,11 +38,13 @@ yum -y install R
 sh\# R
 
 ```R
-  x<-read.table("foo1")
-  y<-read.table("foo2")
-  mean(x)
-  mean(y)
-  t.test(x,y,alternative=c("greater") )
+x<-read.table("foo1")
+y<-read.table("foo2")
+t.test(x,y,alternative=c("less") )
+
+x=x[,1]
+y=y[,1]
+t.test(x,y,altrenative=c("less"),paired=TRUE)
 ```
 
 or write these into a file, script.R, then run  
