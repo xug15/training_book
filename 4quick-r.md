@@ -42,6 +42,10 @@ sh\# R
 or write these into a file, script.R, then run  
 `R CMD BATCH script.R`
 
+#### [More Examples at Github](https://github.com/lulab/PI/tree/master/Rscript)
+
+### 
+
 ### 3）更多阅读和练习
 
 ---
