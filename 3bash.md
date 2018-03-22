@@ -190,7 +190,7 @@ crontab -e  or crontab ~/cronjob
 3) exit and save (like in VIM)
 ```
 
-### 4\) Tips
+### 3\) Tips
 
 ---
 
@@ -217,7 +217,7 @@ EOF
 
 ### 
 
-### 3）更多阅读和练习
+### 4）更多阅读和练习
 
 ---
 
@@ -231,7 +231,7 @@ EOF
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
 
-### 4）作业
+### 5）作业
 
 ---
 
