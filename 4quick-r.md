@@ -21,7 +21,15 @@ yum -y install epel-release
 yum -y install R
 ```
 
-## 
+* How to quit?
+
+`q()`
+
+* How to get help?
+
+`?t.test`
+
+
 
 ## 2）Examples
 
