@@ -120,8 +120,9 @@ make install
 \(4\) 执行shell脚本
 
 ```
-bash myinstall.sh >& myinstall.log   # with warning message in the log file
-bash myinstall.sh > myinstall.log    # warning message will be output to STDOUT
+bash myinstall.sh > myinstall.log    # Standard output to a log file
+bash myinstall.sh >& myinstall.log   # Log both Standard output and Standard error
+bash myinstall.sh > myinstall.log  2> myinstall.err # Log STDOUT and STDERR separately
 ```
 
 #### 
