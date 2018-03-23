@@ -10,6 +10,6 @@
 * [2.Linux - Appendix](2linux-apendix.md)
 * [3.Bash and Github](3bash.md)
 * [4.R](4quick-r.md)
-* [8.DE](8de.md)
 * [II. Basic Bioinfo Analyses](ii-basic-bioinfo-analyses.md)
+* [8.DE](8de.md)
 
