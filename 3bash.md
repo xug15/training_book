@@ -242,7 +242,7 @@ echo "warning: an error occurred
 
 * **Name dir with today's date**
 
-```
+```bash
 mkdir results-$(date +F%)  # +F% format is 2018-03-18
 
 alias today="date +F%"  # you can put this in ~/.bashrc
