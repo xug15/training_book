@@ -77,7 +77,7 @@ dev.off()
 
 ---
 
-* **Reading for Beginners **
+* **for Beginners **
 
 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 
@@ -86,7 +86,7 @@ dev.off()
 > Data Input  
 > Statistics
 
-* **Reading for Advanced Readers **
+* **for Advanced Readers **
 
 a\) 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 

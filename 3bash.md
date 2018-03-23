@@ -229,7 +229,7 @@ grep --color -i "[^ATCG]"      # ^ means non- here
 
 ---
 
-* **Reading for Beginners **
+* **for Beginners **
 
 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
@@ -237,7 +237,7 @@ grep --color -i "[^ATCG]"      # ^ means non- here
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
 
-* **Reading for Advanced Readers **
+* **for Advanced Readers **
   * [**More Bash Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
   * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
   * &lt;&lt;Bioinformatics Data Skills&gt;&gt;

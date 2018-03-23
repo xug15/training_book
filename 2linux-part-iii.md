@@ -12,11 +12,11 @@
 
 ### 
 
-### 更多阅读
+### 更多阅读和练习
 
 ---
 
-* **Reading for Beginners **
+* **for Beginners **
   * 《“笨办法”学python》附录“命令行快速入门”  
   * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
@@ -50,7 +50,7 @@
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
 
-* **Reading for Advanced Readers **
+* **for Advanced Readers **
 
 &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
