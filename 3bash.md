@@ -240,7 +240,16 @@ program1 input.txt > inter.txt || \
 echo "warning: an error occurred
 ```
 
+* **Name dir with today's date**
 
+```
+mkdir results-$(date +F%)  # +F% format is 2018-03-18
+
+alias today="date +F%"  # you can put this in ~/.bashrc
+mkdir results-$(today)
+```
+
+### 
 
 ### 4）更多阅读和练习
 
