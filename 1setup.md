@@ -134,11 +134,22 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ## 
 
-## More Readings
+### 更多阅读
 
 ---
 
-* &lt;&lt;Bioinformatics Data Skills&gt;&gt;
+* **Reading for Beginners  **
+
+&lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+> 1\) How to Learn Bioinformatics
+
+* **Reading for Advanced Readers **
+
+&lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+> 1\) How to Learn Bioinformatics   
+> 2\) Setting up and Managing a Bioinformatics Projects
 
 
 

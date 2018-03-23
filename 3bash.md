@@ -216,6 +216,13 @@ trna
 EOF
 ```
 
+* #### grep non ATGC nucleotides in fasta file
+
+```bash
+grep -v "^>" test.fasta | \    # ^ means start with here
+grep --color -i "[^ATCG]"      # ^ means non- here
+```
+
 ### 
 
 ### 4）更多阅读和练习
@@ -226,11 +233,22 @@ EOF
 
 * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
 
-* 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
+* **Basic Reading for Beginners **
+
+阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
 > 第11章 认识与学习bash  
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
+
+* **Reading for Advanced Readers **
+
+&lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+> 5\) Git for Scientists  
+> 12\) Bioinformatics Shell Scripting, Writing Pipelines, and Parallelizing Tasks
+
+### 
 
 ### 5）作业
 

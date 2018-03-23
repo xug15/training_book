@@ -1,6 +1,6 @@
 # 2. Linux
 
-### III. 上机作业：
+### Part III. 上机作业：
 
 ---
 
@@ -10,16 +10,15 @@
 
 3. 有新的方法加分，但必须注释清楚每个语句和参数的意义和结果。
 
+### 
 
-
-### V. 更多阅读
+### 更多阅读
 
 ---
 
-更多Linux命令详见
-
-* 《“笨办法”学python》附录“命令行快速入门”
-* 《鸟哥的Linux私房菜-基础学习篇》如下章节
+* **Basic Reading for Beginners **
+  * 《“笨办法”学python》附录“命令行快速入门”  
+  * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
 > 第5章  
 >  5.3.1 man page  
@@ -46,6 +45,16 @@
 > 25.3鸟哥的备份策略  
 > 25.4灾难恢复的考虑  
 > 25.5重点回顾
+>
+> 第11章 认识与学习bash  
+> 第12章 正则表达式与文件格式化处理  
+> 第13章 学习shell script
+
+* **Reading for Advanced Readers **
+
+&lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+> 3\) Remedial Unix Shell
 
 
 

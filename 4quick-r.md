@@ -73,10 +73,6 @@ cexRow=2.200000, cexCol=2.200000)
 dev.off()
 ```
 
-
-
-
-
 ### 3）更多阅读和练习
 
 ---
@@ -87,7 +83,22 @@ dev.off()
 
 * [Producing Simple Graphs with R](https://www.harding.edu/fmccown/r/)
 
-* 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
+
+
+* **Basic Reading for Beginners **
+
+阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
+
+> Learning R  
+> R Interface  
+> Data Input  
+> Statistics
+
+
+
+* **Reading for Advanced Readers **
+
+a\) 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 
 > Learning R  
 > R Interface  
@@ -95,6 +106,10 @@ dev.off()
 > Statistics
 >
 > ...
+
+b\) &lt;&lt;Bioinformatics Data Skills&gt;&gt;
+
+> 8\) A Rapid Introduction to the R Language
 
 
 
