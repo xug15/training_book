@@ -195,7 +195,7 @@ crontab -e  or crontab ~/cronjob
 
 ---
 
-* #### awk
+* **awk**
 
   ```bash
   gawk '{print $2 $1}' FILE | head -100
@@ -206,7 +206,8 @@ crontab -e  or crontab ~/cronjob
     Begin { a=1; ORS = " "}  # ORS: output record seperator
     ...
   ```
-* #### input STANDIN in your script
+
+* **input STANDIN in your script**
 
 ```bash
 rnatotal.o <<EOF
@@ -216,18 +217,30 @@ trna
 EOF
 ```
 
-* #### grep non ATGC nucleotides in fasta file
+* **grep non ATGC nucleotides in fasta file**
 
 ```bash
 grep -v "^>" test.fasta | \    # ^ means start with here
 grep --color -i "[^ATCG]"      # ^ means non- here
 ```
 
-* #### A tee in your pipe
+* **A tee in your pipe**
 
 ```bash
 program1 input.txt | tee intermediate-file.txt | program2 > results.txt
 ```
+
+* **Exit Status**
+
+```bash
+program1 input.txt > inter.txt && \   # run program 2 only if program1 is success (i.e. exit status is 0: $? = 0)
+program2 inter.txt> results.txt
+
+program1 input.txt > inter.txt || \
+echo "warning: an error occurred
+```
+
+
 
 ### 4）更多阅读和练习
 
