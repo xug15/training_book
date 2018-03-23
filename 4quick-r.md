@@ -97,19 +97,11 @@ a\) 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 >
 > ...
 
-
-
-b\) &lt;&lt;Bioinformatics Data Skills&gt;&gt;
+b\) Bioinformatics Data Skills
 
 > 8\) A Rapid Introduction to the R Language
-
-
 
 c\) [**More Examples at Github**](https://www.gitbook.com/book/lulab/bioinfo-training/edit#)
 
 d\) [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/chapter1.html)
-
-
-
-
 
