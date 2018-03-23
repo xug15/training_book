@@ -229,10 +229,6 @@ grep --color -i "[^ATCG]"      # ^ means non- here
 
 ---
 
-* [**More Bash Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
-
-* [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
-
 * **Basic Reading for Beginners **
 
 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
@@ -242,8 +238,9 @@ grep --color -i "[^ATCG]"      # ^ means non- here
 > 第13章 学习shell script
 
 * **Reading for Advanced Readers **
-
-&lt;&lt;Bioinformatics Data Skills&gt;&gt;
+  * [**More Bash Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
+  * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
+  * &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
 > 5\) Git for Scientists  
 > 12\) Bioinformatics Shell Scripting, Writing Pipelines, and Parallelizing Tasks
