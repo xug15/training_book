@@ -223,7 +223,11 @@ grep -v "^>" test.fasta | \    # ^ means start with here
 grep --color -i "[^ATCG]"      # ^ means non- here
 ```
 
-### 
+* #### A tee in your pipe
+
+```bash
+program1 input.txt | tee intermediate-file.txt | program2 > results.txt
+```
 
 ### 4）更多阅读和练习
 
