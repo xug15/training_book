@@ -2,19 +2,15 @@
 
 [Normalizing single-cell RNA sequencing data: challenges and opportunities, _Nature Methods_, 2017](https://www.ncbi.nlm.nih.gov/pubmed/28504683)
 
-
-
 ### Problems and issues
 
 ---
 
 * Sparsity of data and technical noise \("batch effects"\) --&gt; will mask the signal of interest
 
-
-
 **Causes:**
 
-![](/img/noise-effect.png)
+![](/assets/noise.png)
 
 ## Computational Methods
 
@@ -24,15 +20,13 @@
 
 _The expression levels of most genes are similar, i.e., not differentially expressed._
 
-
-
 **Recommendation for bulk RNA-seq**
 
 * **RPM**: Read counts Per Million of total mapped reads; alternatives: RPKM, TPM
 * **DEseq**: defines **scaling factor **\(also known as **size factor**\) estimates based on a pseudoreference sample, which is built with the geometric mean of gene counts across all cells \(samples\).
 * [**TMM**](https://www.ncbi.nlm.nih.gov/pubmed/20196867)** **\(**EdgeR**\): trimmed mean of _M_ values
 
-![](/img/TMM.png)
+![](/assets/M.png)
 
 **Recommendation for single cell RNA-seq \(and exRNA-seq\)**
 
@@ -47,13 +41,9 @@ If considering spike-ins:
 1. SAMstrt
 2. GRM
 
-
-
 **Performance**
 
 ![](/img/performance.png)
-
-
 
 ### **Spike-in**
 
@@ -62,8 +52,6 @@ If considering spike-ins:
 **RNA content \(total amount and species\) varies**
 
 ![](/img/RNA content.png)
-
-
 
 **for mRNAs:**
 
@@ -75,11 +63,7 @@ If considering spike-ins:
 
 * 52\(?\) sRNA sequences
 
-
-
 **Caveat:**
 
 Typically only half of the spike-in were detected.
-
-
 
