@@ -1,8 +1,8 @@
-# 3. Bash
+# 3. Bash & Github
 
 How to set up multiple jobs as a pipeline
 
-### 1\) github
+### 1\) Github
 
 ---
 
@@ -70,7 +70,7 @@ git pull?
 
 ### 
 
-### 2\) Examples
+### 2\) Bash Examples
 
 #### Example I
 
@@ -221,7 +221,7 @@ EOF
 
 ---
 
-* [**More Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
+* [**More Bash Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
 
 * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
 

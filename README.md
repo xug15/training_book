@@ -35,7 +35,7 @@
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
-3. **Bash** - How to set up multiple jobs as a pipeline
+3. **Bash \(and Github\)** - How to set up multiple jobs as a pipeline
 4. **R** - How to make professional and beautiful plots
 5. **Perl **- How to program
 6. **Python **- How to program
@@ -66,6 +66,7 @@
 4. [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
 
 5. 学员上传和共享路径：
+
    * [共享gitbook](https://www.gitbook.com/book/lulab/bioinfo-training-2018)：shared notes/scripts
    * [共享github](https://github.com/lulab/training)：  shared code
    * [上传目录](https://www.jianguoyun.com/p/DbgG1R0Q0NLuBRjG9UY)：     上传其他类型的文件

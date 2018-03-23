@@ -111,7 +111,7 @@
 
 #### 学习内容：
 
-1. **Bash** - How to set up multiple job as a pipeline
+1. **Bash \(and Github\)** - How to set up multiple job as a pipeline
 2. **R** - How to make professional and beautiful plots
 
 #### 预习内容：

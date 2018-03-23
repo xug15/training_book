@@ -8,6 +8,6 @@
 * [2.Linux - Part II](2linux-part-ii.md)
 * [2.Linux - Part III](2linux-part-iii.md)
 * [2.Linux - Appendix](2linux-apendix.md)
-* [3.Bash](3bash.md)
+* [3.Bash and Github](3bash.md)
 * [4.R](4quick-r.md)
 
