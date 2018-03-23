@@ -77,7 +77,7 @@ dev.off()
 
 ---
 
-* **Basic Reading for Beginners **
+* **Reading for Beginners **
 
 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :
 

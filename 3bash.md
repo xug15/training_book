@@ -229,7 +229,7 @@ grep --color -i "[^ATCG]"      # ^ means non- here
 
 ---
 
-* **Basic Reading for Beginners **
+* **Reading for Beginners **
 
 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 

@@ -16,7 +16,7 @@
 
 ---
 
-* **Basic Reading for Beginners **
+* **Reading for Beginners **
   * 《“笨办法”学python》附录“命令行快速入门”  
   * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
 
