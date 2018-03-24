@@ -101,7 +101,7 @@ b\) Bioinformatics Data Skills
 
 > 8\) A Rapid Introduction to the R Language
 
-c\) [**More Examples at Github**](https://www.gitbook.com/book/lulab/bioinfo-training/edit#)
+c\) [**More R Examples at Github**](https://github.com/lulab/PI/tree/master/Rscript)
 
 d\) [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/chapter1.html)
 
