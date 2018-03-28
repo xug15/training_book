@@ -1,4 +1,4 @@
-# Differential Expression
+# Differential Expression Analysis
 
 [Normalizing single-cell RNA sequencing data: challenges and opportunities, _Nature Methods_, 2017](https://www.ncbi.nlm.nih.gov/pubmed/28504683)
 

@@ -10,6 +10,8 @@
 * [2.Linux - Appendix](2linux-apendix.md)
 * [3.Bash and Github](3bash.md)
 * [4.R](4quick-r.md)
+* [5.Perl/Python](5perlpython.md)
 * [II. Basic Bioinfo Analyses](ii-basic-bioinfo-analyses.md)
-* [8.DE](8de.md)
+* [1.Mapping Annotation QC](1mapping.md)
+* [2.Differential Expression](8de.md)
 

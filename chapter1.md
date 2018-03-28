@@ -136,7 +136,7 @@
 
 #### 学习内容：
 
-1. **Perl and Python **- How to program
+1. **Perl/Python **- How to program for bioinformatics
 
 #### 预习内容：
 

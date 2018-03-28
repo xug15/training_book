@@ -37,8 +37,7 @@
 2. **Linux **- How to work with command lines
 3. **Bash \(and Github\)** - How to set up multiple jobs as a pipeline
 4. **R** - How to make professional and beautiful plots
-5. **Perl **- How to program
-6. **Python **- How to program
+5. **Perl/Python **- How to program for bioinformatics
 
 #### II. Basic Bioinfo Analyses  -- Week 4-9
 
