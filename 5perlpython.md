@@ -17,19 +17,26 @@ How to program for bioinformatics
 ---
 
 1. Install CPAN: [How to install CPAN modules](http://www.cpan.org/modules/INSTALL.html)
-2. usually you start _cpan _in your shell:
 
-   `# cpan`
+usually you start \_cpan \_in your shell:
 
-   and type
+`# cpan`
 
-   `install Chocolate::Belgian`
+and type
 
-   or in short form:
+`install Statistics::Basic`
 
-   `cpan Chocolate::Belgian`
+`install Statistics/LineFit.pm`
 
+`install Math/Cephes.pm`
 
+or in short form:
+
+`cpan install Statistics::Basic`
+
+`cpan install Statistics/LineFit.pm`
+
+`cpan install Math/Cephes.pm`
 
 
 
