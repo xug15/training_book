@@ -12,7 +12,7 @@ How to program for bioinformatics
 
 ---
 
-### Install Perl Modules
+### 1. Install Perl Modules
 
 ---
 
@@ -41,13 +41,13 @@ or in short form:
 
 ### 
 
-### Examples
+### 2. Examples
 
 ---
 
 [**My Perl Scripts at github**](https://github.com/lulab/PI/tree/master/MISC_scripts)** **
 
-Favorites:
+##### Favorites: {#perlf}
 
 * [seqmanipulator.pl](https://github.com/lulab/PI/blob/master/MISC_scripts/genomics/seqmanipulator.pl)
 * [snp.pl](https://github.com/lulab/PI/blob/master/MISC_scripts/genomics/snp.pl)
@@ -57,7 +57,7 @@ Favorites:
 
 ## 
 
-### Tips
+### 3. Tips
 
 ---
 
@@ -95,6 +95,14 @@ print "$sb->size\n";
 is illegal to read the input. Must add \( \) to the variable, so it should be
 
 `my ($a) = @_;`
+
+
+
+### 4. Homework for Perl
+
+---
+
+1. Try to run [my favorite Perl ](#perlf)scripts and install the modules needed.
 
 ## 
 
