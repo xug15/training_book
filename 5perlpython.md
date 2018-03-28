@@ -17,8 +17,9 @@ How to program for bioinformatics
 ---
 
 1. Install CPAN: [How to install CPAN modules](http://www.cpan.org/modules/INSTALL.html)
+2. Install modules with cpan
 
-usually you start \_cpan \_in your shell:
+usually you start cpan in your shell:
 
 `# cpan`
 
@@ -38,7 +39,7 @@ or in short form:
 
 `cpan install Math/Cephes.pm`
 
-
+### 
 
 ### Examples
 
@@ -94,6 +95,8 @@ print "$sb->size\n";
 is illegal to read the input. Must add \( \) to the variable, so it should be
 
 `my ($a) = @_;`
+
+## 
 
 ## Python
 
