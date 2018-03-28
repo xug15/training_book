@@ -12,6 +12,27 @@ How to program for bioinformatics
 
 ---
 
+### Install Perl Modules
+
+---
+
+1. Install CPAN: [How to install CPAN modules](http://www.cpan.org/modules/INSTALL.html)
+2. usually you start _cpan _in your shell:
+
+   `# cpan`
+
+   and type
+
+   `install Chocolate::Belgian`
+
+   or in short form:
+
+   `cpan Chocolate::Belgian`
+
+
+
+
+
 ### Examples
 
 ---
@@ -66,8 +87,6 @@ print "$sb->size\n";
 is illegal to read the input. Must add \( \) to the variable, so it should be
 
 `my ($a) = @_;`
-
-
 
 ## Python
 
