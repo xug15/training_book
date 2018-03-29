@@ -39,7 +39,14 @@ or in short form:
 
 `cpan install Math/Cephes.pm`
 
-### 
+##### 
+
+##### Recommended Modules
+
+* Bioperl :[ installation guide](http://bioperl.org/INSTALL.html)
+* Statistics::Basic
+
+
 
 ### 2. Examples
 
@@ -96,8 +103,6 @@ is illegal to read the input. Must add \( \) to the variable, so it should be
 
 `my ($a) = @_;`
 
-
-
 ### 4. Homework for Perl
 
 ---
@@ -110,5 +115,5 @@ is illegal to read the input. Must add \( \) to the variable, so it should be
 
 ---
 
-Additional Tutorial
+[Additional Tutorial](https://shibinbin.gitbooks.io/bioinfomatics-training-program/content/python_basics.html)
 
