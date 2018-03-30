@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [INTRODUCTION](README.md)
 
 ## PART I Basic Skills
 
