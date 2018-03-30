@@ -16,8 +16,6 @@
 * [4.R](4quick-r.md)
 * [5.Perl and Python](5perlpython.md)
 
----
-
 ## PART II. Basic Bioinfo Analyses
 
 * [Introduction of PART II](ii-basic-bioinfo-analyses.md)
@@ -27,14 +25,10 @@
 * 4.Normalization
 * 5.Imputation
 
----
-
 ## PART III. Advanced Bioinfo Analyses
 
 * [Introduction of PART III](part-iii-advanced-bioinfo-analyses/introduction-of-part-iii.md)
-* 1.Machine Learning Basics
-* 2.Feature Selection
+* [1.Machine Learning Basics](part-iii-advanced-bioinfo-analyses/1machine-learning-basics.md)
+* [2.Feature Selection](part-iii-advanced-bioinfo-analyses/2feature-selection.md)
 * 3.Deep Learning Basics
-
-
 
