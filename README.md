@@ -60,7 +60,7 @@
 
 1. 教学讲义\(gitbook\)：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. 教学PPT等： [https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
-3. 教学视频：[https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng](https://pan.baidu.com/s/16Htoehit64P9wm9htCu3Ng)
+3. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
 
 4. [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
 
