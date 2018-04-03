@@ -5,10 +5,10 @@
 ## PART I Basic Skills
 
 * [Introduction of PART I](chapter1.md)
-* 1.Setup
+* [1.Setup](1setup.md)
   * [Instruction](1setup.md)
   * [Appendix](1setup-appendix.md)
-* 2.Linux
+* [2.Linux](2linux.md)
   * [1\) Instruction](2linux.md)
   * [2\) Tasks and Homework](2linux-part-ii.md)
   * [Appendix](2linux-apendix.md)
@@ -21,7 +21,7 @@
 * [Introduction of PART II](ii-basic-bioinfo-analyses.md)
 * [1.Mapping Annotation QC](1mapping.md)
 * [2.Differential Expression](8de.md)
-* 3.Clustering
+* [3.Clustering](3clustering.md)
 * 4.Normalization
 * 5.Imputation
 
@@ -30,5 +30,5 @@
 * [Introduction of PART III](part-iii-advanced-bioinfo-analyses/introduction-of-part-iii.md)
 * [1.Machine Learning Basics](part-iii-advanced-bioinfo-analyses/1machine-learning-basics.md)
 * [2.Feature Selection](part-iii-advanced-bioinfo-analyses/2feature-selection.md)
-* 3.Deep Learning Basics
+* [3.Deep Learning Basics](part-iii-advanced-bioinfo-analyses/3deep-learning-basics.md)
 

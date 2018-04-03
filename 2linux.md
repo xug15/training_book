@@ -190,9 +190,7 @@ alias diff="diff -b"
 
 [more examples](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
 
-
-
-#### 2\) nohup, screen and qsub
+#### 2\) nohup, screen and qsub {#nohup}
 
 * run something at background
 
@@ -204,10 +202,19 @@ alias diff="diff -b"
 
 `nohup nice -19 run.bat >& run.log&`
 
-* **screen**:
+* **tmux**:
 
-  * detach: ctrl-A, D
-  * reattach: `screen -R -D`
+  * start a new session: `tmux` or `tumx new-session -s session-name`
+
+  * detach: ctrl-a, d
+
+  * re-attach: `tmux attach-session -d -t session-name  #detach it first`
+
+* **screen**: \# a popular alternative of tmux
+
+  * start a new session: `screen`
+  * detach: ctrl-a, d
+  * re-attach: `screen -R -D  # detach it first`
 
 * **qsub**:
 

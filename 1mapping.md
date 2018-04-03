@@ -2,7 +2,7 @@
 
 ---
 
-### How to install bioinformatics software in Linux
+### Install bioinformatics software in Linux \(centos\)
 
 ```
 mkdir /download

@@ -84,7 +84,7 @@ apt-get -y install vim
 
 More: [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
-#### 1b\) ssh & login
+#### 1b\) ssh & login {#ssh}
 
 * ssh/sftp -p XXX \(default: 22\)
 
