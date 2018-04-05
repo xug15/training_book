@@ -13,9 +13,15 @@
 * Poly-A enriched or total \(ribosome removed\) ?
 * Cellular localization ?
 
-
-
 ### 2. Organize your data
+
+**data format:**
+
+* fasta
+* fastaq
+* gff/gtf
+* bam
+* bed
 
 
 
@@ -38,21 +44,13 @@ make test  # you can skip this if you are confident
 make install
 ```
 
-
-
 ### 4. Map
-
-
 
 ### 5. QC
 
 ### 
 
 ### 6. Annotate
-
-
-
-
 
 
 
