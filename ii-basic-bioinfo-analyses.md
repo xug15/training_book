@@ -55,5 +55,9 @@ mkpr
   * cell free/MV/exosome/RNP
   * small/long
 
+#####  {#rnaseq}
+
+##### [More](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY#dir=%2FII.%20Basic%20Bioinfo%20Analyses::mode=0) {#rnaseq}
+
 
 
