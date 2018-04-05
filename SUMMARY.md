@@ -22,8 +22,9 @@
 * [1.Mapping Annotation QC](1mapping.md)
 * [2.Differential Expression](8de.md)
 * [3.Clustering](3clustering.md)
-* 4.Normalization
+* [4.Normalization](4normalization.md)
 * 5.Imputation
+* [6.Control](6control.md)
 
 ## PART III. Advanced Bioinfo Analyses
 
