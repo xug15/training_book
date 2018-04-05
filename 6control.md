@@ -10,7 +10,7 @@
 
 **Tier 1:**
 
-* **GM12878 **is a lymphoblastoid cell line produced from the blood of a female donor with northern and western European ancestry by EBV transformation. It was one of the original HapMap cell lines and has been selected by the International HapMap Project for deep sequencing using the Solexa/Illumina platform. This cell line has a relatively normal karyotype and grows well. Choice of this cell line offers potential synergy with the International HapMap Project and genetic variation studies. It represents the mesoderm cell lineage. Cells will be obtained from the [Coriell Institute for Medical Research](http://www.coriell.org/)  
+* **GM12878 **is a lymphoblastoid cell line produced from the blood of a female donor with northern and western European ancestry by EBV transformation. It was one of the original HapMap cell lines and has been selected by the International HapMap Project for deep sequencing using the Solexa/Illumina platform. **This cell line has a relatively normal karyotype** and grows well. Choice of this cell line offers potential synergy with the International HapMap Project and genetic variation studies. It represents the mesoderm cell lineage. Cells will be obtained from the [Coriell Institute for Medical Research](http://www.coriell.org/)  
   \[coriell.org\] \(Catalog ID GM12878\).
 
 * **K562** is an immortalized cell line produced from a female patient with chronic myelogenous leukemia \(CML\). It is a widely used model for cell biology, biochemistry, and erythropoiesis. It grows well, is transfectable, and represents the mesoderm linage. Cells will be obtained from the [America Type Culture Collection \(ATCC\)](http://www.atcc.org/) \[atcc.org\] \(ATCC Number CCL-243\).
@@ -38,8 +38,6 @@
 ### ![](/assets/image.png) {#local}
 
 Ref.: [https://www.nature.com/articles/nature11233](/h ttps://www.nature.com/articles/nature11233)
-
-
 
 ### 2. CCLE \(cancer cell lines\)
 
