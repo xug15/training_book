@@ -2,7 +2,26 @@
 
 ---
 
-### Install bioinformatics software in Linux \(centos\)
+### 1. Understand your data
+
+**exRNA-seq:**
+
+* Sequencing machine ?
+* Single-strand V.S. Paired-end ?
+* Strand specific ?
+* Size selection ?
+* Poly-A enriched or total \(ribosome removed\) ?
+* Cellular localization ?
+
+
+
+### 2. Organize your data
+
+
+
+### 3. Get the software ready
+
+#### Install bioinformatics software in Linux \(centos\)
 
 ```
 mkdir /download
@@ -18,6 +37,22 @@ make
 make test  # you can skip this if you are confident
 make install
 ```
+
+
+
+### 4. Map
+
+
+
+### 5. QC
+
+### 
+
+### 6. Annotate
+
+
+
+
 
 
 
