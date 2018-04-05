@@ -24,10 +24,6 @@ mkpr
 
 ## 3\) Bioinformatics data
 
-
-
-
-
 ## 4\) Let's start a real case
 
 ### Find novel exRNA biomarkers for cancer diagnosis
@@ -36,7 +32,28 @@ mkpr
 
 #### Background
 
-#### 
+##### Type of RNA-seq
+
+* **Default:** \(whole cell poly-A\) RNA-seq  \(&gt;200nt\)
+
+* **Other types:**
+
+  * small RNA-seq  \(&lt;50nt\)
+  * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
+  * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
+
+* **Different cell localizations:**
+
+  * nuc. \(total\) 
+  * chromosome \(total\) 
+  * cyto. \(poly-A\) 
+
+* **Single cell RNA-seq**
+
+* **exRNA-seq**
+
+  * cell free/MV/exosome/RNP
+  * small/long
 
 
 

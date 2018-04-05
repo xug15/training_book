@@ -37,23 +37,7 @@
 
 ### ![](/assets/image.png)
 
-### Type of RNA-seq
-
-* **Default:** \(whole cell poly-A\) RNA-seq
-
-* **Other types:**
-
-  * small RNA-seq
-  * total RNA-seq \(ribosome removed\), 
-  * nonpolyA RNA-seq \(ribosome removed\)
-
-* **Different cell localizations:**
-
-  * nuc. RNA-seq \(total\) 
-  * chromosome RNA-seq \(total\) 
-  * cyto. RNA-seq \(poly-A\) 
-
-* **Single cell RNA-seq**
+### 
 
 ### 2. CCLE \(cancer cell lines\)
 
