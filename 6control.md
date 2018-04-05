@@ -35,7 +35,7 @@
 * Primary heart or liver cells
 * Differentiated H1 cells
 
-### ![](/assets/image.png)
+### ![](/assets/image.png) {#local}
 
 ### 
 

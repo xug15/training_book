@@ -42,7 +42,7 @@ mkpr
   * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
   * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
 
-* **Different cell localizations:**
+* [**Different cell localizations**](/6control.md#local)**:**
 
   * nuc. \(total\) 
   * chromosome \(total\) 
