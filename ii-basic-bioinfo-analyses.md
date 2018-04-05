@@ -32,7 +32,7 @@ mkpr
 
 #### Background
 
-##### Type of RNA-seq
+##### Type of RNA-seq {#rnaseq}
 
 * **Default:** \(whole cell poly-A\) RNA-seq  \(&gt;200nt\)
 
