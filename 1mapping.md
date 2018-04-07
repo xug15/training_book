@@ -2,7 +2,7 @@
 
 ---
 
-### 1. Understand your data
+### 1\) Understand your data
 
 **exRNA-seq:**
 
@@ -13,7 +13,7 @@
 * Poly-A enriched or total \(ribosome removed\) ?
 * Cellular localization ?
 
-### 2. Organize your data
+### 2\) Organize your data
 
 [**Data format**](https://genome.ucsc.edu/FAQ/FAQformat.html)**:**
 
@@ -22,20 +22,33 @@
 * gff/gtf
 * bam
 * bed
+* bigwig
 
-**Data dir:**
+**Shared Data dir:**
 
 * /projects/exRNA/
-  * seq/      #sequencing raw data, usually fastq files
-  * fasta/    #sequences of reference genome 
-  * gff/      #annotation of reference genome (gencode, hg38)
-  * bin/      #executable tools
+  * data/
+    * seq/      \#sequencing raw data, usually fastq files
+  * genome/
+    * fasta/    \#sequences of reference genome 
+    * gff/      \#annotation of reference genome \(gencode, hg38\)
+  * shared_scripts/      \#executable tools
+
+**Make your own project dir:**
+
+```bash
+mkdir -p ~/projects/exRNA
+cd ~/projects/exRNA
+mkpr
+ln -s /projects/exRNA/data .
+ln -s /projects/exRNA/genome .
+ln -s /projects/exRNA/shared_scripts .
+```
 
 
 
 
-
-### 3. Get the software ready
+### 3\) Get the software ready
 
 #### Install bioinformatics software in Linux \(centos\)
 
@@ -54,13 +67,13 @@ make test  # you can skip this if you are confident
 make install
 ```
 
-### 4. Map
+### 4\) Map
 
-### 5. QC
+### 5\) QC
 
 ### 
 
-### 6. Annotate
+### 6\) Annotate
 
 
 
