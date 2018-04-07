@@ -26,13 +26,16 @@
 
 **Shared Data dir:**
 
+* /shared\_scripts/ \#executable tools
+* /genomes/hg38
+  * fasta/ \#sequences of reference genome 
+  * gff/   \#annotation of reference genome (gencode, hg38)
 * /projects/exRNA/
-  * data/
-    * seq/      \#sequencing raw data, usually fastq files
-  * genome/
-    * fasta/    \#sequences of reference genome 
-    * gff/      \#annotation of reference genome \(gencode, hg38\)
-  * shared_scripts/      \#executable tools
+  * data \#sequencing raw data, usually fastq files
+    * fastq_hcc
+    * fastq_pnas2015
+    * fastq_sr2017
+
 
 **Make your own project dir:**
 
@@ -41,12 +44,9 @@ mkdir -p ~/projects/exRNA
 cd ~/projects/exRNA
 mkpr
 ln -s /projects/exRNA/data .
-ln -s /projects/exRNA/genome .
-ln -s /projects/exRNA/shared_scripts .
+ln -s /genomes/hg38 .
+ln -s /shared_scripts .
 ```
-
-
-
 
 ### 3\) Get the software ready
 
