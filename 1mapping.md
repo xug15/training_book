@@ -15,13 +15,23 @@
 
 ### 2. Organize your data
 
-**data format:**
+[**Data format**](https://genome.ucsc.edu/FAQ/FAQformat.html)**:**
 
 * fasta
 * fastaq
 * gff/gtf
 * bam
 * bed
+
+**Data dir:**
+
+* /projects/exRNA/
+  * seq/      #sequencing raw data, usually fastq files
+  * fasta/    #sequences of reference genome 
+  * gff/      #annotation of reference genome (gencode, hg38)
+  * bin/      #executable tools
+
+
 
 
 

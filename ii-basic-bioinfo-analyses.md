@@ -22,11 +22,9 @@ alias mkpr="mkdir -p {data/mapped,scripts,analysis}"  # you can put this in your
 mkpr
 ```
 
-## 3\) Bioinformatics data
+## 3\) Let's start a real case
 
-## 4\) Let's start a real case
-
-### Find novel exRNA biomarkers for cancer diagnosis
+### -- identify novel exRNA biomarkers for cancer diagnosis
 
 ---
 
@@ -57,7 +55,7 @@ mkpr
 
 #####  {#rnaseq}
 
-##### [More](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY#dir=%2FII.%20Basic%20Bioinfo%20Analyses::mode=0) {#rnaseq}
+##### [More](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY#dir=%2FII. Basic Bioinfo Analyses::mode=0) {#rnaseq}
 
 
 
