@@ -26,11 +26,13 @@
 
 **Shared Data dir:**
 
-* /shared\_scripts/ \#executable tools
-* /genomes/hg38
+SHARE="/1PB/Lulab\_b/shared"
+
+* $SHARE/shared\_scripts/ \#executable tools
+* $SHARE/genomes/hg38
   * fasta/ \#sequences of reference genome 
   * gff/   \#annotation of reference genome \(gencode, hg38\)
-* /projects/exRNA/
+* $SHARE/projects/exRNA/
   * data \#sequencing raw data, usually fastq files
     * fastq\_hcc
     * fastq\_pnas2015
@@ -42,9 +44,9 @@
 mkdir -p ~/projects/exRNA
 cd ~/projects/exRNA
 mkpr
-ln -s /projects/exRNA/data .
-ln -s /genomes/hg38 .
-ln -s /shared_scripts .
+ln -s $SHARE/projects/exRNA/data .
+ln -s $SHARE/genomes/hg38 .
+ln -s $SHARE/shared_scripts .
 ```
 
 ### 3\) Get the software ready
