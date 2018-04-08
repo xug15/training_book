@@ -61,15 +61,11 @@
 
 ![](/assets/tcga.jpg)
 
-
-
 ### 4. 1000 Genomes
 
 > find most genetic variants with frequencies of at least 1% in the populations studied.
 >
 > [http://www.internationalgenome.org/](http://www.internationalgenome.org/)
-
-
 
 ## Online **Databases** {#databases}
 
@@ -89,7 +85,7 @@
 
 contribute to the NIH mission of ‘uncovering new knowledge’. [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 
-### Expression Data
+### Expression Data {#exp}
 
 **4. GTEx**
 
