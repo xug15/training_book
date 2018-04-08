@@ -51,15 +51,9 @@ ln -s /shared_scripts .
 
 [Install bioinformatics software in Linux \(centos\)](https://lulab.gitbooks.io/bioinfo-training-2018/content/software-installation-on-cnode.html)
 
-### 4\) Map
+### 4\) Map, Annotate and QC
 
 ### 
-
-### 5\) QC
-
-### 
-
-### 6\) Annotate
 
 
 
