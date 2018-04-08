@@ -8,7 +8,7 @@
 
 ### 1. ENCODE \(cell lines\)
 
-> build a comprehensive parts list of functional elements in the human genome.
+> a comprehensive list of functional elements in the human genome.
 >
 > [https://www.encodeproject.org/](https://www.encodeproject.org/)
 
@@ -61,7 +61,15 @@
 
 ![](/assets/tcga.jpg)
 
-##  {#databases}
+
+
+### 4. 1000 Genomes
+
+> find most genetic variants with frequencies of at least 1% in the populations studied.
+>
+> [http://www.internationalgenome.org/](http://www.internationalgenome.org/)
+
+
 
 ## Online **Databases** {#databases}
 
@@ -69,35 +77,35 @@
 
 ### Major Data Central
 
-**1. UCSC**:
+**1. UCSC**
 
-**genome browser** for vertebrate.[https://genome.ucsc.edu/](https://genome.ucsc.edu/)
+**genome browser** for vertebrate. [https://genome.ucsc.edu/](https://genome.ucsc.edu/)
 
-**2. Ensemble**:
+**2. Ensemble**
 
-**genome annotation**.[http://www.ensembl.org/index.html](http://www.ensembl.org/index.html)
+**genome annotation**. [http://www.ensembl.org/index.html](http://www.ensembl.org/index.html)
 
-**3. NCBI**:
+**3. NCBI**
 
-contribute to the NIH mission of ‘uncovering new knowledge’.[https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
+contribute to the NIH mission of ‘uncovering new knowledge’. [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 
 ### Expression Data
 
-**4. GTEx**:
+**4. GTEx**
 
-gene expression in **different tissues**.[https://www.gtexportal.org/home/](https://www.gtexportal.org/home/)
+gene expression in **different tissues**. [https://www.gtexportal.org/home/](https://www.gtexportal.org/home/)
 
-**5. Expression Atlas**:
+**5. Expression Atlas**
 
-exploring gene expression results across species under** different biological conditions**.[https://www.ebi.ac.uk/gxa/home](https://www.ebi.ac.uk/gxa/home)
+exploring gene expression results across species under** different biological conditions**. [https://www.ebi.ac.uk/gxa/home](https://www.ebi.ac.uk/gxa/home)
 
-**6. BioPortal**:
+**6. BioPortal**
 
-visualization, analysis and download of large-scale** cancer genomics data **sets.[http://www.cbioportal.org/index.do](http://www.cbioportal.org/index.do)
+visualization, analysis and download of large-scale** cancer genomics data **sets. [http://www.cbioportal.org/index.do](http://www.cbioportal.org/index.do)
 
-**7. TCGA GEPIA**:
+**7. TCGA GEPIA**
 
-gene expression in different TCGA tumor types.[http://gepia.cancer-pku.cn/index.html](http://gepia.cancer-pku.cn/index.html)+
+gene expression in different TCGA tumor types. [http://gepia.cancer-pku.cn/index.html](http://gepia.cancer-pku.cn/index.html)
 
 **8. TCGA ncRNA **
 
