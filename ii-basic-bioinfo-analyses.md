@@ -1,4 +1,4 @@
-# II. Basic Bioinfo Analyses
+# Introduction of Part II. Basic Bioinfo Analyses
 
 Case Studies
 
