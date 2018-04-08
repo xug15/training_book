@@ -29,13 +29,12 @@
 * /shared\_scripts/ \#executable tools
 * /genomes/hg38
   * fasta/ \#sequences of reference genome 
-  * gff/   \#annotation of reference genome (gencode, hg38)
+  * gff/   \#annotation of reference genome \(gencode, hg38\)
 * /projects/exRNA/
   * data \#sequencing raw data, usually fastq files
-    * fastq_hcc
-    * fastq_pnas2015
-    * fastq_sr2017
-
+    * fastq\_hcc
+    * fastq\_pnas2015
+    * fastq\_sr2017
 
 **Make your own project dir:**
 
@@ -50,24 +49,11 @@ ln -s /shared_scripts .
 
 ### 3\) Get the software ready
 
-#### Install bioinformatics software in Linux \(centos\)
-
-```
-mkdir /download
-```
-
-```bash
-cd /download
-wget -c http://www.cpan.org/src/5.0/perl-5.26.1.tar.gz
-tar -xvzf perl-5.26.1.tar.gz
-cd /download/perl-5.26.1
-sh Configure -de
-make
-make test  # you can skip this if you are confident
-make install
-```
+[Install bioinformatics software in Linux \(centos\)](https://lulab.gitbooks.io/bioinfo-training-2018/content/software-installation-on-cnode.html)
 
 ### 4\) Map
+
+### 
 
 ### 5\) QC
 
