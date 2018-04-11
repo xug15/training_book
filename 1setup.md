@@ -138,6 +138,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 ---
 
+* [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 0. Setup Part I，1.Setup Part II
 * **for Beginners  **
 
 &lt;&lt;Bioinformatics Data Skills&gt;&gt;

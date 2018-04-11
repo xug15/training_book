@@ -255,6 +255,8 @@ mkdir results-$(today)
 
 ---
 
+* [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week II. 3. Bash
+
 * **for Beginners **
 
 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:

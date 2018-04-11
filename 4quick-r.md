@@ -77,6 +77,8 @@ dev.off()
 
 ---
 
+* [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week II. 4. R
+
 * **for Beginners **
 
 阅读和练习[Quick R](https://www.statmethods.net/) 如下章节 :

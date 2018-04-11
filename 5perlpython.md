@@ -10,6 +10,8 @@ How to program for bioinformatics
 
 ## Python
 
+[相关教学视频](http://list.youku.com/albumlist/show/id_51618375.html): Week III.6.Python - Shared by Shi
+
 ---
 
 学习并完成这里面的作业：[Python Tutorial](https://shibinbin.gitbooks.io/bioinfomatics-training-program/content/python_basics.html)
@@ -18,9 +20,11 @@ How to program for bioinformatics
 
 ## Perl
 
+[相关教学视频](http://list.youku.com/albumlist/show/id_51618375.html): Week III.5.Perl
+
 ---
 
-### 1. Install Perl Modules
+### 1\) Install Perl Modules
 
 ---
 
@@ -54,7 +58,7 @@ or in short form:
 * Bioperl :[ installation guide](http://bioperl.org/INSTALL.html)
 * Statistics::Basic
 
-### 2. Examples
+### 2\) Examples
 
 ---
 
@@ -70,7 +74,7 @@ or in short form:
 
 ## 
 
-### 3. Tips
+### 3\) Tips
 
 ---
 
@@ -109,15 +113,13 @@ is illegal to read the input. Must add \( \) to the variable, so it should be
 
 `my ($a) = @_;`
 
-### 4. Homework for Perl
+### 
+
+### 4\) Homework for Perl
 
 ---
 
 1. Try to run [my favorite Perl ](#perlf)scripts and install the modules needed.
-
-## 
-
-## 
 
 
 
