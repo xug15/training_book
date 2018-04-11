@@ -278,9 +278,7 @@ mkdir results-$(today)
 ---
 
 1. 利用google等工具找到如何让awk读输入文件时只按照tab来做separator？
-2. 学习和完成这里面的作业：[**Additional Tutorial**](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/chapter1.html)
-
-
+2. 学习和完成这里面的作业：[**Additional Tutorial**](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/chapter1.html) \([相关教学视频](http://list.youku.com/albumlist/show/id_51618375.html)：Week II. Bash and R -- Shared by Li\)
 
 
 
