@@ -101,7 +101,11 @@ b\) Bioinformatics Data Skills
 
 > 8\) A Rapid Introduction to the R Language
 
-c\) [**More R Examples at Github**](https://github.com/lulab/PI/tree/master/Rscript)
+3\) [**More R Examples at Github**](https://github.com/lulab/PI/tree/master/Rscript)
 
-d\) [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/chapter1.html)
+### 4）作业
+
+---
+
+学习和完成这里面的作业：[Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/r-basics.html)
 
