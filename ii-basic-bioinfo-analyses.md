@@ -15,7 +15,7 @@ Case Studies
 >
 > 4\) Working with Remote Machines
 
-## 2\) Initiate a project
+## 2\) Initiate a project {#mkpr}
 
 ```bash
 alias mkpr="mkdir -p {data/mapped,scripts,analysis}"  # you can put this in your ~/.bashrc

@@ -24,30 +24,33 @@
 * bed
 * bigwig
 
-**Shared Data dir:**
+**Shared dirs/data:**
 
-SHARE="/1PB/Lulab\_b/shared"
+```
+cd  #go to my home
+ln -s /BioII/lulab_b/shared/genomes  .   #shared reference genome sequeunces and annotations
+ln -s /BioII/lulab_b/shared/shared_scripts  .  #shared scripts in Lu Lab
+ln -s /BioII/lulab_b/shared/projects/exRNA  shared_exRNA_projects   #shared projects' files
+```
 
-* $SHARE/shared\_scripts/ \#executable tools
-* $SHARE/genomes/hg38
-  * fasta/ \#sequences of reference genome 
-  * gff/   \#annotation of reference genome \(gencode, hg38\)
-* $SHARE/projects/exRNA/
-  * data \#sequencing raw data, usually fastq files
-    * fastq\_hcc
-    * fastq\_pnas2015
-    * fastq\_sr2017
+* ~/genomes/human\_hg38
+  * sequences/ \#sequences of reference genome \(fasta format\)
+  * index/ \# indexed genome sequences
+  * gtf/   \#annotation of reference genome 
 
 **Make your own project dir:**
 
 ```bash
+cd # go to my home
+vim .bashrc # see my example in /home/john/.bashrc (and shortcuts)
+mkdir github
+
 mkdir -p ~/projects/exRNA
 cd ~/projects/exRNA
 mkpr
-ln -s $SHARE/projects/exRNA/data .
-ln -s $SHARE/genomes/hg38 .
-ln -s $SHARE/shared_scripts .
 ```
+
+> see previous introduction on home to [make you own mkpr](/ii-basic-bioinfo-analyses.md#mkpr)
 
 ### 3\) Get the software ready
 
@@ -55,7 +58,5 @@ ln -s $SHARE/shared_scripts .
 
 ### 4\) Mapping, Annotate and QC
 
-### 
-
-
+学习并完成这里面的作业：[ Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
 
