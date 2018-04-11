@@ -28,7 +28,7 @@ mkpr
 
 ---
 
-0.** **[**Background Introduction**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
+0.** **[**Background Introduction \(PPT\)**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
 
 1. **Mapping, Annotation **and** QC**
 2. **Differential Expression Analysis**
@@ -40,8 +40,6 @@ mkpr
 #####  {#rnaseq}
 
 #####  {#rnaseq}
-
-
 
 
 
