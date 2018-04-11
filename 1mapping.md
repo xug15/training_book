@@ -70,10 +70,10 @@ mkdir github
 
 mkdir -p ~/projects/exRNA
 cd ~/projects/exRNA
+
+alias mkpr="mkdir -p {data/mapped,scripts,analysis}"  # you can put this in your ~/.bashrc
 mkpr
 ```
-
-> see previous introduction on home to [make you own mkpr](/ii-basic-bioinfo-analyses.md#mkpr)
 
 ### 3\) Get the software ready
 

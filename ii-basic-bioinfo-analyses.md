@@ -1,6 +1,6 @@
 # Introduction of Part II. Basic Bioinfo Analyses
 
-Case Studies
+Case Study
 
 ---
 
@@ -15,14 +15,7 @@ Case Studies
 >
 > 4\) Working with Remote Machines
 
-## 2\) Initiate a project {#mkpr}
-
-```bash
-alias mkpr="mkdir -p {data/mapped,scripts,analysis}"  # you can put this in your ~/.bashrc
-mkpr
-```
-
-## 3\) Let's start a real case
+## 2\) Let's start a real case
 
 ### -- identify novel exRNA biomarkers for cancer diagnosis
 
