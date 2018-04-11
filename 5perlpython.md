@@ -8,6 +8,14 @@ How to program for bioinformatics
 >
 > If you have no previous experience on either Perl or Python, we would recommend **Python** for you.
 
+## Python
+
+---
+
+学习并完成这里面的作业：[Python Tutorial](https://shibinbin.gitbooks.io/bioinfomatics-training-program/content/python_basics.html)
+
+## 
+
 ## Perl
 
 ---
@@ -109,9 +117,7 @@ is illegal to read the input. Must add \( \) to the variable, so it should be
 
 ## 
 
-## Python
+## 
 
----
 
-学习并完成这里面的作业：[Additional Tutorial](https://shibinbin.gitbooks.io/bioinfomatics-training-program/content/python_basics.html)
 
