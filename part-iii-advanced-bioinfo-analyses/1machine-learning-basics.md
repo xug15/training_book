@@ -1,4 +1,6 @@
 # Machine Learning Basics
 
+We'll introduce some basic machine learning methods.
+
 
 
