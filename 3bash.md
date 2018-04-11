@@ -265,7 +265,7 @@ mkdir results-$(today)
 
 * **for Advanced Readers **
   * [**More Bash Examples at Github**](https://github.com/lulab/PI/tree/master/workflow)
-  * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bash-and-r-scripts/content/)
+  * [**Additional Tutorial**](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/chapter1.html)
   * &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
 > 5\) Git for Scientists  
@@ -278,6 +278,9 @@ mkdir results-$(today)
 ---
 
 1. 利用google等工具找到如何让awk读输入文件时只按照tab来做separator？
+2. 学习和完成这里面的作业：[**Additional Tutorial**](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/chapter1.html)
+
+
 
 
 
