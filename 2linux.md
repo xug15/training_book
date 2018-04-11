@@ -1,44 +1,6 @@
 # 2. Linux
 
-### 上机指南
-
----
-
-Linux命令行格式：命令 _（空格）_【选项】_（空格）_参数1 参数2...
-
-注意：命令、选项、参数之间一定要用**空格**来区分！
-
-常用命令：
-
-man  查询某一命令的具体参数，例如：`man wget`
-
-或者 --help, 例如 `ls --help`
-
-mkdir    创建文件夹
-
-cd    目录切换（区别相对路径与绝对路径）
-
-ls 显示文件夹中文件列表
-
-cat 直接查看文件
-
-wc 查看文件行数、字数
-
-cut 取出文件中的特定列或字符
-
-sort 排序
-
-uniq 去重复
-
-grep 文件中关键词搜索，返回行
-
-chmod 修改文件的访问权限
-
-> Note:
->
-> 更多Linux命令使用指南详见[附录](/2linux-apendix.md)
-
-### Examples
+### 1\) Examples
 
 ---
 
@@ -143,11 +105,11 @@ ls olddir | xargs -i  mv olddir/{} newdir/{}
 find . -type f -name "*.txt" | xargs -i  mv {} newdir/{}
 ```
 
-### Tips
+### 2\) Tips
 
 ---
 
-#### 1\) .bashrc and .bash\_profile
+#### \(1\) bashrc and .bash\_profile
 
 Example:
 
@@ -190,7 +152,7 @@ alias diff="diff -b"
 
 [more examples](https://github.com/lulab/PI/blob/master/workflow/bash_profile)
 
-#### 2\) nohup, screen and qsub {#nohup}
+#### \(2\) nohup, screen and qsub {#nohup}
 
 * run something at background
 
@@ -222,7 +184,7 @@ alias diff="diff -b"
   * Check `qstat -u '\*'`
   * [example script](https://github.com/lulab/PI/blob/master/workflow/run_bins.pbs)
 
-#### 3\)  secure your files
+#### \(3\)  secure your files
 
 * make your files Read-only 
   * permission for a executable bash script is usually **755**
@@ -248,7 +210,7 @@ chmod  o-w  yourdir/
 vim /etc/ssh/sshd\_config  
   `#PermitRootLogin yes —>no`
 
-#### 4\) Setup ssh key {#ssh-key}
+#### \(4\) Setup ssh key {#ssh-key}
 
 * ssh-keygen  \(authorized\_keys  id\_rsa.pub 权限设置为 600\)
 
@@ -259,7 +221,7 @@ copy authorized key in ~/.ssh/id_rsa.pub to remote_machine:~/.ssh/athorized_keys
 
 > This will be very useful later when we work on remote machine as a local one, especially for jobs like **backup** and **script editing.**
 
-#### 5\) System
+#### \(5\) System
 
 * kernel version
 
@@ -295,6 +257,66 @@ top
 ps -edalf | grep username 
 kill -9 PID
 ```
+
+### 
+
+### 3\) 更多阅读和练习
+
+---
+
+* [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 2. Linux
+
+* **for Beginners **
+
+  * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
+  * 《“笨办法”学python》附录“命令行快速入门”  
+
+> 第5章  
+>  5.3.1 man page  
+> 第6章  
+> 6.1用户与用户组  
+>   6.2  LINUX文件权限概念  
+>   6.3  LINUX目录配置  
+> 第7章Linux文件与目录管理  
+> 7.1目录与路径  
+> 7.2文件与目录管理  
+> 7.3文件内容查阅  
+> 7.5命令与文件的查询  
+> 7.6权限与命令间的关系  
+> 第8章  
+> 8.2文件系统的简单操作  
+> 第9章  
+> 9.1压缩文件的用途与技术  
+> 9.2 Linux系统常见的压缩命令  
+> 9.3打包命令：tar  
+> 第10章vim程序编辑器  （或者其他编辑器文档）  
+> 第11章 认识与学习bash  
+> 第25章 LINUX备份策略  
+> 25.2.2完整备份的差异备份  
+> 25.3鸟哥的备份策略  
+> 25.4灾难恢复的考虑  
+> 25.5重点回顾
+>
+> 第11章 认识与学习bash  
+> 第12章 正则表达式与文件格式化处理  
+> 第13章 学习shell script
+
+* **for Advanced Readers **
+
+《Bioinformatics Data Skills》
+
+> 3\) Remedial Unix Shell
+
+### 4\) Homework
+
+---
+
+1. 练习 “[Linux上机教程](/2linux-part-ii.md)”
+2. 解释gtf/gff文件中第4、5列（$4,$5\)代表什么，exon长度应该是$5-$4+1还是$5-$4
+3. 从gtf/gff文件中寻找3个最长的exon：
+   `grep exon *.gtf | awk '{print $5-$4+1}' | sort -n | tail -3`这个方法有什么bug？
+   有新的方法加分，但必须注释清楚每个语句和参数的意义和结果。  
+4. 从gtf/gff文件中寻找并计算每一个transcript的长度，注意不能重复计算，不能包含intron。
 
 
 
