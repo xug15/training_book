@@ -24,7 +24,7 @@
 * [3.Clustering](3clustering.md)
 * [4.Normalization](4normalization.md)
 * [5.Imputation](5imputation.md)
-* [6.Control](6control.md)
+* [6.Control Data](6control.md)
 
 ## PART III. Advanced Bioinfo Analyses
 
