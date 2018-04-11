@@ -46,6 +46,9 @@
 3. **Clustering **- Visualize the data
 4. **Normalization** 
 5. **Imputation**
+6. **Control Data**
+
+
 
 #### III. Advanced Bioinfo Analyses  -- Week 10-12
 

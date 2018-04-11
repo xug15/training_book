@@ -4,7 +4,32 @@
 
 ### 1\) Understand your data
 
-**exRNA-seq:**
+##### Type of RNA-seq {#rnaseq}
+
+* **Default:** \(whole cell poly-A\) RNA-seq  \(&gt;200nt\)
+
+* **Other types:**
+
+  * small RNA-seq  \(&lt;50nt\)
+  * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
+  * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
+
+* [**Different cell localizations**](/6control.md#local)**:**
+
+  * nuc. \(total\) 
+  * chromosome \(total\) 
+  * cyto. \(poly-A\) 
+
+* **Single cell RNA-seq**
+
+* **exRNA-seq**
+
+  * cell free/MV/exosome/RNP
+  * small/long
+
+
+
+**So what RNA-seq we are mapping and analyzing?**
 
 * Sequencing machine ?
 * Single-strand V.S. Paired-end ?

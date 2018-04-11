@@ -28,34 +28,20 @@ mkpr
 
 ---
 
-#### Background
+0.** **[**Background Introduction**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
 
-##### Type of RNA-seq {#rnaseq}
-
-* **Default:** \(whole cell poly-A\) RNA-seq  \(&gt;200nt\)
-
-* **Other types:**
-
-  * small RNA-seq  \(&lt;50nt\)
-  * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
-  * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
-
-* [**Different cell localizations**](/6control.md#local)**:**
-
-  * nuc. \(total\) 
-  * chromosome \(total\) 
-  * cyto. \(poly-A\) 
-
-* **Single cell RNA-seq**
-
-* **exRNA-seq**
-
-  * cell free/MV/exosome/RNP
-  * small/long
+1. **Mapping, Annotation **and** QC**
+2. **Differential Expression Analysis**
+3. **Clustering **- Visualize the data
+4. **Normalization** 
+5. **Imputation**
+6. **Control Data**
 
 #####  {#rnaseq}
 
-##### [More](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY#dir=%2FII. Basic Bioinfo Analyses::mode=0) {#rnaseq}
+#####  {#rnaseq}
+
+
 
 
 
