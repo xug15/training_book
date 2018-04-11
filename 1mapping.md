@@ -81,5 +81,11 @@ mkpr
 
 ### 4\) Mapping, Annotation and QC
 
-学习并完成这里面的作业：[ Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
+学习并完成这里面的作业：[ ](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
+
+* [Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html) 
+* [Teaching PPT](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY): II. Basic Bioinfo Analyses: 0. Introduction to exRNA-seq; 1. Mapping, Annotation and QC
+* [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V. 0.Introduction of exRNA-seq; 1.Mapping, Annotation and QC
+
+
 
