@@ -27,8 +27,6 @@
   * cell free/MV/exosome/RNP
   * small/long
 
-
-
 **So what RNA-seq we are mapping and analyzing?**
 
 * Sequencing machine ?
@@ -67,7 +65,7 @@ ln -s /BioII/lulab_b/shared/projects/exRNA  shared_exRNA_projects   #shared proj
 
 ```bash
 cd # go to my home
-vim .bashrc # see my example in /home/john/.bashrc (and shortcuts)
+vim .bashrc # see my example in /home/john/.bashrc (and /home/john/shortcuts)
 mkdir github
 
 mkdir -p ~/projects/exRNA
@@ -81,7 +79,7 @@ mkpr
 
 [Install bioinformatics software in Linux \(centos\)](https://lulab.gitbooks.io/bioinfo-training-2018/content/software-installation-on-cnode.html)
 
-### 4\) Mapping, Annotate and QC
+### 4\) Mapping, Annotation and QC
 
 学习并完成这里面的作业：[ Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
 
