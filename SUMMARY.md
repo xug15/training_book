@@ -25,6 +25,7 @@
 * [4.Normalization](4normalization.md)
 * [5.Imputation](5imputation.md)
 * [6.Control Data](6control.md)
+* [7. Extension](7extension.md)
 
 ## PART III. Advanced Bioinfo Analyses
 
@@ -32,4 +33,6 @@
 * [1.Machine Learning Basics](part-iii-advanced-bioinfo-analyses/1machine-learning-basics.md)
 * [2.Feature Selection](part-iii-advanced-bioinfo-analyses/2feature-selection.md)
 * [3.Deep Learning Basics](part-iii-advanced-bioinfo-analyses/3deep-learning-basics.md)
+
+
 
