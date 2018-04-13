@@ -39,7 +39,7 @@ chown -R root:share *  # add a share group, and add all shared DIRs and FILEs to
 
 chmod -R 775 * # make all DIRs writable and executable by "share" group
 
-# The permission for three kinds of FILEs:
+# The permission for FILEs:
 
 chmod  444 *.fastq # all the raw data are read-only for all users
 
