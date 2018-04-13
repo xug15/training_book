@@ -35,7 +35,7 @@ Case Study
 ##### Shared Data: {#share}
 
 ```bash
-chown -R root:share *  # add a share group, and add all shared DIRs and FILEs to this group
+chgrp -R share *  # add a share group, and add all shared DIRs and FILEs to this group
 
 chmod -R 775 * # make all DIRs writable and executable by "share" group
 
