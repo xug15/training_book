@@ -59,6 +59,7 @@ git pull?
 
 ```
 git pull origin master
+git log -n 2 # look at the last two log entries.
 ```
 
 [**more**](https://www.evernote.com/l/ABK7Gt9sva1CkLG9QfxqpZoog5uQoPDB_BU)
