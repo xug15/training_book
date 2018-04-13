@@ -1,4 +1,4 @@
-# Motif, Structure and RBP
+# Extension: Motif, Structure and RBP
 
 ---
 
