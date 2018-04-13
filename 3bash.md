@@ -55,6 +55,12 @@ git push origin
 git pull?
 ```
 
+**Pull \(update\)**:
+
+```
+git pull origin master
+```
+
 [**more**](https://www.evernote.com/l/ABK7Gt9sva1CkLG9QfxqpZoog5uQoPDB_BU)
 
 > **Case study**: how to use google to solve question
