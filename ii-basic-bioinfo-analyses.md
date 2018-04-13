@@ -41,7 +41,7 @@ chmod -R 775 * # make all DIRs writable and executable by "share" group
 
 # The permission for FILEs:
 
-chmod  444 *.fastq # all the raw data are read-only for all users
+chmod 444 *.fastq # all the raw data are read-only for all users
 
 chmod 664 *  # normal files
 
