@@ -32,7 +32,7 @@ Case Study
 
 #####  {#rnaseq}
 
-##### Shared Data: {#rnaseq}
+##### Shared Data: {#share}
 
 ```bash
 chown -R root:share *  # add a share group, and add all shared DIRs and FILEs to this group
