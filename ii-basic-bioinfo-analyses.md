@@ -32,7 +32,23 @@ Case Study
 
 #####  {#rnaseq}
 
-#####  {#rnaseq}
+##### Shared Data: {#rnaseq}
+
+```bash
+chown -R root:share *  # add a share group, and add all shared DIRs and FILEs to this group
+
+chmod -R 775 * # make all DIRs writable and executable by "share" group
+
+# The permission for three kinds of FILEs:
+
+chmod  444 *.fastq # all the raw data are read-only for all users
+
+chmod 664 *  # normal files
+
+chmod 775 REAMDE Metatable.txt # highlight README files with color by making them executable
+
+chmod 775 shared_scripts/* #  scripts need to be executable (better to be 755 or even 555)
+```
 
 
 
