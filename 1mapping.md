@@ -84,8 +84,8 @@ mkpr
 学习并完成这里面的作业：[ ](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
 
 * [Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html) 
-* [Teaching PPT](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY): II. Basic Bioinfo Analyses: 0. Introduction to exRNA-seq; 1. Mapping, Annotation and QC
-* [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V. 0.Introduction of exRNA-seq; 1.Mapping, Annotation and QC
+* Teaching PPT: II. Basic Bioinfo Analyses: 0. Introduction to exRNA-seq; 1. Mapping, Annotation and QC
+* [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V - Part II. 0. Intr to exRNA-seq.mov;   Week V - PARTII.1.Mapping etc - Wang
 
 **Protocol:**
 
@@ -94,13 +94,13 @@ cd ~/projects/exRNA/hcc\_examples/
 | Step | Input | Tool/script | Output | Working directory |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.Preprocessing | 00.rawdata/\*.fastq | - | 02.rRNA/sampleID/sampleID.no\_rRNA.fastq |  |
-|   1.1.index | genome/human\_hg38/gtf/\*.gtf | - | genome/human\_hg38/index/bowtie2\_index/\*.bt2 |  |
-|       1.1.1 gtf-&gt;fasta | genome/human\_hg38/gtf/\*.gtf genome/human\_hg38/sequence/GRCh38.p12.genome.fa | bedtools | \*.fa |  |
-|      1.1.2 fasta-&gt;index | \*.fa | bowtie2-build | \*.bt2 |  |
-|   1.2 fastqc | 00.rawdata/\*.fastq | fastqc | 00.rawdata/\*\_fastqc.html | check raw reads' quality |
-|   1.3 Remove 3' adapter and trim reads | 00.rawdata/\*.fastq | cutadapt | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq | trim low quality ends \(plus a hard cutoff: 50nt\) |
-|   1.4 2nd fastqc | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq | fastqc | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3\_fastqc.html | make sure the low quality reads have been removed and/or trimmed |
-|   1.5 Remove ribosomal RNA | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq + index file | bowtie2 | 02.rRNA/sampleID/sampleID.rRNA.sam 02.rRNA/sampleID/sampleID.no\_rRNA.fastq | - |
+| 1.1.index | genome/human\_hg38/gtf/\*.gtf | - | genome/human\_hg38/index/bowtie2\_index/\*.bt2 |  |
+| 1.1.1 gtf-&gt;fasta | genome/human\_hg38/gtf/\*.gtf genome/human\_hg38/sequence/GRCh38.p12.genome.fa | bedtools | \*.fa |  |
+| 1.1.2 fasta-&gt;index | \*.fa | bowtie2-build | \*.bt2 |  |
+| 1.2 fastqc | 00.rawdata/\*.fastq | fastqc | 00.rawdata/\*\_fastqc.html | check raw reads' quality |
+| 1.3 Remove 3' adapter and trim reads | 00.rawdata/\*.fastq | cutadapt | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq | trim low quality ends \(plus a hard cutoff: 50nt\) |
+| 1.4 2nd fastqc | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq | fastqc | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3\_fastqc.html | make sure the low quality reads have been removed and/or trimmed |
+| 1.5 Remove ribosomal RNA | 01.cutAdapter/sampleID/sampleID.trimmed.cutAdapt3.fastq + index file | bowtie2 | 02.rRNA/sampleID/sampleID.rRNA.sam 02.rRNA/sampleID/sampleID.no\_rRNA.fastq | - |
 | 2.Mapping | 02.rRNA/sampleID/sampleID.no\_rRNA.fastq + index files | bowtie2 | 03.mapping/sampleID/01.miRNA/sampleID.miRNA.sam 03.mapping/sampleID/01.miRNA/sampleID.no\_miRNA.fastq --&gt;  03.mapping/sampleID/02.piRNA/sampleID.piRNA.sam 03.mapping/sampleID/02.piRNA/sampleID.no\_piRNA.fastq --&gt; ... | map to different RNA annotations step by step |
 
 

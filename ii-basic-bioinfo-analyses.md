@@ -21,7 +21,9 @@ Case Study
 
 ---
 
-0.** **[**Background Introduction \(PPT\)**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY)
+* ** 0. Background Introduction **
+  * PPT: link by request;
+  * [Teaching Video](https://legacy.gitbook.com/book/lulab/bioinfo-training/edit#): Week V - Part II. 0. Intr to exRNA-seq.mov
 
 1. **Mapping, Annotation **and** QC**
 2. **Differential Expression Analysis**
@@ -30,25 +32,7 @@ Case Study
 5. **Imputation**
 6. **Control Data**
 
-#####  {#rnaseq}
 
-##### Shared Data: {#share}
-
-```bash
-chgrp -R share *  # add a share group, and add all shared DIRs and FILEs to this group
-
-chmod -R 775 * # make all DIRs writable and executable by "share" group
-
-# The permission for FILEs:
-
-chmod 444 *.fastq # all the raw data are read-only for all users
-
-chmod 664 *  # normal files
-
-chmod 775 REAMDE Metatable.txt # highlight README files with color by making them executable
-
-chmod 775 shared_scripts/* #  scripts need to be executable (better to be 755 or even 555)
-```
 
 
 
