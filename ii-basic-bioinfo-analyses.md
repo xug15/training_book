@@ -25,7 +25,7 @@ Outline:
 1. **Mapping, Annotation **and** QC**  
 2. **Differential Expression Analysis**  
 3. **Clustering **- Visualize the data  
-4. **Normalization**   
+4. **Normalization**  
 5. **Imputation**  
 6. **Control Data**  
 7. **Extension**
@@ -103,5 +103,5 @@ mkpr
 
 #### d\) Get the software ready
 
-[Install bioinformatics software in Linux \(centos\)](https://lulab.gitbooks.io/bioinfo-training-2018/content/software-installation-on-cnode.html)
+[Install bioinformatics software in Linux \(centos\)](https://github.com/lulab/training/wiki/cnode)
 
