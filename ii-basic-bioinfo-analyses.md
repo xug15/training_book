@@ -26,14 +26,13 @@ Case Study
   * [PPT](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY): II. Basic Bioinfo Analyses/0. Introduction of exRNA-seq.pdf \(view on-line only, not downloadable\)
   * [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V - Part II. 0. Intr to exRNA-seq.mov
 
-* **Mapping, Annotation **and** QC**
 
-* **Differential Expression Analysis**
-
-* **Clustering **- Visualize the data
-* **Normalization** 
-* **Imputation**
-* **Control Data**
-
+1. **Mapping, Annotation **and** QC**
+2. **Differential Expression Analysis**
+3. **Clustering **- Visualize the data
+4. **Normalization** 
+5. **Imputation**
+6. **Control Data**
+7. **Extension**
 
 
