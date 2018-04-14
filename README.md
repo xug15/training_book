@@ -61,10 +61,10 @@
 
 1. 教学讲义\(gitbook\)：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
-3. 教学PPT等：link by request 
+3. 教学PPT等：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 
+4. 学员上传和共享路径：
 
-* 学员上传和共享路径：
    * [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
    * [共享gitbook](https://www.gitbook.com/book/lulab/bioinfo-training-2018)：shared notes/scripts
    * [共享github](https://github.com/lulab/training)：  shared code
