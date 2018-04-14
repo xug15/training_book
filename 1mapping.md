@@ -85,7 +85,7 @@ mkpr
 
 * [Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html) 
 * Teaching PPT: II. Basic Bioinfo Analyses: 0. Introduction to exRNA-seq; 1. Mapping, Annotation and QC
-* [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V - Part II. 0. Intr to exRNA-seq.mov;   Week V - PARTII.1.Mapping etc - Wang
+* [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html):  Week V - PARTII.1.Mapping etc - Wang
 
 **Protocol:**
 

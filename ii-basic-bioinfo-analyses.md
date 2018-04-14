@@ -24,11 +24,12 @@ Case Study
 * ** 0. Background Introduction **
 
   * [PPT](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY): II. Basic Bioinfo Analyses/0. Introduction of exRNA-seq.pdf \(view on-line only, not downloadable\)
-  * [Teaching Video](https://legacy.gitbook.com/book/lulab/bioinfo-training/edit#): Week V - Part II. 0. Intr to exRNA-seq.mov
+  * [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V - Part II. 0. Intr to exRNA-seq.mov
 
 * **Mapping, Annotation **and** QC**
 
 * **Differential Expression Analysis**
+
 * **Clustering **- Visualize the data
 * **Normalization** 
 * **Imputation**
