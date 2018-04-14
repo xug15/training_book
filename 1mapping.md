@@ -2,10 +2,6 @@
 
 ---
 
-
-
-### 4\) Mapping, Annotation and QC
-
 学习并完成这里面的作业：[ ](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html)
 
 * [Additional Tutorial](https://youngleebbs.gitbooks.io/bioinformatics-training-program/content/exrna-seq-analysis/1preprocessing-mapping-and-qc.html) 
