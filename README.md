@@ -66,8 +66,7 @@
 4. 学员上传和共享路径：
 
    * [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
-   * [共享gitbook](https://www.gitbook.com/book/lulab/bioinfo-training-2018)：shared notes/scripts
-   * [共享github](https://github.com/lulab/training)：  shared code
+   * [共享github](https://lulab.github.io/training/)：  shared code and documents
    * 上传目录：     上传其他类型的文件 \(link by request\)
 
 ### Virtual Machines
