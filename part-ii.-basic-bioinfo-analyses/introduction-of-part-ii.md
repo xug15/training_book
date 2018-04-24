@@ -1,13 +1,11 @@
-# Introduction of Part II. Basic Bioinfo Analyses
+# Introduction of PART II
 
 Case Study
 
----
-
 ## 1\) Work with a computing server remotely {#1}
 
-1. [ssh](/1setup.md#ssh) and [ssh keys](/2linux.md#ssh-key)
-2. [nohub, screen or tmux](/2linux.md#nohup)
+1. [ssh](../part-i-basic-skills/1.setup/instruction.md#ssh) and [ssh keys](../part-i-basic-skills/2.linux/#ssh-key)
+2. [nohub, screen or tmux](../part-i-basic-skills/2.linux/#nohup)
 
 > **More Reading**
 >
@@ -18,8 +16,6 @@ Case Study
 ## 2\) Let's start a real case
 
 ### -- identify novel exRNA biomarkers for cancer diagnosis
-
----
 
 Outline:  
 1. **Mapping, Annotation **and** QC**  
@@ -37,14 +33,14 @@ Outline:
 
 #### b\) Understand your data
 
-##### Type of RNA-seq {#rnaseq}
+**Type of RNA-seq**
 
 * **Default:** \(whole cell poly-A\) RNA-seq  \(&gt;200nt\)
 * **Other types:**
   * small RNA-seq  \(&lt;50nt\)
   * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
   * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
-* [**Different cell localizations**](/6control.md#local)**:**
+* [**Different cell localizations**](6.control-data.md#local)**:**
   * nuc. \(total\) 
   * chromosome \(total\) 
   * cyto. \(poly-A\) 
@@ -75,7 +71,7 @@ Outline:
 
 **Shared dirs/data:**
 
-```
+```text
 cd  #go to my home
 ln -s /BioII/lulab_b/shared/genomes  .   #shared reference genome sequeunces and annotations
 ln -s /BioII/lulab_b/shared/shared_scripts  .  #shared scripts in Lu Lab

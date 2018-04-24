@@ -1,13 +1,11 @@
-# Training Program @ Lu Lab
+# INTRODUCTION
 
 3-month training of bioinformatics for Precision Medicine
 
 * Time:   每周四下午4-6pm （3.15.开始第一次）\([calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)\)
 * Class：生物技术馆一层2-105会议室 \([map](http://bioinfo.life.tsinghua.edu.cn/map)\)
 
-### Program Summary
-
----
+## Program Summary
 
 * Topic: \[精准医疗\] **Identify novel exRNA biomarker for cancer diagnosis**;
 * Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)和[清华学堂班](http://xuetangban.life.tsinghua.edu.cn/)的部分本科生和低年级研究生;
@@ -15,9 +13,7 @@
 * Time:  ~3个月;
 * Design: 从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
 
-### Teaching Philosophy
-
----
+## Teaching Philosophy
 
 我们相信，要成为一个专业人才，不论是医生、律师，还是生物信息工作者，都是通过两种方式的结合：
 
@@ -27,11 +23,9 @@
 
 * **知行合一**
 
-### Schedule - 2018 Spring:
+## Schedule - 2018 Spring:
 
----
-
-#### I. Basic Skills  -- Week 1-3
+### I. Basic Skills  -- Week 1-3
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
@@ -39,7 +33,7 @@
 4. **R** - How to make professional and beautiful plots
 5. **Perl/Python **- How to program for bioinformatics
 
-#### II. Basic Bioinfo Analyses  -- Week 4-9
+### II. Basic Bioinfo Analyses  -- Week 4-9
 
 1. **Mapping, Annotation **and** QC**
 2. **Differential Expression Analysis**
@@ -48,30 +42,22 @@
 5. **Imputation**
 6. **Control Data**
 
-#### III. Advanced Bioinfo Analyses  -- Week 10-12
+### III. Advanced Bioinfo Analyses  -- Week 10-12
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
 
-### 
-
-### Learning Materials
-
----
+## Learning Materials
 
 1. 教学讲义\(gitbook\)：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
 2. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
 3. 教学PPT等：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
-
 4. 学员上传和共享路径：
-
    * [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
    * [共享github](https://lulab.github.io/training/)：  shared code and documents
    * 上传目录：     上传其他类型的文件 \(link by request\)
 
-### Virtual Machines
-
----
+## Virtual Machines
 
 **VirtualBox:**
 
@@ -81,9 +67,7 @@ We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://p
 
 We will also provide a Linux docker, which is a modern solution of setting up a virtual Linux OS.
 
-### Contributors
-
----
+## Contributors
 
 | Contributors | Contact | Github |
 | --- | --- | --- |
@@ -93,9 +77,7 @@ We will also provide a Linux docker, which is a modern solution of setting up a 
 | Siqi Wang |  |  |
 | Jingyi Cao |  | - |
 
-### Join Us
-
----
+## Join Us
 
 任何问题都欢迎直接联系我们:
 
@@ -108,9 +90,7 @@ We will also provide a Linux docker, which is a modern solution of setting up a 
 * 编程: [http://github.com/lulab](http://github.com/lulab)
 * 软件: [http://software.ncrnalab.org](http://software.ncrnalab.org/)
 
-### Copyright
-
----
+## Copyright
 
 本作品采用 Apache License 2.0 国际许可协议 进行许可. 传播此文档时请注意遵循以上许可协议. 关于本许可证的更多详情可参考 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 

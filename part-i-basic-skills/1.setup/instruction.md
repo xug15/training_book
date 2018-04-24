@@ -1,20 +1,14 @@
-# 1. Setup
+# Instruction
 
 How to do our jobs efficiently and reproducibly
 
-### 0\) Get a Laptop or Desktop
-
----
+## 0\) Get a Laptop or Desktop
 
 [mac 使用技巧](https://www.evernote.com/l/ABIaUQq5Y4ZPv53w8iYevcDzHmCNY3AfIhU)
 
-### 
+## 1\) Get a Linux OS
 
-### 1\) Get a Linux OS
-
----
-
-#### 1a\) docker or VM
+### 1a\) docker or VM
 
 ```bash
 ##install and run a centos docker for the first time
@@ -76,7 +70,7 @@ You can also pull and run a ubuntu docker, then install basic software for ubunt
 
 `docker run -it --name=ubuntu -h ubuntu -v /Users/john/Documents/unbuntu/:/mac ubuntu`
 
-```
+```text
 apt-get -qq update
 apt-get -y install vim
 ...
@@ -84,24 +78,20 @@ apt-get -y install vim
 
 More: [https://ygxing.gitbooks.io/docker/content/](https://ygxing.gitbooks.io/docker/content/)
 
-#### 1b\) ssh & login {#ssh}
+### 1b\) ssh & login {#ssh}
 
 * ssh/sftp -p XXX \(default: 22\)
 
-> You can also using the following **SFTP/FTP  clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom:
+> You can also using the following **SFTP/FTP clients** to mount the remote server to the local desktop, so you can edit the scripts with a GUI editor like Atom:
 >
 > * Transmit
 > * Fetch \(education version\)
 
-### 
+## 2\) Learn an Editor
 
-### 2\) Learn an Editor
+### A. **Vim** -- [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
----
-
-#### A. **Vim** -- [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-
-We also have [a brief version in Appendix](/1setup-appendix.md).
+We also have [a brief version in Appendix](appendix.md).
 
 > Learn [vim](http://www.vim.org/) and it will be your last text editor. There isn’t any better text editor that I know of. It is hard to learn, but incredible to use.I suggest you teach yourself Vim in 4 steps:
 >
@@ -110,33 +100,23 @@ We also have [a brief version in Appendix](/1setup-appendix.md).
 > 3. Feel Better, Stronger, Faster
 > 4. Use superpowers of vim
 
-#### B. **Atom -- **[Tutorial and Tips ](https://www.evernote.com/l/ABJeb9FdBc1BC6AZSgWh4Ujc_StdcFYl-kw)
+### B. **Atom -- **[Tutorial and Tips ](https://www.evernote.com/l/ABJeb9FdBc1BC6AZSgWh4Ujc_StdcFYl-kw)
 
 > A hackable text editor for the 21st century
 
-### 
-
-### 3\) README and MD
-
----
+## 3\) README and MD
 
 Document your project using markdown language \(available in wiki, gitbook, github, etc\)
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### 4\)  Always Backup Data Files Regularly
-
----
+## 4\)  Always Backup Data Files Regularly
 
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
 **It's necessary to backup data regularly. **
 
-## 
-
-### 5\) 更多阅读和练习
-
----
+## 5\) 更多阅读和练习
 
 * [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 0. Setup Part I，1.Setup Part II
 * **for Beginners  **
@@ -151,6 +131,4 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 > 1\) How to Learn Bioinformatics  
 > 2\) Setting up and Managing a Bioinformatics Projects
-
-
 
