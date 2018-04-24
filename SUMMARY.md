@@ -1,6 +1,5 @@
 # Table of contents
 
-* [INTRODUCTION](README.md)
 * [Getting Startted](getting-startted.md)
 
 ## PART I Basic Skills
