@@ -19,10 +19,13 @@
    * [共享github](https://lulab.github.io/training)：  shared code and documents
    * 上传目录：     上传其他类型的文件 \(link by request\)
 
-
 ## Schedule - 2018 Spring:
 
-### I. Basic Skills  -- Week 1-3
+{% hint style="info" %}
+从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
+{% endhint %}
+
+### I. Basic Skills  -- Week 1-4
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
@@ -30,21 +33,20 @@
 4. **R** - How to make professional and beautiful plots
 5. **Perl/Python **- How to program for bioinformatics
 
-### II. Basic Bioinfo Analyses  -- Week 4-9
+### II. Basic Bioinfo Analyses  -- Week 5-10
 
 1. **Mapping, Annotation **and** QC**
-2. **Differential Expression Analysis**
-3. **Clustering **- Visualize the data
-4. **Normalization** 
+2. **Expression Matrix**
+3. **Differential Expression Analysis**
+4. **Clustering and Normalization** 
 5. **Imputation**
 6. **Control Data**
+7. **Extension: **motif and RBP binding
 
-### III. Advanced Bioinfo Analyses  -- Week 10-12
+### III. Advanced Bioinfo Analyses  -- Week 11-12
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
-
-
 
 ## Virtual Machines
 

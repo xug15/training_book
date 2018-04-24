@@ -1,7 +1,3 @@
----
-description: Bioinfo Training Program -- Lu Lab @ Tsinghua University
----
-
 # Getting Startted
 
 ## INTRODUCTION

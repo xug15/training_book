@@ -1,7 +1,3 @@
----
-description: PART I
----
-
 # Introduction of PART I
 
 ## 写在前面的话
