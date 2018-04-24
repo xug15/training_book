@@ -65,7 +65,9 @@ wget http://www.ncrnalab.org/lulab/public/1.gtf.gz
 
 2） 下载方法2： yeast基因组注释文件可以从浏览器下载：
 
-[Download link](https://github.com/lulab/training/blob/master/assets/files/Saccharomyces_cerevisiae.R64-1-1.77.gtf.gz)
+[Download link1](https://github.com/lulab/training_book/blob/master/.gitbook/files/Saccharomyces_cerevisiae.R64-1-1.77.gtf.gz)
+
+[Download link](https://www.jianguoyun.com/p/DVKrG8QQ0NLuBRjJz0Y)2
 
 
 
