@@ -1,18 +1,5 @@
 # INTRODUCTION
 
-3-month training of bioinformatics for Precision Medicine
-
-* Time:   每周四下午4-6pm （3.15.开始第一次）\([calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)\)
-* Class：生物技术馆一层2-105会议室 \([map](http://bioinfo.life.tsinghua.edu.cn/map)\)
-
-## Program Summary
-
-* Topic: \[精准医疗\] **Identify novel exRNA biomarker for cancer diagnosis**;
-* Target: [我们实验室](http://bioinfo.life.tsinghua.edu.cn)和[清华学堂班](http://xuetangban.life.tsinghua.edu.cn/)的部分本科生和低年级研究生;
-* Students: 10-15人;
-* Time:  ~3个月;
-* Design: 从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
-
 ## Teaching Philosophy
 
 我们相信，要成为一个专业人才，不论是医生、律师，还是生物信息工作者，都是通过两种方式的结合：
@@ -22,6 +9,16 @@
 这个理念将贯穿我们的这个training program。这个理念，用中国的哲学思想来说，就是：
 
 * **知行合一**
+
+## Learning Materials
+
+1. 教学讲义\(gitbook\)：[https://lulab.gitbook.io/training](https://lulab.gitbook.io/training)
+2. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
+3. 教学PPT等：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
+4. 学员路径：
+   * [共享github](https://lulab.github.io/training)：  shared code and documents
+   * 上传目录：     上传其他类型的文件 \(link by request\)
+
 
 ## Schedule - 2018 Spring:
 
@@ -47,15 +44,7 @@
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
 
-## Learning Materials
 
-1. 教学讲义\(gitbook\)：[https://www.gitbook.com/book/lulab/bioinfo-training](https://www.gitbook.com/book/lulab/bioinfo-training)
-2. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
-3. 教学PPT等：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
-4. 学员上传和共享路径：
-   * [Weekly Tasks](https://www.evernote.com/l/ABLx7HO9EENIWo3yr8mpimxyiezYWxVm8HI)
-   * [共享github](https://lulab.github.io/training/)：  shared code and documents
-   * 上传目录：     上传其他类型的文件 \(link by request\)
 
 ## Virtual Machines
 
