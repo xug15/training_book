@@ -77,7 +77,7 @@ We will also provide a Linux docker, which is a modern solution of setting up a 
 * 电话: 010-6278-9217
 * 电子邮箱: lulab AT biomed.tsinghua.edu.cn
 * 主页: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn/)
-* 著作: [http://](http://www.gitbook.com/@lulab)[www.gitbooks.com/@lulab](http://www.gitbooks.com/@lulab)
+* 著作: [http://lulab.gitbooks.com](http://lulab.gitbooks.com)
 * 编程: [http://github.com/lulab](http://github.com/lulab)
 * 软件: [http://software.ncrnalab.org](http://software.ncrnalab.org/)
 
