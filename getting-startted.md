@@ -5,7 +5,7 @@
 1. 教学讲义\(gitbook\)：[https://lulab.gitbook.io/training](https://lulab.gitbook.io/training)
    * 补充讲义：[https://youngleebbs.gitbook.io/bioinfo-training](https://youngleebbs.gitbook.io/bioinfo-training)
 2. 教学视频：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
-   * 清华云：[https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3](https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3/)
+   * 清华云：[https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3](https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3/)/
 3. 教学PPT等：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. 学员路径：
    * [共享github](https://lulab.github.io/training)：  shared code and documents
