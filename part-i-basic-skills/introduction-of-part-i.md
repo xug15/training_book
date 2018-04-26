@@ -135,5 +135,7 @@
 * [Learning Python the Hard Way](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details) 中文版
 * [Quick R](https://www.statmethods.net/)
 
-### [Quick Reference Cards](https://www.evernote.com/l/ABLO3lphLYZAy4wuUujc61reY3BUEXKol_0)
+### [Quick Reference Cards](https://github.com/lulab/training/tree/master/assets/training_book/refcards)
+
+
 

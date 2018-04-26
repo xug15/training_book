@@ -4,8 +4,8 @@ Case Study
 
 ## 1\) Work with a computing server remotely {#1}
 
-1. [ssh](../part-i-basic-skills/1.setup/instruction.md#ssh) and [ssh keys](../part-i-basic-skills/2.linux/#ssh-key)
-2. [nohub, screen or tmux](../part-i-basic-skills/2.linux/#nohup)
+1. [ssh](../part-i-basic-skills/2.linux/instruction.md#4-setup-ssh-key) and [ssh keys](../part-i-basic-skills/2.linux/#4-setup-ssh-key)
+2. [nohub, screen or tmux](../part-i-basic-skills/2.linux/#2-nohup-screen-and-qsub)
 
 > **More Reading**
 >
