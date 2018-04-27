@@ -21,16 +21,13 @@ description: Bioinfo Training -- Lu Lab
 
 ## Join Us
 
-任何问题都欢迎直接联系我们:
-
-* 鲁 志  实验室
-* 地址: 清华大学 生命科学学院
-* 电话: 010-6278-9217
-* 电子邮箱: lulab AT biomed.tsinghua.edu.cn
-* 主页: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn/)
-* 著作: [http://lulab.gitbooks.io](http://lulab.gitbooks.io) 
-* 编程: [http://github.com/lulab](http://github.com/lulab)
-* 软件: [http://software.ncrnalab.org](http://software.ncrnalab.org/)
+* Lu Lab 鲁 志 实验室
+* School of Life Sciences, Tsinghua University, Beijing, China
+* e-mai: lulab AT biomed.tsinghua.edu.cn
+* Hompage: http://bioinfo.life.tsinghua.edu.cn
+* Github: http://lulab.github.io
+* Books: http://lulab.gitbooks.io
+* Software: http://software.ncrnalab.org
 
 ## Copyright
 
