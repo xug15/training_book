@@ -2,7 +2,7 @@
 description: Bioinfo Training @ Lu Lab
 ---
 
-# Introduction
+# Bioinfo Training Tutorial
 
 ## Teaching Philosophy
 

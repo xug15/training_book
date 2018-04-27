@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Bioinfo Training Tutorial](README.md)
 * [Getting Startted](getting-startted.md)
 
 ## PART I Basic Skills
