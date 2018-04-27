@@ -6,13 +6,8 @@ description: Bioinfo Training -- Lu Lab
 
 ## Teaching Philosophy
 
-我们相信，要成为一个专业人才，不论是医生、律师，还是生物信息工作者，都是通过两种方式的结合：
-
-* **Study and Practice**
-
-这个理念将贯穿我们的这个training program。这个理念，用中国的哲学思想来说，就是：
-
-* **知行合一**
+* Study and Practice
+* 知行合一
 
 ## Contributors
 
