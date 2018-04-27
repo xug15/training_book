@@ -6,18 +6,19 @@ description: Bioinfo Training -- Lu Lab
 
 ## Teaching Philosophy
 
-* Study and Practice
-* 知行合一
+{% hint style="info" %}
+**Study and Practice   知行合一**
+{% endhint %}
 
 ## Contributors
 
 | Contributors | Contact | Github |
 | --- | --- | --- |
 | Zhi J. Lu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | [http://github.com/lulab](http://github.com/lulab) |
-| Yang Li |  |  |
-| Binbin Shi |  |  |
-| Siqi Wang |  |  |
-| Jingyi Cao |  | - |
+| Yang Li | http://bioinfo.life.tsinghua.edu.cn | - |
+| Binbin Shi | http://bioinfo.life.tsinghua.edu.cn | - |
+| Siqi Wang | http://bioinfo.life.tsinghua.edu.cn | - |
+| Jingyi Cao | http://bioinfo.life.tsinghua.edu.cn | - |
 
 ## Join Us
 
@@ -31,5 +32,5 @@ description: Bioinfo Training -- Lu Lab
 
 ## Copyright
 
-本作品采用 Apache License 2.0 国际许可协议 进行许可. 传播此文档时请注意遵循以上许可协议. 关于本许可证的更多详情可参考 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
