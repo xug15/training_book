@@ -40,9 +40,9 @@
 
 ## Virtual Machines
 
-**VirtualBox:**
+✨ **VirtualBox:**
 
-We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
+:sparkle: We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
 
 **Docker:**
 
