@@ -246,7 +246,7 @@ ps -edalf | grep username
 kill -9 PID
 ```
 
-## 3\) 更多阅读和练习
+## 3\) More Readings and Practices
 
 * [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 2. Linux
 * **for Beginners **

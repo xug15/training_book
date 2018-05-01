@@ -116,7 +116,7 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 **It's necessary to backup data regularly. **
 
-## 5\) 更多阅读和练习
+## 5\) More Readings and Practices
 
 * [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 0. Setup Part I，1.Setup Part II
 * **for Beginners  **
