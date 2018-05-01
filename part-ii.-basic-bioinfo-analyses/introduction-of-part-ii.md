@@ -1,6 +1,8 @@
-# Introduction of PART II
+---
+description: A case student about exRNA-seq analysis
+---
 
-Case Study
+# Introduction of PART II
 
 ## 1\) Work with a computing server remotely {#1}
 
@@ -15,23 +17,26 @@ Case Study
 
 ## 2\) Let's start a real case
 
-### -- identify novel exRNA biomarkers for cancer diagnosis
+**identify novel exRNA biomarkers for cancer diagnosis**
 
-Outline:  
-1. **Mapping, Annotation **and** QC**  
-2. **Differential Expression Analysis**  
-3. **Clustering **- Visualize the data  
-4. **Normalization**  
-5. **Imputation**  
-6. **Control Data**  
-7. **Extension**
+### Outline:
 
-#### a\) Background Introduction
+1. Basics
+   1. **Pre-processing**, **Mapping, Annotation** and **QC**. 
+   2. **Expression Matrix**
+   3. **Differential Expression Analysis and Clustering**
+2. Advanced
+   1. **Normalization**
+   2. **Imputation**
+   3. **Control Data**
+   4. **Extension**
+
+### a\) Background Introduction
 
 * [PPT](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY): II. Basic Bioinfo Analyses/0. Introduction of exRNA-seq.pdf \(view on-line only, not downloadable\)
 * [Teaching Video](http://list.youku.com/albumlist/show/id_51618375.html): Week V - Part II. 0. Intr to exRNA-seq.mov
 
-#### b\) Understand your data
+### b\) Understand your data
 
 **Type of RNA-seq**
 
@@ -58,7 +63,7 @@ Outline:
 * Poly-A enriched or total \(ribosome removed\) ?
 * Cellular localization ?
 
-#### c\) Organize your data
+### c\) Organize your data
 
 [**Data format**](https://genome.ucsc.edu/FAQ/FAQformat.html)**:**
 
@@ -97,7 +102,7 @@ alias mkpr="mkdir -p {data/mapped,scripts,analysis}"  # you can put this in your
 mkpr
 ```
 
-#### d\) Get the software ready
+### d\) Get the software ready
 
 [Install bioinformatics software in Linux \(centos\)](https://github.com/lulab/training/wiki/cnode)
 
