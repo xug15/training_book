@@ -19,7 +19,7 @@ description: A case student about exRNA-seq analysis
 
 **identify novel exRNA biomarkers for cancer diagnosis**
 
-### Outline:
+### Outline of PART II:
 
 1. Basics
    1. **Pre-processing**, **Mapping, Annotation** and **QC**. 
