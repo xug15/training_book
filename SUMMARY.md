@@ -21,7 +21,7 @@
 ## PART II. Basic Bioinfo Analyses
 
 * [Introduction of PART II](part-ii.-basic-bioinfo-analyses/introduction-of-part-ii.md)
-* [1.Mapping Annotation QC](part-ii.-basic-bioinfo-analyses/1.mapping-annotation-qc.md)
+* [1.Mapping, Annotation and QC](part-ii.-basic-bioinfo-analyses/1.mapping-annotation-qc.md)
 * [2.Expression Matrix](part-ii.-basic-bioinfo-analyses/2.expression-matrix.md)
 * [3.Differential Expression & Clustering](part-ii.-basic-bioinfo-analyses/3.differential-expression-and-clustering.md)
 * [Midterm Conclusion](part-ii.-basic-bioinfo-analyses/midterm-conclusion.md)
