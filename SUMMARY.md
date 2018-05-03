@@ -16,6 +16,7 @@
 * [3.Bash and Github](part-i-basic-skills/3.bash-and-github.md)
 * [4.R](part-i-basic-skills/4.r.md)
 * [5.Python or Perl](part-i-basic-skills/5.python-or-perl.md)
+* [Conclusion of PART I](part-i-basic-skills/conclusion-of-part-i.md)
 
 ## PART II. Basic Bioinfo Analyses
 
