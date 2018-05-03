@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Take-home Messages**
 
 PART I 的基本技能和技巧是一个好的生物信息分析工作的基础和基石，不同于照搬一个或几个pipelines，学会并练习这些好的编程习惯和技能，将会给你将来的工作和研究带来更大的自由。

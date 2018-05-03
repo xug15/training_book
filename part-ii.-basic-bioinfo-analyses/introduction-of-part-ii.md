@@ -4,6 +4,12 @@ description: A case student about exRNA-seq analysis
 
 # Introduction of PART II
 
+{% hint style="info" %}
+**写在前面的话**
+
+我们将通过实际的例子，也就是Case Study，来进行生物信息分析的教学和训练。这样的学习更加有目的性，也更加有趣，但是不足的地方是教学的内容会不够完备。
+{% endhint %}
+
 ## 1\) Work with a computing server remotely {#1}
 
 1. [ssh](../part-i-basic-skills/2.linux/instruction.md#4-setup-ssh-key) and [ssh keys](../part-i-basic-skills/2.linux/#4-setup-ssh-key)
@@ -17,9 +23,11 @@ description: A case student about exRNA-seq analysis
 
 ## 2\) Let's start a real case
 
-**identify novel exRNA biomarkers for cancer diagnosis**
+{% hint style="info" %}
+**Identify novel exRNA biomarkers for cancer diagnosis**
+{% endhint %}
 
-### Outline of PART II:
+### Outline:
 
 1. Basics
    1. **Pre-processing**, **Mapping, Annotation** and **QC**. 

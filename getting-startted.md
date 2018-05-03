@@ -5,7 +5,7 @@
 1. Tutorial \(gitbook\)：[https://lulab.gitbook.io/training](https://lulab.gitbook.io/training)
    * Additional Tutorial：[https://youngleebbs.gitbook.io/bioinfo-training](https://youngleebbs.gitbook.io/bioinfo-training)
 2. Teaching Videos：[http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
-   * @Tsinghua Cloud: [https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3](https://cloud.tsinghua.edu.cn/d/5c26c6608b7d4d42bbe3/)/
+   * @Tsinghua Cloud: [https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/)
 3. Teaching PPT etc：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. For students: [github](https://lulab.github.io/training) （shared code and documents）
 
