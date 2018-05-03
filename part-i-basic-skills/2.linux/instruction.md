@@ -248,7 +248,7 @@ kill -9 PID
 
 ## 3\) More Readings and Practices
 
-* [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 2. Linux
+* [**Teaching Video**](../../getting-startted.md#learning-materials)：Week I. 2. Linux
 * **for Beginners **
   * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
   * 《“笨办法”学python》附录“命令行快速入门”  
