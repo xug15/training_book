@@ -23,6 +23,7 @@
 * [1.Mapping Annotation QC](part-ii.-basic-bioinfo-analyses/1.mapping-annotation-qc.md)
 * [2.Expression Matrix](part-ii.-basic-bioinfo-analyses/2.expression-matrix.md)
 * [3.Differential Expression & Clustering](part-ii.-basic-bioinfo-analyses/3.differential-expression-and-clustering.md)
+* [Midterm Conclusion](part-ii.-basic-bioinfo-analyses/midterm-conclusion.md)
 * [4.Normalization](part-ii.-basic-bioinfo-analyses/4.normalization.md)
 * [5.Imputation](part-ii.-basic-bioinfo-analyses/5.imputation.md)
 * [6.Control Data](part-ii.-basic-bioinfo-analyses/6.control-data.md)
