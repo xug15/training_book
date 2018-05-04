@@ -3,10 +3,10 @@
 ## Learning Materials
 
 1. Tutorial \(gitbook\)：[https://lulab.gitbook.io/training](https://lulab.gitbook.io/training)
-   * Additional Tutorial：[https://youngleebbs.gitbook.io/bioinfo-training](https://youngleebbs.gitbook.io/bioinfo-training)
-2. Teaching Videos：[https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/)
-   * @youku: [http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
-3. Teaching PPT：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
+   * **Additional Tutorial**：[https://youngleebbs.gitbook.io/bioinfo-training](https://youngleebbs.gitbook.io/bioinfo-training)
+2. Teaching **Videos**：[https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/)
+   * Youku Link: [http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
+3. Teaching** PPT**：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. For students: [github](https://lulab.github.io/training) （shared code and documents）
 
 ## Schedule - 2018 Spring:
