@@ -15,7 +15,7 @@
 从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
 {% endhint %}
 
-### I. Basic Skills  -- Week 1-4
+**I. Basic Skills  -- Week 1-4**
 
 1. **Setup **- How to do  jobs efficiently and reproducibly 
 2. **Linux **- How to work with command lines
@@ -23,7 +23,7 @@
 4. **R** - How to make professional and beautiful plots
 5. **Perl/Python **- How to program for bioinformatics
 
-### II. Basic Bioinfo Analyses  -- Week 5-10
+**II. Basic Bioinfo Analyses  -- Week 5-10**
 
 1. **Mapping, Annotation **and** QC**
 2. **Expression Matrix**
@@ -33,7 +33,7 @@
 6. **Control Data**
 7. **Extension: **motif and RBP binding
 
-### III. Advanced Bioinfo Analyses  -- Week 11-12
+**III. Advanced Bioinfo Analyses  -- Week 11-12**
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
@@ -42,9 +42,9 @@
 
 ✨ **VirtualBox:**
 
-:sparkle: We provide a Linux virtural machine \([https://pan.baidu.com/s/1ETkey](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with **VirtualBox** in Windows or Mac.
+We provide a Linux virtual machine \(Download links: [TsinghuaCloud](https://cloud.tsinghua.edu.cn/d/08cb34ba57cf44b8aea9/) or [BaiduYun](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads) in Windows or Mac.
 
 **Docker:**
 
-We will also provide a Linux docker, which is a modern solution of setting up a virtual Linux OS.
+We would also provide a Linux docker, which is a modern solution of setting up a virtual Linux OS.
 
