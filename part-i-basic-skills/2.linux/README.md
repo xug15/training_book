@@ -249,7 +249,7 @@ kill -9 PID
 ## 3\) More Readings and Practices
 
 * [**相关教学视频**](http://list.youku.com/albumlist/show/id_51618375.html)：Week I. 2. Linux
-* **for Beginners **
+* **for Beginners** 
   * 阅读和练习《鸟哥的Linux私房菜-基础学习篇》如下章节:
   * 《“笨办法”学python》附录“命令行快速入门”  
 
@@ -283,7 +283,7 @@ kill -9 PID
 > 第12章 正则表达式与文件格式化处理  
 > 第13章 学习shell script
 
-* **for Advanced Readers **
+* **for Advanced Readers** 
 
 《Bioinformatics Data Skills》
 

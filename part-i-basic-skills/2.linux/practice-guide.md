@@ -44,8 +44,8 @@ chmod 修改文件的访问权限
 
 **1.1 了解gff和gtf文件格式**
 
-[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)_    
-_
+[Reference link](http://www.genome.ucsc.edu/FAQ/FAQformat.html) ：[http://www.genome.ucsc.edu/FAQ/FAQformat.html](http://www.genome.ucsc.edu/FAQ/FAQformat.html)    
+__
 
 **1.2 下载yeast的基因组注释文件**
 
@@ -91,7 +91,7 @@ cp /home/cs/Bioinfo_Lab/0.Linux/*.gtf.gz  .
 gunzip *.gtf.gz
 ```
 
-> ** Tips **
+> **Tips** 
 >
 > **1\) 命令cp、文件“./\*.gtf.gz”、目录“my\_folder/”之间均存在空格。**
 >

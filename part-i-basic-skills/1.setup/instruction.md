@@ -100,7 +100,7 @@ We also have [a brief version in Appendix](appendix.md).
 > 3. Feel Better, Stronger, Faster
 > 4. Use superpowers of vim
 
-### B. **Atom -- **[Tutorial and Tips ](https://www.evernote.com/l/ABJeb9FdBc1BC6AZSgWh4Ujc_StdcFYl-kw)
+### B. **Atom --** [Tutorial and Tips ](https://www.evernote.com/l/ABJeb9FdBc1BC6AZSgWh4Ujc_StdcFYl-kw)
 
 > A hackable text editor for the 21st century
 
@@ -114,20 +114,20 @@ Document your project using markdown language \(available in wiki, gitbook, gith
 
 > [Tips on 备份数据、保存中间数据 \| 数据安全](https://www.evernote.com/l/ABLaXPPQIg1FM5Kgl1AoLqLj67CR1Cv44ws)
 
-**It's necessary to backup data regularly. **
+**It's necessary to backup data regularly.** 
 
 ## 5\) More Readings and Practices
 
 * [**Teaching Videos**](../../getting-startted.md#learning-materials)：
   * Week I.0.Setup Part I，
   * Week I.1.Setup Part II
-* **for Beginners  **
+* **for Beginners**  
 
 &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
 > 1\) How to Learn Bioinformatics
 
-* **for Advanced Readers **
+* **for Advanced Readers** 
 
 &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
