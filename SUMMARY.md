@@ -8,7 +8,6 @@
 * [Introduction of PART I](part-i-basic-skills/introduction-of-part-i.md)
 * [1.Setup](part-i-basic-skills/1.setup/README.md)
   * [Instruction](part-i-basic-skills/1.setup/instruction.md)
-  * [Appendix](part-i-basic-skills/1.setup/appendix.md)
 * [2.Linux](part-i-basic-skills/2.linux/README.md)
   * [Instruction](part-i-basic-skills/2.linux/instruction.md)
 * [3.Bash and Github](part-i-basic-skills/3.bash-and-github.md)
