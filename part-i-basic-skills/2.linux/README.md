@@ -291,7 +291,7 @@ kill -9 PID
 
 ## 4\) Homework
 
-1. 练习 “[Linux上机教程](practice-guide.md)”
+1. 练习 “[Linux上机教程]()”
 2. 解释gtf/gff文件中第4、5列（$4,$5\)代表什么，exon长度应该是$5-$4+1还是$5-$4
 3. 从gtf/gff文件中寻找3个最长的exon：
 

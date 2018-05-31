@@ -11,8 +11,6 @@
   * [Appendix](part-i-basic-skills/1.setup/appendix.md)
 * [2.Linux](part-i-basic-skills/2.linux/README.md)
   * [Instruction](part-i-basic-skills/2.linux/instruction.md)
-  * [Practice Guide](part-i-basic-skills/2.linux/practice-guide.md)
-  * [Appendix](part-i-basic-skills/2.linux/appendix.md)
 * [3.Bash and Github](part-i-basic-skills/3.bash-and-github.md)
 * [4.R](part-i-basic-skills/4.r.md)
 * [5.Python or Perl](part-i-basic-skills/5.python-or-perl.md)
