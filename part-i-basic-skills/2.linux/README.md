@@ -291,13 +291,14 @@ kill -9 PID
 
 ## 4\) Homework
 
-1. 练习 “[Linux上机教程]()”
-2. 解释gtf/gff文件中第4、5列（$4,$5\)代表什么，exon长度应该是$5-$4+1还是$5-$4
-3. 从gtf/gff文件中寻找3个最长的exon：
+1. 解释gtf/gff文件中第4、5列（$4,$5\)代表什么，exon长度应该是$5-$4+1还是$5-$4
+2. 从gtf/gff文件中寻找3个最长的exon：
 
    `grep exon *.gtf | awk '{print $5-$4+1}' | sort -n | tail -3`这个方法有什么bug？
 
    有新的方法加分，但必须注释清楚每个语句和参数的意义和结果。  
 
-4. 从gtf/gff文件中寻找并计算每一个transcript的长度，注意不能重复计算，不能包含intron。
+3. 从gtf/gff文件中寻找并计算每一个transcript的长度，注意不能重复计算，不能包含intron。
+
+
 
