@@ -9,7 +9,7 @@
 2. wikipedia
 {% endhint %}
 
-## **Week 1-3  Aim: these basic data skills give you freedom.**
+## **Aim: these basic data skills give you freedom.**
 
 > * Running bioinformatics software isn’t all that difficult, doesn’t take much skill, and it doesn’t embody any of the significant challenges of bioinformatics.…**These data skills give you freedom**…
 > * I believe these two qualities — **reproducibility** and **robustness.**
@@ -24,7 +24,7 @@
 >
 > -- &lt;&lt;Bioinformatics Data Skills&gt;&gt;
 
-## Week 1
+## Step 1
 
 ### 学习内容：
 
@@ -95,7 +95,7 @@
 > 25.5重点回顾
 > ```
 
-## Week 2
+## Step 2
 
 ### 学习内容：
 
@@ -118,7 +118,7 @@
 > Statistics  
 > `Descriptive Statistics`
 
-## Week 3
+## Step 3
 
 ### 学习内容：
 
