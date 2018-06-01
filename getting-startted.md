@@ -1,7 +1,7 @@
 # Getting Startted
 
 {% hint style="info" %}
-**【目标】**从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
+**【目标】**从零基础开始，从Linux入门直到基本机器学习方法的熟练掌握。
 {% endhint %}
 
 ## Learning Materials
