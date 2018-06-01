@@ -1,5 +1,9 @@
 # Getting Startted
 
+{% hint style="info" %}
+**【目标】**从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
+{% endhint %}
+
 ## Learning Materials
 
 1. Tutorial \(gitbook\)：[https://lulab.gitbook.io/training](https://lulab.gitbook.io/training)
@@ -9,13 +13,9 @@
 3. Teaching **PPT**：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. For students: [github](https://lulab.github.io/training) （shared code and documents）
 
-## Schedule - 2018 Spring:
+## Table of Content
 
-{% hint style="info" %}
-从零基础开始，直到基本机器学习方法，如Feature Selection，的熟练掌握。
-{% endhint %}
-
-**I. Basic Skills  -- Week 1-4**
+**I. Basic Skills** 
 
 1. **Setup** - How to do  jobs efficiently and reproducibly 
 2. **Linux** - How to work with command lines
@@ -23,20 +23,20 @@
 4. **R** - How to make professional and beautiful plots
 5. **Perl/Python** - How to program for bioinformatics
 
-**II. Basic Bioinfo Analyses  -- Week 5-10**
+**II. Basic Bioinfo Analyses**  
 
-1. **Mapping, Annotation** and **QC**
-2. **Expression Matrix**
-3. **Differential Expression Analysis**
-4. **Clustering and Normalization** 
-5. **Imputation**
-6. **Control Data**
-7. **Extension:** motif and RBP binding
+1. Basic: **Mapping, Annotation** and **QC**
+2. Basic: **Expression Matrix**
+3. Basic: **Differential Expression Analysis**
+4. Advanced: **Normalization**
+5. Advanced: **Control Data**
+6. Advnced: **Motif and Structure**
 
-**III. Advanced Bioinfo Analyses  -- Week 11-12**
+**III. Advanced Bioinfo Analyses** 
 
 1. **Machine Learning Basics** - How to train and test?
 2. **Feature Selection**
+3. **Deep Learning Basics**
 
 ## Virtual Machines
 
