@@ -1,5 +1,5 @@
 ---
-description: Bioinfo Training @ Lu Lab
+description: Bioinfo Training -- Lu Lab
 ---
 
 # Bioinfo Training Tutorial

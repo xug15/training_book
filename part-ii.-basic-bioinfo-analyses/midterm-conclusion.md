@@ -1,7 +1,3 @@
----
-description: Midterm for PART II
----
-
 # Midterm Conclusion
 
 ## Conclusion

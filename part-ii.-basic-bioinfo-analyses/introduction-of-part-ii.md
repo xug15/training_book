@@ -1,7 +1,3 @@
----
-description: A case student about exRNA-seq analysis
----
-
 # Introduction of PART II
 
 {% hint style="info" %}
@@ -12,8 +8,8 @@ description: A case student about exRNA-seq analysis
 
 ## 1\) Work with a computing server remotely {#1}
 
-1. [ssh](../part-i-basic-skills/2.linux/instruction.md#4-setup-ssh-key) and [ssh keys](../part-i-basic-skills/2.linux/#4-setup-ssh-key)
-2. [nohub, screen or tmux](../part-i-basic-skills/2.linux/#2-nohup-screen-and-qsub)
+1. [ssh](../part-i-basic-skills/2.linux.md#4-setup-ssh-key) and [ssh keys]()
+2. [nohub, screen or tmux]()
 
 > **More Reading**
 >
