@@ -30,17 +30,17 @@
 3. Basic: **Differential Expression Analysis**
 4. Advanced: **Normalization**
 5. Advanced: **Control Data**
-6. Advnced: **Motif and Structure**
+6. Advanced: **Motif and Structure**
 
 **III. Advanced Bioinfo Analyses** 
 
-1. **Machine Learning Basics** - How to train and test?
-2. **Feature Selection**
-3. **Deep Learning Basics**
+1. **Machine Learning Basics** - How to train and test
+2. **Feature Selection** - How to find meaningful feature
+3. **Deep Learning Basics** - one step to AI
 
 ## Virtual Machines
 
-✨ **VirtualBox:**
+**VirtualBox:**
 
 We provide a Linux virtual machine \(Download links: [TsinghuaCloud](https://cloud.tsinghua.edu.cn/d/08cb34ba57cf44b8aea9/) or [BaiduYun](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads) in Windows or Mac.
 
