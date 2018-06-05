@@ -49,7 +49,7 @@
   * small RNA-seq  \(&lt;50nt\)
   * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
   * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
-* [**Different cell localizations**](6.control-data.md#local)**:**
+* [**Different cell localizations**](5.control-data.md#local)**:**
   * nuc. \(total\) 
   * chromosome \(total\) 
   * cyto. \(poly-A\) 
