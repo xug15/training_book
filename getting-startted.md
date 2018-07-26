@@ -9,7 +9,6 @@
 1. Tutorial 
    * \*\*\*\*[**Basic Tutorial**](https://lulab.gitbooks.io/bioinfo/content/)\*\*\*\*
    * **Advanced Tutorial** \(this one\) \([Additional Tutorial](https://youngleebbs.gitbook.io/bioinfo-training)\)
-   * [**More Self-study Materials**](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)\*\*\*\*
 2. Teaching **Videos**：[https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/)
    * Youku Link: [http://list.youku.com/albumlist/show/id\_51618375.html](http://list.youku.com/albumlist/show/id_51618375.html)
 3. Teaching **PPT**：[https://www.jianguoyun.com/p/DTwA\_GEQ0NLuBRjA9UY](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
