@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bioinfo Training Tutorial](README.md)
+* [Bioinformatics Tutorial - Advanced](README.md)
 * [Getting Startted](getting-startted.md)
 
 ## PART I Basic Skills

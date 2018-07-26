@@ -2,7 +2,7 @@
 description: Bioinfo Training -- Lu Lab
 ---
 
-# Bioinfo Training Tutorial
+# Bioinformatics Tutorial - Advanced
 
 ## Teaching Philosophy
 
