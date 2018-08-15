@@ -13,7 +13,7 @@ description: Bioinfo Training -- Lu Lab
 ## Contributors
 
 | Contributors | Contact | Github |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Zhi J. Lu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | [http://github.com/lulab](http://github.com/lulab) |
 | Yang Li | http://bioinfo.life.tsinghua.edu.cn | - |
 | Binbin Shi | http://bioinfo.life.tsinghua.edu.cn | - |
@@ -27,7 +27,7 @@ description: Bioinfo Training -- Lu Lab
 * e-mai: lulab AT biomed.tsinghua.edu.cn
 * Hompage: http://bioinfo.life.tsinghua.edu.cn
 * Github: http://lulab.github.io
-* Books: http://lulab.gitbooks.io
+* Books: V1: https://lulab.gitbooks.io ;  V2: https://lulab.gitbook.io
 * Software: http://software.ncrnalab.org
 
 ## Copyright
