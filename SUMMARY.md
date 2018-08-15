@@ -31,3 +31,7 @@
 * [2.Feature Selection](part-iii.-advanced-bioinfo-analyses/2.feature-selection.md)
 * [3.Introduction to Deep Learning](part-iii.-advanced-bioinfo-analyses/3.deep-learning-basics.md)
 
+## Appendix
+
+* [Appendix I. More Reading](appendix/appendix-i.-more-reading.md)
+
