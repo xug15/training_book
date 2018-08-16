@@ -4,6 +4,8 @@ description: Bioinfo Training -- Lu Lab
 
 # Bioinformatics Tutorial - Advanced
 
+![](.gitbook/assets/book_logo.png)
+
 ## Teaching Philosophy
 
 {% hint style="info" %}
