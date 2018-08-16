@@ -1,7 +1,8 @@
 # Getting Startted
 
 {% hint style="info" %}
-**【目标】**从零基础开始，从Linux入门直到基本机器学习方法的熟练掌握。
+> **Goal of this advanced tutorial**
+**Be Professional.** 
 {% endhint %}
 
 ## Learning Materials
@@ -43,11 +44,7 @@
 
 ## Virtual Machines
 
-**VirtualBox:**
-
-We provide a Linux virtual machine \(Download links: [TsinghuaCloud](https://cloud.tsinghua.edu.cn/d/08cb34ba57cf44b8aea9/) or [BaiduYun](https://pan.baidu.com/s/1ETkey)\), which has some bioinfo software pre-installed. You can download the file and open it with [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads) in Windows or Mac.
-
 **Docker:**
 
-We would also provide a Linux docker, which is a modern solution of setting up a virtual Linux OS.
+We would provide a Linux docker for our advanced tutorial.
 
