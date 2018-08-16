@@ -30,6 +30,7 @@
 * [1.Machine Learning Basics](part-iii.-advanced-bioinfo-analyses/1.machine-learning-basics.md)
 * [2.Feature Selection](part-iii.-advanced-bioinfo-analyses/2.feature-selection.md)
 * [3.Introduction to Deep Learning](part-iii.-advanced-bioinfo-analyses/3.deep-learning-basics.md)
+* [Quiz & Challenge](part-iii.-advanced-bioinfo-analyses/quiz-and-challenge.md)
 
 ## Appendix
 
