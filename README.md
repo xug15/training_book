@@ -7,7 +7,7 @@ description: Bioinfo Training -- Lu Lab
 ## Teaching Philosophy
 
 {% hint style="info" %}
-**Study and Practice   知行合一**
+**Study and Practice    格物致知 知行合一**
 {% endhint %}
 
 ## Contributors
