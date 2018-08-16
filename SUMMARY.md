@@ -33,5 +33,5 @@
 
 ## Appendix
 
-* [Appendix I. More Reading](appendix/appendix-i.-more-reading.md)
+* [Appendix I. Keep Learning](appendix/appendix-i.-more-reading.md)
 

@@ -1,4 +1,4 @@
-# Appendix I. More Reading
+# Appendix I. Keep Learning
 
 #### 1. Recommended Books and Tutorials {#1-recommended-books-and-tutorials}
 
