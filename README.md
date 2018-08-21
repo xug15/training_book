@@ -2,7 +2,7 @@
 description: Bioinfo Training -- Lu Lab
 ---
 
-# Bioinformatics Tutorial - Advanced
+# Bioinformatics Tutorial - Advanced {#index}
 
 ![](.gitbook/assets/book_logo.png)
 
