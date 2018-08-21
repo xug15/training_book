@@ -10,7 +10,7 @@ Goal of this **Advanced** Tutorial:
 
 1. Tutorial 
    * [**Basic Tutorial**](https://lulab.gitbooks.io/teaching)
-   * **Advanced Tutorial** \(this one\) 
+   * **Advanced Tutorial** \(this one\) \| [Additional Tutorial](https://youngleebbs.gitbook.io/bioinfo-training/)
 2. Teaching [**Videos**](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/) **\(**mirror: ****[Youku Link](http://list.youku.com/albumlist/show/id_51618375.html)\)
 3. Teaching [**PPT**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. \*\*\*\*[**Github**](https://lulab.github.io/training) for students \(shared code and documents）
