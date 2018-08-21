@@ -42,7 +42,5 @@ Goal of this **Advanced** Tutorial:
 
 ## Virtual Machines
 
-**Docker:**
-
-We would provide a Linux docker for our advanced tutorial.
+All code has been tested in cnode @ Lu Lab. We would also provide a Linux **docker** for our advanced tutorial in the future.
 
