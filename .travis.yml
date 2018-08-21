@@ -1,0 +1,9 @@
+language: generic
+git:
+  depth: false
+  submodules: false
+script:
+  - echo hello world!
+
+notifications:
+  email: false
