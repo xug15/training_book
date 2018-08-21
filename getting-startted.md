@@ -1,9 +1,7 @@
 # Getting Startted
 
 {% hint style="info" %}
-Goal of this **Advanced** Tutorial:
-
-**Be Professional**
+Goal of this _Advanced Tutorial_ :  **Be Professional**
 {% endhint %}
 
 ## Learning Materials
