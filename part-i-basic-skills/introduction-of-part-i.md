@@ -9,7 +9,9 @@
 2. wikipedia
 {% endhint %}
 
-## **Aim: these basic data skills give you freedom.**
+## **Aim**
+
+**These basic data skills give you freedom.**
 
 > * Running bioinformatics software isn’t all that difficult, doesn’t take much skill, and it doesn’t embody any of the significant challenges of bioinformatics.…**These data skills give you freedom**…
 > * I believe these two qualities — **reproducibility** and **robustness.**

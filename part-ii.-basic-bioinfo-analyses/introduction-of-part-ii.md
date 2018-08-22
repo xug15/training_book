@@ -6,10 +6,10 @@
 我们将通过实际的例子，也就是Case Study，来进行生物信息分析的教学和训练。这样的学习更加有目的性，也更加有趣，但是不足的地方是教学的内容会不够完备。
 {% endhint %}
 
-## 1\) Work with a computing server remotely {#1}
+## Work with a computing server remotely {#1}
 
-1. [ssh](../part-i-basic-skills/2.linux.md#4-setup-ssh-key) and [ssh keys]()
-2. [nohub, screen or tmux]()
+1. [ssh](../part-i-basic-skills/2.linux.md#4-setup-ssh-key) and ssh keys
+2. nohub, screen or tmux
 
 > **More Reading**
 >
@@ -17,7 +17,7 @@
 >
 > 4\) Working with Remote Machines
 
-## 2\) Let's start a real case
+## Let's start a real case
 
 {% hint style="info" %}
 **Identify novel exRNA biomarkers for cancer diagnosis**
