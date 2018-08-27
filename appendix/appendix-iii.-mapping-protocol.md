@@ -1,6 +1,6 @@
 # Appendix III. Mapping Protocol
 ## Next-Generation Sequencing(NGS)
-\(adapted from https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf\)
+\(adapted from https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf \)
 
 The textbook definition of _Next-Generation Sequencing(NGS)_ is a high-throughput DNA sequencing methodology that makes use of parallelization to process up to half a million sequences concurrently. It is being used to (re)sequence genomes, determine the DNA-binding sites of proteins (ChIP-seq), sequence transcriptomes (RNA-seq). Compared to traditional(Sanger) sequencing, NGS is faster and ~1000x less expensive. 
 
@@ -12,13 +12,7 @@ In principle, the workflows behind NGS technology includes several steps (Figure
 
 ![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
 
-Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
-
 [![YouTube video](http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg)](http://www.youtube.com/watch?v=fCd6B5HRaZ8)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fCd6B5HRaZ8
-" target="_blank"><img src="http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 ## Sequencing type
 * Single-End Sequencing:
