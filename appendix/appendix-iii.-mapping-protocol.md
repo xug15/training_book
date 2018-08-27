@@ -18,7 +18,7 @@ Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fCd6B5HRaZ8
 " target="_blank"><img src="http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 ## Sequencing type
 * Single-End Sequencing:
