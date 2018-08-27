@@ -1,12 +1,30 @@
 # Appendix III. Mapping Protocol
+## Next-Generation Sequencing(NGS)
+\(adapted from https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf\)
 
-## Directional RNA-seq data - which parameters to choose?
+The textbook definition of _Next-Generation Sequencing(NGS)_ is a high-throughput DNA sequencing methodology that makes use of parallelization to process up to half a million sequences concurrently. It is being used to (re)sequence genomes, determine the DNA-binding sites of proteins (ChIP-seq), sequence transcriptomes (RNA-seq). Compared to traditional(Sanger) sequencing, NGS is faster and ~1000x less expensive. 
 
+In principle, the workflows behind NGS technology includes several steps (Figure1):
+* Library Preparation—The sequencing library is prepared by random fragmentation of the DNA or cDNA sample, followed by 5’ and 3’ adaptor ligation.Adapter-ligated fragments are then PCR amplified and gel purified. 
+* Cluster Generation—For cluster generation, the library is loaded on a lawn of surfaces bound with oligos complementary to the library adapters. Each fragment is then amplified into distinct,clonal clusters through bridge amplification. 
+* Sequencing—DNA polymerase catalyzes the incorporation of fluorescently labeled deoxyribonucleotide triphosphates(dNTPs) into a DNA template strand during sequential cycles of DNA synthesis and nucleotide is identified by fluorophore excitation. 
+* Data Analysis
+
+Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
+
+## Sequencing type
+* Single-End Sequencing:
+Single-read sequencing involves sequencing DNA from only one end, and is the simplest way for sequencing (Figure 2). 
+
+* Paired-End Sequencing:
+A major advance in NGS technology occurred with the development of pair-end (PE) sequencing (Figure 2). PE sequencing enables both ends of the DNA fragment to be sequenced. 
+
+## Directional RNA-seq data,which parameters to choose?
 \(adapted from: [https://chipster.csc.ﬁ/manual/library-type-summary.html](https://chipster.csc.ﬁ/manual/library-type-summary.html)\)
 
-Directional RNA-seq methods are gaining popularity. Several protocols and products are available for the library preparation step, and different tools and softwares have different options to take these into account. Since this has caused a lot of confusion due to incoherent parameter naming, we try to clarify this issue a bit here.
+It is often desirable to create libraries that retain the **strand orientation** of the original RNA targets. For example, in some cases transcription creates anti-sense RNA constructs that may play a role in regulating gene expression. In fact, long noncoding RNA (lncRNA) analysis depends on directional RNA sequencing. Methods for preparing directional RNA-seq libraries are now readily available and different tools and softwares have different options to take these into account (Figure 3).
 
-To be able to select the right parameters for your data, ﬁrst you need to know which library prep method was used when generating your data. In general, there are three types of library preps:
+In general, there are three types of library preps:
 
 * un-stranded 
 * "second-strand" = directional, where the ﬁrst read of the read pair \(or in case of single end reads, the only read\) is from the transcript strand 
