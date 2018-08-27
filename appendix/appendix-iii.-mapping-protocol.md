@@ -10,7 +10,10 @@ In principle, the workflows behind NGS technology includes several steps (Figure
 * Sequencing—DNA polymerase catalyzes the incorporation of fluorescently labeled deoxyribonucleotide triphosphates(dNTPs) into a DNA template strand during sequential cycles of DNA synthesis and nucleotide is identified by fluorophore excitation. 
 * Data Analysis
 
-Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
+![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
+
+Reference: [PDF](https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf)
+Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
 ## Sequencing type
 * Single-End Sequencing:
@@ -19,10 +22,14 @@ Single-read sequencing involves sequencing DNA from only one end, and is the sim
 * Paired-End Sequencing:
 A major advance in NGS technology occurred with the development of pair-end (PE) sequencing (Figure 2). PE sequencing enables both ends of the DNA fragment to be sequenced. 
 
+![Figure2. Single and Pair-end sequencing](../.gitbook/assets/mapping_protocol_fig2.png)
+
 ## Directional RNA-seq data,which parameters to choose?
 \(adapted from: [https://chipster.csc.ﬁ/manual/library-type-summary.html](https://chipster.csc.ﬁ/manual/library-type-summary.html)\)
 
 It is often desirable to create libraries that retain the **strand orientation** of the original RNA targets. For example, in some cases transcription creates anti-sense RNA constructs that may play a role in regulating gene expression. In fact, long noncoding RNA (lncRNA) analysis depends on directional RNA sequencing. Methods for preparing directional RNA-seq libraries are now readily available and different tools and softwares have different options to take these into account (Figure 3).
+
+![Figure 3. Strand-specific library construction](../.gitbook/assets/mapping_protocol_fig3.png)
 
 In general, there are three types of library preps:
 
