@@ -16,6 +16,10 @@ Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5
 
 [![YouTube video](http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg)](http://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fCd6B5HRaZ8
+" target="_blank"><img src="http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## Sequencing type
 * Single-End Sequencing:
 Single-read sequencing involves sequencing DNA from only one end, and is the simplest way for sequencing (Figure 2). 
