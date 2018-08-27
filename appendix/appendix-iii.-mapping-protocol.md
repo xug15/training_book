@@ -14,6 +14,8 @@ In principle, the workflows behind NGS technology includes several steps (Figure
 
 Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
+[![YouTube video](http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg)](http://www.youtube.com/watch?v=fCd6B5HRaZ8)
+
 ## Sequencing type
 * Single-End Sequencing:
 Single-read sequencing involves sequencing DNA from only one end, and is the simplest way for sequencing (Figure 2). 
