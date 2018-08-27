@@ -12,7 +12,6 @@ In principle, the workflows behind NGS technology includes several steps (Figure
 
 ![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
 
-Reference: [PDF](https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf)
 Detail information can be referred [here](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
 ## Sequencing type
