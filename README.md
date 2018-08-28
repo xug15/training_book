@@ -1,5 +1,5 @@
 ---
-description: 生物信息学实践教程 - 进阶篇
+description: Bioinfo Training -- Lu Lab
 ---
 
 # Bioinformatics Tutorial - Advanced
@@ -10,6 +10,8 @@ description: 生物信息学实践教程 - 进阶篇
 
 {% hint style="info" %}
 **Study and Practice 格物致知 知行合一**
+
+We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
 {% endhint %}
 
 ## Contributors
