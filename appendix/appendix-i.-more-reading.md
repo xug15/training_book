@@ -20,3 +20,13 @@
 1. Nature Biotech. and PLOS Computational Biology Papers: [html](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html), [evernote](https://www.evernote.com/shard/s18/sh/22ef32b8-893c-4643-b409-39a910175730/e8aa0ed8820d4aecb458ad922f7d46ae)
 2. [Statistics for biologist](http://www.nature.com/collections/qghhqm/) by Nature
 
+#### 4. Recommended Websites/Blogs
+
+1. Learning notes for bioinformatics: [One Tip Per Day](http://onetipperday.sterding.com/)
+
+#### 5. Recommended Tips
+
+1. [How to tell which library type to use ](http://onetipperday.sterding.com/2012/07/how-to-tell-which-library-type-to-use.html)
+
+
+
