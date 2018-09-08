@@ -44,3 +44,10 @@
 
 All code has been tested in cnode @ Lu Lab. We would also provide a Linux **docker** for our advanced tutorial in the future.
 
+## Video
+
+1.  Getting Started introduce training on github
+https://youtu.be/UeyenyNkjWE 
+
+[@youtube](https://youtu.be/c1ldhV7dAhg)
+<iframe width="400" height="300" src="https://www.youtube.com/embed/c1ldhV7dAhg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
